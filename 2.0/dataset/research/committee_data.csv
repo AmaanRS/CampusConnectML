@@ -1,0 +1,5003 @@
+committee_id,no_of_members,no_of_posts,no_of_events,followers,tags
+1,12,28,9,35,science
+2,13,30,11,24,science
+3,15,17,8,27,sports
+4,14,30,18,18,"science, literature"
+5,12,30,18,39,literature
+6,10,25,18,18,"science, literature"
+7,15,12,18,48,"sports, literature"
+8,12,11,5,49,"science, literature"
+9,14,12,19,47,literature
+10,14,13,8,29,"sports, science"
+11,11,12,16,34,sports
+12,11,28,15,26,"sports, science, literature"
+13,15,22,17,25,sports
+14,13,13,16,26,"sports, literature"
+15,14,24,19,17,literature
+16,13,11,11,32,"science, literature"
+17,14,27,11,11,"sports, literature"
+18,13,29,16,28,"sports, literature"
+19,14,23,5,33,"sports, science, literature"
+20,13,13,5,48,sports
+21,12,30,20,10,science
+22,13,23,10,37,sports
+23,12,19,8,49,sports
+24,13,29,8,21,sports
+25,14,12,6,37,sports
+26,11,11,6,45,"sports, science"
+27,15,14,20,13,"sports, literature"
+28,10,25,15,24,science
+29,12,28,10,14,sports
+30,14,28,17,22,sports
+31,15,28,15,24,sports
+32,11,16,9,22,science
+33,13,11,8,30,"sports, literature"
+34,12,19,6,39,"science, literature"
+35,12,19,10,26,science
+36,10,13,8,47,"sports, science, literature"
+37,13,16,12,30,literature
+38,15,13,11,21,sports
+39,11,22,11,40,"sports, science, literature"
+40,13,19,5,30,"sports, science"
+41,15,19,9,39,literature
+42,13,22,16,42,science
+43,13,21,17,40,science
+44,14,28,20,48,literature
+45,11,13,18,10,sports
+46,15,18,5,29,"sports, science"
+47,14,15,15,50,science
+48,13,24,9,36,"science, literature"
+49,15,29,5,19,"science, literature"
+50,15,24,9,18,science
+51,10,10,13,44,"science, literature"
+52,13,22,9,28,"sports, science, literature"
+53,15,27,7,25,"sports, science, literature"
+54,14,18,10,24,sports
+55,11,23,9,22,literature
+56,11,12,11,47,"sports, science"
+57,12,20,13,39,science
+58,11,28,17,37,"sports, science, literature"
+59,11,15,8,10,"science, literature"
+60,11,11,19,31,"sports, literature"
+61,11,15,17,43,"science, literature"
+62,10,29,15,10,science
+63,12,12,5,47,sports
+64,11,10,5,49,"science, literature"
+65,11,17,14,37,"sports, science"
+66,15,30,16,22,science
+67,13,11,9,31,literature
+68,13,18,14,24,science
+69,13,24,8,30,"sports, science"
+70,10,10,20,22,"sports, science"
+71,11,21,5,32,"science, literature"
+72,15,29,19,31,science
+73,15,15,8,20,"sports, science, literature"
+74,11,12,19,12,"science, literature"
+75,10,16,12,42,"science, literature"
+76,15,17,5,21,literature
+77,13,20,5,28,"sports, literature"
+78,11,18,18,24,science
+79,12,25,17,20,science
+80,13,15,13,29,"science, literature"
+81,11,26,5,14,"sports, science, literature"
+82,10,17,6,44,sports
+83,15,30,16,33,"science, literature"
+84,13,11,14,25,"sports, science, literature"
+85,13,11,20,14,science
+86,15,17,15,33,sports
+87,15,16,16,29,science
+88,14,28,8,32,"sports, science, literature"
+89,13,11,10,48,science
+90,10,26,13,28,"science, literature"
+91,14,25,19,45,"science, literature"
+92,12,22,11,47,sports
+93,10,23,14,25,"sports, science"
+94,15,14,16,35,"sports, science"
+95,12,19,6,42,"science, literature"
+96,15,28,8,15,"science, literature"
+97,13,10,6,31,science
+98,13,13,8,19,sports
+99,15,25,10,22,"sports, literature"
+100,14,26,12,48,science
+101,13,15,11,35,"sports, science"
+102,10,14,13,10,science
+103,15,13,20,21,science
+104,10,30,14,18,sports
+105,11,17,12,46,"sports, literature"
+106,12,13,16,32,"sports, science, literature"
+107,11,17,5,44,science
+108,10,13,14,24,"science, literature"
+109,10,21,14,25,sports
+110,10,23,12,50,"sports, literature"
+111,15,20,14,19,science
+112,14,23,5,43,"sports, science"
+113,14,30,14,30,"sports, literature"
+114,15,17,10,23,sports
+115,15,25,10,46,literature
+116,13,30,15,14,science
+117,12,28,11,37,sports
+118,10,13,12,37,literature
+119,12,22,13,34,science
+120,14,10,19,14,"sports, literature"
+121,10,30,17,27,sports
+122,14,22,10,20,"sports, literature"
+123,10,28,12,50,"sports, literature"
+124,11,19,9,23,"sports, science"
+125,14,22,6,41,science
+126,11,12,17,27,sports
+127,14,29,13,23,science
+128,12,27,10,28,"science, literature"
+129,10,24,17,28,"sports, literature"
+130,12,16,17,26,literature
+131,11,17,13,10,"sports, science, literature"
+132,15,20,9,38,literature
+133,11,10,11,24,science
+134,13,29,8,23,science
+135,14,15,20,41,literature
+136,13,14,12,32,"sports, science"
+137,15,17,17,26,literature
+138,12,14,19,22,sports
+139,14,25,10,23,science
+140,12,27,8,46,literature
+141,11,11,17,12,"sports, science, literature"
+142,14,11,6,36,"sports, science"
+143,13,13,6,37,"science, literature"
+144,14,28,9,21,literature
+145,10,24,17,30,"sports, literature"
+146,14,25,17,44,literature
+147,15,16,15,21,"science, literature"
+148,10,16,7,36,"sports, literature"
+149,12,25,7,46,sports
+150,13,14,8,23,literature
+151,11,12,10,18,science
+152,15,14,17,34,literature
+153,10,15,17,36,"science, literature"
+154,15,12,5,30,"sports, science, literature"
+155,12,22,14,12,science
+156,10,14,20,12,"sports, literature"
+157,10,23,18,20,"science, literature"
+158,15,11,18,27,science
+159,15,11,6,27,sports
+160,15,19,11,16,literature
+161,12,15,19,14,science
+162,15,15,19,41,science
+163,11,29,11,44,"sports, science"
+164,14,25,12,36,"sports, literature"
+165,14,18,18,18,science
+166,10,15,15,16,"science, literature"
+167,13,29,19,40,science
+168,13,15,17,13,sports
+169,14,22,9,48,"science, literature"
+170,12,11,11,35,science
+171,11,30,7,45,literature
+172,11,19,9,15,"sports, literature"
+173,15,11,8,28,science
+174,11,16,5,11,"sports, science"
+175,15,28,10,41,"sports, science"
+176,12,14,9,14,"sports, science"
+177,10,29,11,15,"science, literature"
+178,14,22,14,36,sports
+179,13,29,20,30,literature
+180,10,21,20,42,sports
+181,11,17,18,14,"sports, science"
+182,12,17,8,18,"sports, literature"
+183,14,14,9,13,"sports, literature"
+184,12,22,8,20,"sports, science"
+185,14,17,20,16,sports
+186,15,10,9,13,"sports, science, literature"
+187,12,28,19,37,sports
+188,15,20,13,20,sports
+189,13,19,13,17,science
+190,11,29,13,14,"sports, science, literature"
+191,12,27,19,15,"sports, literature"
+192,10,22,7,35,"sports, science"
+193,13,17,6,36,"science, literature"
+194,12,27,18,40,sports
+195,10,18,20,23,literature
+196,13,15,10,36,science
+197,14,24,14,26,"sports, science, literature"
+198,15,12,6,32,"science, literature"
+199,13,10,16,19,"sports, science"
+200,14,27,10,34,"science, literature"
+201,12,14,19,14,sports
+202,11,19,16,46,"science, literature"
+203,14,24,5,30,literature
+204,12,27,10,39,"sports, science, literature"
+205,11,29,8,45,"science, literature"
+206,10,23,13,36,"sports, science"
+207,15,10,12,23,literature
+208,14,20,14,26,"sports, science, literature"
+209,11,29,15,22,"science, literature"
+210,13,10,18,21,"sports, science"
+211,14,15,18,32,science
+212,11,17,8,23,"science, literature"
+213,10,10,9,30,"science, literature"
+214,14,27,14,36,sports
+215,10,16,5,13,sports
+216,12,13,5,10,science
+217,15,25,18,22,science
+218,13,13,11,43,"sports, literature"
+219,11,26,5,21,"science, literature"
+220,12,26,12,26,"sports, literature"
+221,10,22,20,20,literature
+222,14,23,20,29,"sports, science"
+223,13,27,10,23,"sports, science, literature"
+224,15,16,5,50,science
+225,13,24,17,23,"science, literature"
+226,12,11,11,48,science
+227,12,25,9,10,"science, literature"
+228,15,26,5,13,science
+229,15,17,10,49,"sports, science, literature"
+230,12,16,6,14,sports
+231,11,21,15,50,"sports, science, literature"
+232,14,28,18,22,"science, literature"
+233,13,22,8,28,sports
+234,11,22,16,32,"science, literature"
+235,10,21,11,19,sports
+236,13,11,8,10,literature
+237,11,23,10,41,science
+238,14,16,13,35,"sports, science, literature"
+239,14,29,14,13,literature
+240,10,29,15,30,science
+241,10,29,12,13,science
+242,11,30,19,40,literature
+243,12,18,14,49,literature
+244,15,16,8,36,"sports, science"
+245,15,16,14,37,science
+246,15,20,14,34,"sports, literature"
+247,15,18,19,26,"sports, science, literature"
+248,13,30,14,15,sports
+249,11,12,5,16,"sports, literature"
+250,10,24,6,14,"sports, literature"
+251,13,14,18,13,science
+252,14,19,7,24,science
+253,11,15,12,48,"sports, science, literature"
+254,14,20,13,26,literature
+255,10,29,5,42,sports
+256,13,13,5,26,literature
+257,10,29,7,24,science
+258,11,10,11,18,"science, literature"
+259,10,17,13,23,"sports, science"
+260,11,14,14,20,"sports, science, literature"
+261,11,11,17,45,literature
+262,11,26,12,30,"sports, science, literature"
+263,14,25,14,29,"sports, literature"
+264,13,14,5,13,"science, literature"
+265,11,30,11,50,"sports, science, literature"
+266,15,15,18,26,literature
+267,12,24,7,38,literature
+268,13,12,13,32,"sports, science"
+269,10,19,14,41,sports
+270,13,19,5,29,"science, literature"
+271,11,30,17,25,"sports, science, literature"
+272,15,22,16,33,"science, literature"
+273,10,26,11,14,"sports, literature"
+274,13,25,13,17,"sports, science, literature"
+275,14,25,17,26,"sports, science"
+276,14,27,14,30,"sports, science"
+277,12,27,9,36,science
+278,11,15,5,48,"sports, science, literature"
+279,14,16,16,48,"sports, science, literature"
+280,12,12,7,21,"sports, literature"
+281,15,18,6,47,literature
+282,12,27,19,42,"science, literature"
+283,11,24,16,35,"sports, literature"
+284,11,12,12,21,sports
+285,12,23,5,13,science
+286,14,16,13,19,literature
+287,12,24,14,26,science
+288,13,23,7,13,"sports, literature"
+289,10,29,16,48,science
+290,13,21,6,39,sports
+291,10,24,9,44,literature
+292,10,18,7,36,sports
+293,15,12,20,34,sports
+294,13,14,8,28,science
+295,11,23,18,42,"sports, science, literature"
+296,14,17,9,15,sports
+297,13,13,14,17,literature
+298,15,12,19,14,"sports, science"
+299,14,26,15,16,"sports, science, literature"
+300,12,29,9,42,"sports, science"
+301,15,15,9,50,literature
+302,14,23,10,29,science
+303,13,11,20,12,"sports, literature"
+304,11,26,10,30,"science, literature"
+305,13,26,15,20,"sports, literature"
+306,14,17,13,38,"science, literature"
+307,12,17,9,24,sports
+308,12,24,5,10,science
+309,13,15,7,42,science
+310,10,29,20,50,"sports, literature"
+311,11,20,11,15,science
+312,10,14,14,35,"sports, science"
+313,11,18,8,25,literature
+314,13,27,6,24,science
+315,13,17,12,18,science
+316,14,12,13,14,"sports, literature"
+317,12,11,16,49,sports
+318,10,29,13,28,"sports, science"
+319,12,25,18,38,literature
+320,13,11,15,46,"sports, science, literature"
+321,14,24,17,38,"sports, literature"
+322,15,24,13,31,science
+323,10,15,19,30,"sports, science, literature"
+324,12,30,6,35,sports
+325,15,13,18,44,science
+326,13,10,20,41,science
+327,12,27,17,12,science
+328,10,19,9,38,"sports, science, literature"
+329,15,28,5,12,"sports, science, literature"
+330,15,13,8,12,literature
+331,10,10,9,39,science
+332,15,18,5,11,literature
+333,13,17,15,32,"sports, literature"
+334,10,18,19,49,science
+335,11,14,10,30,science
+336,15,18,14,15,sports
+337,10,15,13,37,science
+338,15,23,15,29,"science, literature"
+339,14,16,10,19,science
+340,14,12,20,11,science
+341,10,26,9,24,science
+342,10,29,18,17,science
+343,10,26,7,39,literature
+344,12,11,10,21,"science, literature"
+345,11,20,11,36,"sports, literature"
+346,10,26,18,22,sports
+347,14,19,5,44,"science, literature"
+348,12,23,18,16,"sports, science, literature"
+349,10,10,7,23,"science, literature"
+350,12,10,8,47,"sports, science"
+351,12,23,20,33,"science, literature"
+352,10,15,18,16,literature
+353,12,14,14,13,literature
+354,15,28,5,19,"science, literature"
+355,10,20,12,30,"sports, science, literature"
+356,13,20,11,27,sports
+357,10,15,7,30,"sports, science"
+358,13,15,16,41,"science, literature"
+359,15,23,12,11,science
+360,10,25,10,20,"sports, science"
+361,15,30,10,37,sports
+362,15,18,16,22,"sports, science, literature"
+363,13,10,18,42,sports
+364,12,30,18,42,science
+365,12,25,12,29,"science, literature"
+366,13,17,19,11,"sports, literature"
+367,13,15,14,15,science
+368,13,20,16,30,"sports, science"
+369,15,30,17,48,"science, literature"
+370,11,30,13,11,science
+371,14,22,18,37,science
+372,14,11,14,39,"sports, science, literature"
+373,14,23,17,49,"science, literature"
+374,15,28,13,15,science
+375,14,25,13,13,"sports, science"
+376,15,24,14,15,science
+377,12,23,20,22,science
+378,12,18,15,42,literature
+379,13,24,6,22,science
+380,12,19,16,47,"sports, literature"
+381,13,20,5,46,literature
+382,10,11,10,50,"sports, science, literature"
+383,15,20,9,22,science
+384,12,11,10,34,"sports, science"
+385,11,14,12,27,science
+386,13,28,19,10,literature
+387,15,18,18,10,"science, literature"
+388,10,26,10,18,"science, literature"
+389,15,10,14,47,"sports, literature"
+390,12,11,11,47,science
+391,11,14,17,44,science
+392,13,28,13,40,science
+393,14,29,8,32,sports
+394,10,29,13,44,science
+395,14,27,12,43,literature
+396,15,19,6,12,"sports, science"
+397,11,22,17,34,literature
+398,10,10,5,32,"sports, literature"
+399,11,29,19,48,literature
+400,13,30,10,33,"sports, science"
+401,10,21,14,34,science
+402,14,27,5,50,sports
+403,13,11,9,49,sports
+404,15,25,6,16,science
+405,11,27,12,31,"sports, science"
+406,13,22,20,44,"sports, literature"
+407,12,26,11,34,science
+408,13,15,16,35,literature
+409,10,20,5,29,"science, literature"
+410,11,16,20,33,"science, literature"
+411,11,13,6,28,literature
+412,14,17,14,16,science
+413,14,26,16,50,"science, literature"
+414,14,27,9,20,"sports, literature"
+415,11,24,6,45,"sports, literature"
+416,11,24,19,37,"sports, science, literature"
+417,15,11,8,43,"sports, science, literature"
+418,12,20,10,40,science
+419,11,10,15,29,literature
+420,11,23,9,35,"science, literature"
+421,11,30,5,25,"science, literature"
+422,15,16,10,36,"sports, literature"
+423,11,14,6,50,"sports, literature"
+424,10,30,10,19,"sports, science, literature"
+425,10,11,15,46,"science, literature"
+426,11,13,18,18,science
+427,15,21,15,22,science
+428,10,22,16,21,science
+429,14,14,10,11,literature
+430,15,21,7,19,literature
+431,15,21,15,26,science
+432,11,30,14,15,"sports, science, literature"
+433,14,10,15,39,"sports, science, literature"
+434,15,14,20,37,science
+435,11,24,9,11,"sports, science, literature"
+436,10,14,10,34,"sports, science"
+437,14,18,17,26,"sports, literature"
+438,13,16,16,18,"sports, science"
+439,13,14,8,25,sports
+440,14,22,19,12,"sports, science"
+441,15,13,10,31,literature
+442,14,10,20,15,"sports, literature"
+443,14,18,7,48,literature
+444,11,26,11,25,"sports, science"
+445,12,14,20,33,science
+446,15,21,7,20,"science, literature"
+447,14,28,17,21,"sports, science, literature"
+448,10,18,9,49,science
+449,14,14,5,36,sports
+450,12,28,15,34,"science, literature"
+451,12,16,7,48,science
+452,10,24,19,22,"science, literature"
+453,12,20,6,43,"science, literature"
+454,10,15,9,29,sports
+455,11,22,11,47,"sports, science, literature"
+456,12,19,10,35,"sports, literature"
+457,15,18,13,27,"science, literature"
+458,10,16,15,18,sports
+459,12,11,17,49,science
+460,10,23,17,14,"sports, literature"
+461,15,26,19,32,science
+462,11,13,13,17,science
+463,11,14,6,36,"science, literature"
+464,12,10,8,45,"science, literature"
+465,12,27,11,10,science
+466,14,21,17,25,"science, literature"
+467,15,11,5,19,"sports, science"
+468,12,24,13,36,"science, literature"
+469,14,25,18,35,science
+470,10,13,8,40,science
+471,10,26,15,16,sports
+472,15,11,9,13,"sports, literature"
+473,10,23,16,40,science
+474,14,12,17,14,"sports, science"
+475,15,24,7,47,"sports, science"
+476,10,24,20,23,"sports, science, literature"
+477,12,17,18,20,"sports, science"
+478,12,11,20,32,"science, literature"
+479,15,14,7,34,"sports, science, literature"
+480,13,24,17,15,"sports, literature"
+481,10,25,19,49,"sports, literature"
+482,12,29,16,33,sports
+483,15,20,18,39,"sports, science"
+484,11,21,14,50,"sports, science, literature"
+485,12,21,9,46,"sports, science"
+486,11,25,6,29,science
+487,11,18,7,21,"science, literature"
+488,10,17,11,46,literature
+489,13,29,12,50,science
+490,11,13,11,49,"sports, science, literature"
+491,10,25,11,18,"sports, science, literature"
+492,10,25,6,43,"sports, science, literature"
+493,10,29,17,32,science
+494,14,16,15,31,"science, literature"
+495,11,27,7,43,"sports, literature"
+496,12,26,18,42,sports
+497,13,12,14,47,science
+498,15,24,14,38,"sports, science, literature"
+499,12,14,13,43,"science, literature"
+500,11,19,9,45,"sports, science"
+501,14,30,10,39,literature
+502,12,27,15,36,"sports, science, literature"
+503,15,14,8,34,"sports, science"
+504,10,14,15,19,science
+505,10,30,5,26,"sports, science, literature"
+506,15,23,5,47,science
+507,15,24,15,20,"sports, science"
+508,13,19,19,44,science
+509,12,21,7,47,"science, literature"
+510,15,23,13,11,science
+511,13,24,5,38,"sports, literature"
+512,11,16,10,39,science
+513,15,10,12,29,sports
+514,13,11,14,37,sports
+515,12,10,10,25,literature
+516,10,12,9,28,"sports, science"
+517,13,29,16,14,science
+518,15,22,18,41,"sports, science, literature"
+519,14,19,6,10,"sports, science"
+520,13,11,20,19,science
+521,10,21,15,13,science
+522,14,11,7,15,"sports, science, literature"
+523,14,28,10,46,science
+524,15,19,5,37,science
+525,12,30,19,47,"sports, science"
+526,15,15,7,21,"sports, science, literature"
+527,12,15,7,34,"sports, science"
+528,10,24,15,45,"sports, science"
+529,10,29,5,15,"science, literature"
+530,13,13,18,50,"sports, literature"
+531,11,18,8,27,sports
+532,13,27,16,30,science
+533,12,11,17,24,science
+534,12,23,17,10,science
+535,10,11,16,34,"sports, literature"
+536,10,10,15,11,"sports, literature"
+537,10,20,6,50,science
+538,15,20,6,35,science
+539,13,14,14,43,literature
+540,12,18,20,12,"science, literature"
+541,11,15,5,16,science
+542,11,14,19,29,sports
+543,10,30,9,34,"science, literature"
+544,14,26,15,33,science
+545,10,10,5,32,literature
+546,14,29,15,47,"sports, science, literature"
+547,14,25,19,43,"sports, science"
+548,15,18,19,17,"sports, literature"
+549,12,29,17,25,"sports, science, literature"
+550,12,12,15,28,science
+551,14,21,14,17,science
+552,13,27,10,40,science
+553,11,24,8,43,"sports, literature"
+554,11,13,12,32,"science, literature"
+555,11,10,12,22,literature
+556,15,27,8,39,"science, literature"
+557,12,29,19,32,sports
+558,10,16,12,38,science
+559,10,22,15,21,sports
+560,13,18,11,48,"science, literature"
+561,10,10,20,23,literature
+562,15,28,9,25,"sports, science"
+563,10,24,5,43,"science, literature"
+564,15,18,10,33,"sports, science"
+565,14,22,19,34,"science, literature"
+566,15,22,11,19,"sports, science, literature"
+567,13,12,19,11,"sports, science, literature"
+568,14,17,14,15,science
+569,15,16,11,41,"sports, science, literature"
+570,11,24,10,19,literature
+571,15,13,19,12,science
+572,12,12,5,38,"sports, literature"
+573,15,15,13,27,sports
+574,14,12,12,24,science
+575,13,20,14,13,"science, literature"
+576,13,16,17,21,literature
+577,14,17,10,34,science
+578,14,26,14,50,science
+579,11,14,19,37,science
+580,14,14,5,43,"sports, science"
+581,12,25,10,41,sports
+582,11,30,5,41,"sports, literature"
+583,14,19,18,29,"science, literature"
+584,12,10,7,21,"sports, science, literature"
+585,14,19,16,11,science
+586,15,28,13,47,"sports, science, literature"
+587,11,24,11,23,"sports, science"
+588,15,23,11,39,"sports, science, literature"
+589,12,15,14,40,science
+590,12,26,11,32,science
+591,15,25,16,41,literature
+592,15,26,8,41,literature
+593,11,26,6,12,"sports, science"
+594,13,28,10,40,"sports, science, literature"
+595,15,14,11,50,"science, literature"
+596,14,20,14,14,science
+597,11,19,13,20,"science, literature"
+598,14,10,14,48,sports
+599,15,22,17,40,"sports, literature"
+600,11,24,8,43,"science, literature"
+601,15,28,13,29,"science, literature"
+602,12,10,6,48,science
+603,10,12,12,49,"sports, science, literature"
+604,10,21,18,34,"sports, literature"
+605,15,23,17,14,"science, literature"
+606,10,22,12,49,"sports, science, literature"
+607,11,18,8,21,"science, literature"
+608,14,20,5,48,science
+609,15,29,15,36,"science, literature"
+610,15,30,20,43,science
+611,11,15,11,13,science
+612,14,18,20,18,"sports, science"
+613,15,23,8,27,"sports, science"
+614,13,15,15,26,"sports, literature"
+615,12,25,18,38,"sports, science, literature"
+616,14,18,14,26,literature
+617,10,10,17,39,literature
+618,10,24,8,43,"sports, literature"
+619,14,16,19,50,"sports, science, literature"
+620,14,25,16,27,science
+621,13,21,13,11,science
+622,12,14,6,46,science
+623,14,15,14,48,literature
+624,11,26,10,31,"sports, science, literature"
+625,15,20,6,49,literature
+626,11,17,5,13,"sports, literature"
+627,12,30,15,25,sports
+628,13,11,18,44,"sports, science"
+629,15,12,9,27,sports
+630,15,14,14,44,"sports, science, literature"
+631,11,28,17,38,"sports, science"
+632,13,28,7,33,"sports, science, literature"
+633,15,16,5,29,literature
+634,11,27,7,44,science
+635,15,23,8,10,"sports, science"
+636,10,30,18,42,science
+637,13,14,9,47,literature
+638,10,13,9,34,science
+639,13,15,11,41,"sports, science"
+640,10,25,13,17,"sports, literature"
+641,10,28,17,14,"science, literature"
+642,12,18,19,35,"sports, science"
+643,12,14,12,30,literature
+644,10,14,13,33,literature
+645,11,12,13,47,literature
+646,15,29,9,16,"science, literature"
+647,12,16,17,31,"science, literature"
+648,15,21,11,43,"sports, science"
+649,12,17,9,33,"sports, literature"
+650,10,11,16,15,sports
+651,14,17,15,14,"sports, science, literature"
+652,10,26,6,11,"sports, science, literature"
+653,14,19,20,21,"sports, science"
+654,15,19,8,49,science
+655,12,21,8,24,"science, literature"
+656,13,14,10,26,science
+657,13,20,17,21,science
+658,11,29,6,14,science
+659,15,30,16,29,"science, literature"
+660,14,23,18,42,"science, literature"
+661,12,23,9,28,"science, literature"
+662,13,16,16,50,"sports, science"
+663,10,18,7,25,literature
+664,15,19,19,16,sports
+665,14,15,13,46,"sports, science"
+666,10,19,9,44,sports
+667,13,16,18,35,"sports, science, literature"
+668,14,15,11,24,"sports, science, literature"
+669,13,12,11,37,science
+670,13,21,11,20,science
+671,10,22,7,43,sports
+672,10,25,20,28,literature
+673,11,16,14,47,science
+674,10,22,7,13,"science, literature"
+675,13,19,7,45,science
+676,12,10,20,44,science
+677,12,15,15,35,science
+678,11,15,13,42,"sports, science"
+679,10,26,5,40,literature
+680,10,25,6,47,"sports, literature"
+681,15,28,12,12,"sports, science"
+682,11,28,11,25,"science, literature"
+683,15,28,10,24,"sports, science"
+684,11,17,6,48,sports
+685,14,14,7,49,sports
+686,12,13,9,25,"sports, science"
+687,15,14,11,15,science
+688,10,25,11,28,"science, literature"
+689,13,11,16,31,"sports, literature"
+690,11,18,18,13,"science, literature"
+691,14,16,20,33,literature
+692,15,21,5,29,literature
+693,15,23,19,48,sports
+694,11,24,15,25,"sports, science"
+695,14,28,7,33,sports
+696,13,29,7,43,literature
+697,13,23,11,18,science
+698,10,11,7,43,science
+699,10,22,9,40,"science, literature"
+700,15,20,18,49,science
+701,15,29,7,15,"sports, science"
+702,14,19,9,21,"sports, literature"
+703,11,12,16,45,"sports, science, literature"
+704,10,12,16,29,science
+705,14,29,15,47,sports
+706,10,29,19,43,science
+707,13,18,7,11,"sports, science"
+708,14,30,5,26,science
+709,13,23,13,30,"sports, science"
+710,13,24,13,15,literature
+711,15,14,15,24,"sports, science, literature"
+712,11,29,16,33,science
+713,15,23,14,24,sports
+714,14,25,13,34,literature
+715,15,13,8,26,"science, literature"
+716,11,26,17,37,"sports, literature"
+717,10,26,13,36,science
+718,14,13,11,33,science
+719,10,19,17,10,"sports, science"
+720,14,18,8,42,"sports, science, literature"
+721,12,19,6,28,science
+722,15,16,17,48,"sports, literature"
+723,12,25,12,42,"sports, science"
+724,14,18,14,15,"sports, science, literature"
+725,12,26,9,19,sports
+726,10,14,17,32,science
+727,13,23,15,21,science
+728,13,23,5,35,"science, literature"
+729,10,19,18,50,"sports, science"
+730,13,27,11,11,sports
+731,10,17,19,35,"science, literature"
+732,10,28,10,24,"sports, science"
+733,13,18,11,19,"sports, literature"
+734,14,13,18,35,literature
+735,11,22,10,23,science
+736,10,19,18,13,science
+737,12,18,10,23,science
+738,10,30,18,15,"sports, science"
+739,10,23,15,29,science
+740,12,19,11,50,"sports, science"
+741,11,10,13,14,science
+742,12,10,11,30,"sports, science, literature"
+743,15,17,20,23,"science, literature"
+744,12,15,7,20,"science, literature"
+745,10,27,12,49,"sports, science, literature"
+746,12,25,19,25,"sports, literature"
+747,14,25,12,25,"sports, science, literature"
+748,12,10,19,17,"science, literature"
+749,13,10,10,50,science
+750,15,27,7,31,literature
+751,13,12,17,41,science
+752,15,14,10,48,"science, literature"
+753,10,25,15,18,"sports, literature"
+754,11,13,18,33,"science, literature"
+755,13,19,7,25,"sports, literature"
+756,11,12,7,21,sports
+757,15,14,15,46,"sports, science, literature"
+758,13,14,8,40,science
+759,11,16,19,43,"sports, literature"
+760,10,19,19,19,science
+761,11,17,11,49,"sports, literature"
+762,14,16,10,38,science
+763,11,13,11,11,sports
+764,11,23,13,21,"sports, science"
+765,10,15,17,27,"sports, science"
+766,10,26,20,49,science
+767,12,25,13,30,"sports, literature"
+768,10,20,18,16,"sports, science, literature"
+769,11,14,17,37,sports
+770,15,14,7,47,science
+771,13,15,8,15,"sports, science"
+772,13,14,10,43,literature
+773,13,29,16,43,"sports, literature"
+774,13,26,7,21,"sports, science"
+775,13,26,16,22,"sports, science"
+776,15,15,10,24,science
+777,10,15,15,16,"sports, literature"
+778,13,20,20,15,"sports, science"
+779,15,17,20,39,"sports, science, literature"
+780,11,10,14,23,sports
+781,12,19,20,30,"sports, science"
+782,11,24,17,34,science
+783,13,26,16,45,"sports, literature"
+784,13,26,19,29,"sports, literature"
+785,10,20,6,48,sports
+786,13,24,14,29,"sports, science, literature"
+787,15,12,18,19,science
+788,13,20,10,29,"science, literature"
+789,10,19,6,39,"sports, science, literature"
+790,10,14,11,50,sports
+791,10,24,14,25,literature
+792,11,13,9,45,science
+793,12,18,11,19,sports
+794,14,12,7,11,sports
+795,12,18,12,30,"sports, science"
+796,13,21,19,33,science
+797,15,25,14,30,"sports, science, literature"
+798,12,15,6,26,"sports, literature"
+799,14,21,13,49,"science, literature"
+800,11,25,7,49,science
+801,10,23,13,42,literature
+802,11,10,7,48,"sports, literature"
+803,13,19,6,34,"science, literature"
+804,10,12,16,13,sports
+805,13,24,18,22,"science, literature"
+806,14,23,17,44,science
+807,12,17,18,39,literature
+808,12,28,15,39,science
+809,10,12,16,50,"sports, science, literature"
+810,10,21,5,34,literature
+811,14,24,15,10,sports
+812,13,29,14,30,"sports, science, literature"
+813,13,20,13,14,science
+814,15,17,14,41,"sports, science, literature"
+815,10,30,13,22,"sports, literature"
+816,12,27,12,47,literature
+817,12,18,16,23,sports
+818,10,17,17,31,"sports, science"
+819,11,29,16,41,science
+820,11,28,8,27,"sports, science"
+821,13,18,11,39,"sports, literature"
+822,14,15,16,39,"sports, science"
+823,11,12,5,39,"science, literature"
+824,14,24,5,30,literature
+825,15,15,8,45,"sports, literature"
+826,15,24,5,20,"science, literature"
+827,15,14,12,50,"sports, science"
+828,12,16,15,31,science
+829,14,14,11,25,sports
+830,14,13,15,18,sports
+831,12,20,13,49,"sports, science"
+832,10,30,12,32,"sports, literature"
+833,13,16,5,18,sports
+834,10,25,19,20,sports
+835,10,18,18,30,science
+836,10,10,18,33,"sports, science"
+837,15,18,11,22,"science, literature"
+838,12,17,14,34,science
+839,11,15,9,11,"sports, science"
+840,11,19,19,31,science
+841,12,18,14,26,science
+842,12,21,16,35,"science, literature"
+843,13,28,15,21,"science, literature"
+844,10,10,18,40,science
+845,11,16,18,34,sports
+846,14,24,17,14,"sports, science, literature"
+847,11,29,8,42,"science, literature"
+848,10,11,5,45,science
+849,11,13,19,36,"sports, science"
+850,13,16,11,14,"science, literature"
+851,10,18,16,42,science
+852,12,20,5,19,"sports, science"
+853,13,28,14,33,"sports, science, literature"
+854,15,18,14,28,"sports, science, literature"
+855,10,21,5,11,"sports, science"
+856,15,26,16,21,science
+857,11,27,18,32,science
+858,11,18,10,14,sports
+859,11,26,12,38,"sports, literature"
+860,15,20,20,29,literature
+861,13,26,6,24,literature
+862,10,15,18,46,"sports, literature"
+863,14,25,19,18,sports
+864,10,18,15,36,"sports, literature"
+865,12,16,17,41,"science, literature"
+866,12,14,6,49,"sports, science"
+867,11,23,19,19,"science, literature"
+868,14,29,11,33,science
+869,12,29,7,32,"sports, literature"
+870,10,29,19,27,science
+871,12,26,12,28,"sports, science, literature"
+872,15,12,11,21,"science, literature"
+873,15,30,11,38,"science, literature"
+874,10,15,19,18,sports
+875,14,20,18,27,science
+876,13,19,8,47,science
+877,14,12,12,25,"sports, science, literature"
+878,10,14,20,25,"sports, science"
+879,13,16,7,11,sports
+880,14,14,16,27,science
+881,13,25,17,48,literature
+882,10,15,13,31,literature
+883,15,10,19,48,science
+884,14,13,6,48,sports
+885,10,10,5,18,"science, literature"
+886,10,17,14,43,sports
+887,15,19,10,16,literature
+888,12,14,10,18,"science, literature"
+889,11,23,17,40,literature
+890,11,12,18,27,"sports, science"
+891,15,28,8,17,sports
+892,14,22,20,36,science
+893,15,17,10,31,"sports, science"
+894,15,24,17,30,"science, literature"
+895,13,20,8,45,"sports, science"
+896,14,29,11,35,"science, literature"
+897,10,19,12,23,science
+898,11,18,14,15,"sports, literature"
+899,13,30,17,41,science
+900,14,16,13,14,sports
+901,12,27,10,14,"sports, literature"
+902,13,25,16,21,"sports, literature"
+903,13,27,11,35,"sports, literature"
+904,11,11,8,21,sports
+905,10,16,12,50,sports
+906,15,18,12,42,sports
+907,12,27,17,49,"science, literature"
+908,13,24,9,16,sports
+909,12,23,10,34,"sports, literature"
+910,15,24,18,13,"sports, science, literature"
+911,14,16,6,29,"sports, science, literature"
+912,10,24,19,42,"sports, science"
+913,14,24,18,28,literature
+914,15,30,13,27,"sports, science, literature"
+915,10,11,20,15,science
+916,11,19,13,24,science
+917,12,11,10,34,"science, literature"
+918,13,19,6,42,science
+919,13,23,20,11,science
+920,15,22,11,16,"sports, literature"
+921,13,25,10,44,literature
+922,15,21,13,14,"sports, science"
+923,12,25,17,37,science
+924,11,19,16,22,sports
+925,15,16,17,26,science
+926,12,12,15,17,"sports, literature"
+927,13,28,14,44,science
+928,13,19,5,40,"sports, science"
+929,13,11,9,50,science
+930,14,20,7,11,science
+931,14,22,9,49,literature
+932,12,26,5,20,sports
+933,13,14,5,41,"sports, literature"
+934,14,19,6,12,"science, literature"
+935,10,13,12,40,sports
+936,10,24,14,11,science
+937,13,19,16,24,science
+938,13,11,18,41,literature
+939,15,13,18,12,"sports, science"
+940,14,22,16,37,"sports, science"
+941,15,10,9,27,science
+942,15,12,8,30,science
+943,13,14,16,14,"sports, literature"
+944,13,21,14,14,"sports, literature"
+945,10,28,8,29,science
+946,14,24,7,44,"science, literature"
+947,14,12,11,27,"science, literature"
+948,14,26,9,12,"science, literature"
+949,10,25,11,12,science
+950,15,29,16,20,science
+951,15,20,7,27,science
+952,13,28,18,12,"sports, science"
+953,15,14,16,41,sports
+954,10,17,9,19,"sports, science"
+955,14,13,10,40,science
+956,11,21,19,12,sports
+957,14,21,6,47,science
+958,10,18,9,12,literature
+959,10,26,7,20,"sports, literature"
+960,14,24,10,35,"sports, science"
+961,12,15,16,24,literature
+962,13,25,6,34,"sports, science, literature"
+963,10,23,20,42,"sports, literature"
+964,11,11,14,47,"sports, science"
+965,12,11,15,43,sports
+966,11,20,8,38,literature
+967,11,21,11,43,science
+968,11,18,7,18,"sports, science, literature"
+969,14,28,18,41,science
+970,12,30,10,19,science
+971,14,20,9,35,science
+972,11,25,14,37,science
+973,12,23,17,35,sports
+974,11,28,18,20,"sports, science"
+975,12,24,10,36,science
+976,13,14,7,40,science
+977,14,18,18,12,sports
+978,10,29,16,12,science
+979,14,19,11,48,"science, literature"
+980,13,11,7,39,science
+981,11,12,13,26,science
+982,11,18,17,34,"science, literature"
+983,15,15,11,44,"sports, literature"
+984,10,14,15,22,science
+985,12,12,19,39,science
+986,14,13,9,28,"sports, literature"
+987,10,26,18,14,"sports, science, literature"
+988,10,13,18,31,science
+989,10,22,5,34,science
+990,13,15,8,16,science
+991,15,14,9,20,"sports, science"
+992,10,14,20,15,"sports, science"
+993,13,24,12,15,science
+994,13,15,10,17,science
+995,15,17,5,15,"sports, science, literature"
+996,12,30,19,37,literature
+997,10,18,20,13,science
+998,15,20,9,35,science
+999,15,19,12,25,science
+1000,12,29,12,34,"sports, science"
+1001,12,11,10,36,"sports, science, literature"
+1002,15,18,20,12,science
+1003,11,25,8,47,literature
+1004,10,20,11,34,science
+1005,10,25,14,20,"science, literature"
+1006,12,10,10,48,"sports, literature"
+1007,11,25,6,44,science
+1008,12,25,5,30,"sports, science"
+1009,11,27,20,30,science
+1010,12,24,16,17,science
+1011,10,26,10,21,"sports, science"
+1012,13,19,17,35,sports
+1013,15,25,19,38,"sports, science"
+1014,10,19,20,44,"sports, literature"
+1015,10,27,18,37,science
+1016,14,25,12,29,"science, literature"
+1017,14,16,12,17,"sports, science"
+1018,11,29,6,38,science
+1019,12,22,14,38,"sports, science, literature"
+1020,14,13,20,15,science
+1021,13,26,14,47,science
+1022,14,16,7,43,"sports, science, literature"
+1023,11,22,9,46,sports
+1024,15,23,19,20,science
+1025,14,13,16,48,"sports, science, literature"
+1026,15,19,10,29,"sports, literature"
+1027,11,24,6,35,sports
+1028,12,29,15,49,"sports, literature"
+1029,15,21,5,13,"sports, science"
+1030,10,17,6,20,"sports, science"
+1031,14,23,18,15,literature
+1032,13,30,16,32,literature
+1033,10,11,12,24,science
+1034,14,14,11,17,"sports, science, literature"
+1035,13,20,7,15,sports
+1036,11,13,16,36,literature
+1037,15,16,12,45,"sports, science, literature"
+1038,13,11,9,11,"sports, literature"
+1039,11,10,18,18,literature
+1040,12,27,19,27,"sports, science"
+1041,12,21,8,31,"sports, science, literature"
+1042,14,23,18,32,sports
+1043,10,16,10,48,"sports, literature"
+1044,14,16,20,30,literature
+1045,15,30,9,12,literature
+1046,13,25,9,44,sports
+1047,15,22,13,40,science
+1048,10,23,14,21,"sports, science, literature"
+1049,13,26,14,17,science
+1050,14,22,15,50,science
+1051,12,28,10,11,literature
+1052,15,23,9,20,"sports, literature"
+1053,10,16,11,10,"sports, literature"
+1054,15,18,20,21,sports
+1055,12,24,6,30,"sports, literature"
+1056,10,11,5,29,science
+1057,10,25,12,26,"sports, science"
+1058,14,12,20,39,"sports, literature"
+1059,14,23,19,46,"science, literature"
+1060,14,21,7,33,"sports, literature"
+1061,14,18,15,32,science
+1062,11,30,10,11,"sports, science, literature"
+1063,14,18,7,13,"science, literature"
+1064,15,30,6,30,literature
+1065,11,18,12,18,literature
+1066,14,29,9,12,"science, literature"
+1067,12,29,6,33,sports
+1068,13,22,10,29,literature
+1069,15,23,15,41,literature
+1070,10,27,18,16,"sports, science"
+1071,15,28,20,41,"sports, literature"
+1072,14,29,7,31,science
+1073,13,18,11,20,"science, literature"
+1074,14,25,14,38,"sports, literature"
+1075,12,28,11,17,"sports, literature"
+1076,11,18,7,31,science
+1077,11,19,7,43,"sports, science, literature"
+1078,14,12,12,44,"sports, science, literature"
+1079,11,21,14,45,"sports, literature"
+1080,15,25,7,43,science
+1081,15,29,14,45,"sports, science, literature"
+1082,14,30,17,38,"sports, science"
+1083,12,12,8,45,sports
+1084,11,13,8,32,science
+1085,10,23,20,37,sports
+1086,14,12,14,24,"sports, science, literature"
+1087,14,17,14,18,"science, literature"
+1088,13,27,12,18,science
+1089,15,13,9,30,sports
+1090,11,22,14,18,"sports, literature"
+1091,13,17,11,44,science
+1092,15,19,13,17,"science, literature"
+1093,14,14,20,18,"sports, science"
+1094,14,10,19,26,"science, literature"
+1095,10,22,16,49,"science, literature"
+1096,10,11,15,41,"sports, literature"
+1097,10,10,19,35,"sports, science, literature"
+1098,12,17,18,32,literature
+1099,13,10,5,35,"sports, literature"
+1100,11,23,8,16,"sports, literature"
+1101,14,25,20,28,"sports, science, literature"
+1102,11,22,5,28,"sports, science, literature"
+1103,12,10,20,23,"sports, literature"
+1104,12,23,13,12,"sports, science, literature"
+1105,11,26,6,50,"sports, science, literature"
+1106,15,29,8,23,science
+1107,13,24,9,13,literature
+1108,10,23,8,36,science
+1109,12,13,16,43,"sports, science, literature"
+1110,13,12,6,13,science
+1111,11,28,20,49,"science, literature"
+1112,12,13,12,46,literature
+1113,13,24,14,18,science
+1114,10,27,14,45,sports
+1115,14,20,16,49,"sports, science, literature"
+1116,11,26,20,35,"sports, literature"
+1117,11,11,9,26,"science, literature"
+1118,15,20,10,35,science
+1119,10,10,19,33,science
+1120,15,22,12,34,sports
+1121,14,14,8,17,sports
+1122,14,10,16,48,sports
+1123,14,13,17,28,sports
+1124,15,23,11,24,science
+1125,11,23,7,38,literature
+1126,14,13,11,18,science
+1127,14,21,13,33,sports
+1128,13,20,12,36,science
+1129,10,27,18,27,science
+1130,13,16,12,43,"science, literature"
+1131,11,28,11,28,science
+1132,11,17,17,30,sports
+1133,13,29,16,32,science
+1134,10,20,7,18,literature
+1135,15,23,11,42,science
+1136,14,12,14,43,sports
+1137,12,23,19,27,literature
+1138,10,18,15,42,literature
+1139,11,26,20,38,sports
+1140,13,22,10,14,science
+1141,12,12,12,13,sports
+1142,14,25,20,49,sports
+1143,12,17,5,13,literature
+1144,15,11,16,47,sports
+1145,10,13,20,12,"sports, literature"
+1146,15,15,16,48,science
+1147,13,16,16,19,literature
+1148,15,11,12,41,science
+1149,11,28,9,48,science
+1150,15,14,13,38,"science, literature"
+1151,12,29,19,37,"sports, science, literature"
+1152,15,17,8,30,"sports, science, literature"
+1153,12,23,5,15,literature
+1154,15,16,15,39,sports
+1155,11,29,10,34,"sports, science, literature"
+1156,11,22,8,37,sports
+1157,11,27,16,46,sports
+1158,11,13,8,24,science
+1159,11,18,15,44,"sports, science"
+1160,15,30,17,41,"sports, science, literature"
+1161,13,15,11,32,"sports, literature"
+1162,12,22,17,40,science
+1163,11,27,20,33,"sports, science, literature"
+1164,13,28,18,25,literature
+1165,15,12,10,43,science
+1166,12,14,13,48,science
+1167,14,11,9,40,science
+1168,14,12,12,44,"sports, literature"
+1169,14,10,14,20,"science, literature"
+1170,14,24,20,33,"sports, science, literature"
+1171,12,15,11,40,literature
+1172,14,22,16,19,"sports, science, literature"
+1173,14,16,6,36,literature
+1174,10,17,8,16,"sports, science, literature"
+1175,12,22,17,47,"science, literature"
+1176,12,10,6,35,science
+1177,14,10,9,28,science
+1178,14,16,8,32,science
+1179,13,28,6,14,"sports, literature"
+1180,14,19,8,18,sports
+1181,11,12,10,46,science
+1182,10,24,8,40,literature
+1183,14,10,9,25,"sports, science"
+1184,11,13,9,44,science
+1185,15,13,14,44,sports
+1186,11,28,11,18,literature
+1187,10,26,18,20,science
+1188,13,12,6,21,"science, literature"
+1189,13,10,18,23,"sports, science, literature"
+1190,10,25,12,40,"science, literature"
+1191,14,21,20,38,science
+1192,15,26,12,35,"sports, literature"
+1193,12,11,8,48,sports
+1194,14,15,19,24,sports
+1195,13,23,19,46,"sports, science"
+1196,15,16,9,35,literature
+1197,10,29,18,27,science
+1198,11,27,6,29,science
+1199,12,20,11,27,"science, literature"
+1200,13,12,17,18,"sports, science"
+1201,15,24,17,38,"sports, literature"
+1202,15,17,18,16,science
+1203,10,19,11,22,science
+1204,14,12,14,31,sports
+1205,15,20,5,40,"sports, science, literature"
+1206,15,29,11,17,"science, literature"
+1207,14,27,19,31,science
+1208,15,18,15,28,"sports, science"
+1209,10,29,16,11,literature
+1210,10,28,5,43,"science, literature"
+1211,10,21,10,12,science
+1212,13,27,20,24,science
+1213,15,18,7,36,science
+1214,15,24,8,23,"sports, literature"
+1215,14,27,12,42,"science, literature"
+1216,14,24,18,49,"science, literature"
+1217,10,26,14,12,sports
+1218,13,28,17,29,science
+1219,12,28,5,43,science
+1220,15,11,12,23,"sports, science, literature"
+1221,14,10,17,47,"science, literature"
+1222,10,15,9,18,sports
+1223,15,22,7,30,literature
+1224,15,19,9,27,literature
+1225,12,22,5,38,science
+1226,11,11,6,35,science
+1227,11,21,6,50,science
+1228,14,10,19,48,"sports, science, literature"
+1229,15,15,6,33,"science, literature"
+1230,11,30,6,27,science
+1231,13,17,7,42,"sports, science"
+1232,15,20,12,23,"sports, literature"
+1233,15,30,17,32,"sports, science"
+1234,11,26,12,16,"science, literature"
+1235,13,18,14,44,literature
+1236,13,11,9,47,"science, literature"
+1237,14,29,7,10,sports
+1238,15,19,9,16,"science, literature"
+1239,13,23,16,19,"sports, science"
+1240,14,28,6,48,"sports, science"
+1241,11,18,13,47,"sports, science, literature"
+1242,14,27,11,36,literature
+1243,14,11,15,30,science
+1244,12,16,20,29,science
+1245,12,11,14,34,"sports, science"
+1246,15,12,11,31,science
+1247,15,23,7,13,"sports, science"
+1248,12,16,19,33,science
+1249,13,17,13,18,"sports, science, literature"
+1250,14,25,6,39,science
+1251,12,22,11,49,science
+1252,12,25,20,14,"sports, literature"
+1253,10,19,19,11,science
+1254,11,27,14,13,science
+1255,15,13,14,35,"sports, literature"
+1256,14,17,13,17,"sports, science"
+1257,13,30,9,28,"sports, science"
+1258,10,15,9,32,sports
+1259,15,10,15,26,science
+1260,11,28,15,12,science
+1261,15,10,11,18,science
+1262,11,17,20,42,"sports, science"
+1263,15,15,15,45,science
+1264,12,18,12,15,"sports, science"
+1265,12,14,12,26,"science, literature"
+1266,10,15,14,33,sports
+1267,12,24,20,34,"sports, science"
+1268,13,26,9,20,literature
+1269,12,20,18,22,"sports, science"
+1270,14,24,8,40,"sports, science"
+1271,11,19,15,43,"sports, science"
+1272,13,22,8,25,"sports, science, literature"
+1273,11,23,12,36,"sports, science"
+1274,14,17,11,25,"sports, literature"
+1275,11,11,20,47,"sports, literature"
+1276,10,15,10,29,literature
+1277,12,23,9,32,"sports, literature"
+1278,15,11,9,12,science
+1279,11,14,15,25,science
+1280,10,13,16,33,sports
+1281,10,17,17,24,science
+1282,15,21,14,19,literature
+1283,10,29,7,24,"sports, science"
+1284,14,29,9,14,"sports, science, literature"
+1285,14,23,16,37,"sports, literature"
+1286,14,22,20,37,science
+1287,14,19,9,15,sports
+1288,10,11,10,50,"sports, science, literature"
+1289,10,27,6,50,sports
+1290,15,24,10,24,literature
+1291,15,28,20,33,"sports, literature"
+1292,14,13,11,25,"sports, literature"
+1293,11,14,14,15,sports
+1294,11,14,14,11,sports
+1295,12,11,14,31,science
+1296,11,15,6,45,sports
+1297,12,26,19,14,"sports, science"
+1298,13,14,17,29,science
+1299,14,18,14,10,"sports, science"
+1300,15,25,8,19,sports
+1301,15,29,5,27,literature
+1302,12,14,10,25,"sports, science, literature"
+1303,13,20,11,10,"sports, science, literature"
+1304,14,11,18,42,science
+1305,15,28,20,32,science
+1306,14,21,8,41,science
+1307,10,12,12,15,science
+1308,14,26,10,13,science
+1309,14,17,16,24,literature
+1310,15,30,18,14,"sports, literature"
+1311,13,12,7,16,"sports, science, literature"
+1312,12,29,11,30,sports
+1313,14,29,8,20,"sports, science, literature"
+1314,14,19,15,31,"sports, literature"
+1315,13,12,15,45,science
+1316,10,25,6,26,"sports, science, literature"
+1317,13,18,8,49,sports
+1318,10,21,13,20,literature
+1319,15,21,20,10,"sports, science, literature"
+1320,14,17,15,36,science
+1321,10,12,17,20,science
+1322,10,26,6,14,"sports, science, literature"
+1323,12,29,15,38,"sports, science, literature"
+1324,15,17,20,33,"sports, literature"
+1325,13,12,5,20,"sports, literature"
+1326,10,17,13,17,science
+1327,13,17,8,18,science
+1328,12,15,8,47,"sports, science, literature"
+1329,15,15,16,24,science
+1330,13,25,7,43,"sports, science"
+1331,10,17,11,32,literature
+1332,15,14,18,23,"sports, science"
+1333,15,26,20,20,literature
+1334,13,21,16,46,literature
+1335,11,28,7,13,science
+1336,11,27,6,18,"sports, science, literature"
+1337,11,28,14,15,science
+1338,12,19,7,14,science
+1339,15,17,12,50,"sports, science, literature"
+1340,14,13,16,17,"sports, literature"
+1341,12,15,11,47,literature
+1342,13,16,13,47,"sports, science, literature"
+1343,14,12,11,35,"sports, literature"
+1344,13,16,11,45,science
+1345,14,17,16,37,sports
+1346,11,18,16,49,"sports, science"
+1347,14,18,14,13,"sports, science"
+1348,12,22,9,29,sports
+1349,11,19,13,48,"sports, science, literature"
+1350,13,11,13,13,science
+1351,13,15,13,27,science
+1352,14,28,13,28,sports
+1353,14,14,20,23,"sports, science"
+1354,14,14,20,25,"sports, literature"
+1355,10,21,17,47,"science, literature"
+1356,12,22,19,35,science
+1357,14,30,6,19,"sports, science"
+1358,15,17,16,18,sports
+1359,14,25,15,13,sports
+1360,10,17,20,49,"sports, science"
+1361,13,26,17,43,science
+1362,13,23,6,29,"sports, science"
+1363,10,22,8,40,"science, literature"
+1364,11,19,12,16,literature
+1365,10,21,13,17,science
+1366,15,20,5,15,sports
+1367,13,14,11,47,"sports, science, literature"
+1368,12,10,19,50,"sports, science, literature"
+1369,10,20,17,49,literature
+1370,15,29,20,34,literature
+1371,10,16,5,15,"sports, science"
+1372,11,26,7,26,literature
+1373,15,12,17,23,sports
+1374,15,14,11,47,"sports, science, literature"
+1375,13,13,13,32,science
+1376,10,10,7,14,science
+1377,10,14,8,46,"sports, literature"
+1378,10,27,6,24,sports
+1379,15,17,7,44,"sports, science, literature"
+1380,15,12,5,47,literature
+1381,12,24,15,27,"sports, literature"
+1382,14,14,18,45,"sports, science, literature"
+1383,14,14,19,18,sports
+1384,13,27,12,22,"science, literature"
+1385,11,17,17,49,"sports, science, literature"
+1386,15,25,17,26,"science, literature"
+1387,13,22,15,47,science
+1388,10,24,5,50,literature
+1389,12,20,17,18,"sports, literature"
+1390,13,25,16,44,"sports, literature"
+1391,12,30,6,31,science
+1392,10,15,12,24,science
+1393,11,27,14,20,science
+1394,11,13,8,36,"sports, literature"
+1395,13,14,12,29,literature
+1396,13,23,20,48,"science, literature"
+1397,10,21,16,35,science
+1398,15,14,16,10,"sports, science, literature"
+1399,11,30,10,13,science
+1400,13,14,13,35,"sports, science"
+1401,10,29,10,36,science
+1402,10,13,5,10,"science, literature"
+1403,10,11,15,16,science
+1404,14,11,10,50,"sports, literature"
+1405,10,29,13,19,science
+1406,12,24,19,12,science
+1407,12,26,9,20,science
+1408,12,15,5,27,"sports, science"
+1409,12,23,20,41,sports
+1410,12,16,7,47,"science, literature"
+1411,14,13,17,18,literature
+1412,15,24,18,42,sports
+1413,15,30,16,27,literature
+1414,13,12,19,22,"science, literature"
+1415,15,14,12,42,"science, literature"
+1416,12,17,17,49,science
+1417,13,14,12,17,"sports, science"
+1418,15,30,16,20,science
+1419,11,24,13,32,"sports, literature"
+1420,11,16,12,18,sports
+1421,14,13,17,42,sports
+1422,12,29,10,26,"science, literature"
+1423,11,11,6,35,"sports, science"
+1424,15,27,10,39,"science, literature"
+1425,12,11,12,49,"sports, science, literature"
+1426,14,22,20,27,literature
+1427,14,18,12,32,"science, literature"
+1428,14,25,9,25,science
+1429,12,22,10,50,sports
+1430,10,26,18,41,science
+1431,13,26,10,26,"sports, literature"
+1432,10,25,14,34,"sports, science"
+1433,12,26,7,12,"sports, science"
+1434,10,17,5,35,science
+1435,12,16,7,48,"sports, science, literature"
+1436,12,30,18,45,science
+1437,14,23,5,36,"sports, science, literature"
+1438,14,23,16,24,"science, literature"
+1439,10,11,20,45,"sports, literature"
+1440,10,28,17,14,"sports, science"
+1441,11,11,17,30,"science, literature"
+1442,12,17,20,32,"sports, science, literature"
+1443,13,15,14,34,sports
+1444,13,10,10,50,sports
+1445,12,11,8,31,sports
+1446,13,15,15,50,literature
+1447,14,20,19,20,literature
+1448,12,16,20,40,"science, literature"
+1449,10,24,19,16,science
+1450,15,27,11,28,"science, literature"
+1451,12,20,16,44,science
+1452,10,21,18,30,sports
+1453,13,15,11,32,science
+1454,15,28,15,11,"sports, science"
+1455,14,16,19,15,"sports, science, literature"
+1456,11,23,12,49,science
+1457,12,21,20,31,"science, literature"
+1458,15,22,19,36,"sports, literature"
+1459,13,19,16,24,"sports, literature"
+1460,11,30,19,37,"sports, science, literature"
+1461,10,12,19,37,"science, literature"
+1462,10,26,13,25,science
+1463,11,13,19,29,science
+1464,13,30,8,38,literature
+1465,14,22,19,49,"sports, science, literature"
+1466,11,19,20,23,science
+1467,15,15,18,17,science
+1468,15,19,15,13,"science, literature"
+1469,14,27,6,39,sports
+1470,14,24,11,38,"sports, science, literature"
+1471,14,19,16,41,"science, literature"
+1472,12,17,18,15,science
+1473,14,23,19,20,"sports, science, literature"
+1474,12,27,16,21,"sports, literature"
+1475,14,11,17,19,literature
+1476,14,13,7,44,science
+1477,13,30,13,34,science
+1478,15,24,6,31,"sports, science, literature"
+1479,10,28,5,32,science
+1480,11,16,13,18,"sports, literature"
+1481,12,13,20,25,"sports, literature"
+1482,11,28,18,36,"sports, literature"
+1483,11,25,19,18,"sports, literature"
+1484,10,18,14,45,"sports, science"
+1485,15,22,6,25,literature
+1486,11,18,5,15,sports
+1487,15,16,10,33,sports
+1488,12,11,10,20,"sports, science"
+1489,11,13,19,40,"sports, literature"
+1490,14,14,18,49,"sports, science, literature"
+1491,13,24,15,13,literature
+1492,13,12,13,43,"sports, science, literature"
+1493,12,20,5,34,science
+1494,10,18,19,28,sports
+1495,15,14,10,42,"sports, science, literature"
+1496,10,13,11,24,"sports, science, literature"
+1497,15,23,10,37,"sports, science, literature"
+1498,13,18,6,14,"sports, literature"
+1499,11,12,8,26,"sports, literature"
+1500,10,15,14,24,science
+1501,11,13,10,14,science
+1502,15,25,6,45,"sports, science, literature"
+1503,15,10,16,30,"science, literature"
+1504,10,21,7,41,"sports, science, literature"
+1505,10,25,17,34,"sports, science"
+1506,15,13,18,50,science
+1507,13,18,13,41,"sports, science, literature"
+1508,13,17,16,12,science
+1509,11,10,5,45,sports
+1510,13,28,16,49,science
+1511,13,19,5,17,"sports, science, literature"
+1512,13,11,10,25,"sports, science, literature"
+1513,12,25,10,11,"sports, science, literature"
+1514,15,14,18,40,"science, literature"
+1515,15,24,17,48,literature
+1516,12,10,5,17,sports
+1517,14,12,9,27,"sports, science"
+1518,13,20,14,10,"sports, science"
+1519,14,20,15,35,literature
+1520,14,28,7,30,sports
+1521,15,15,10,46,"sports, science"
+1522,14,26,15,16,sports
+1523,15,24,9,46,"sports, science, literature"
+1524,14,17,6,13,sports
+1525,14,22,16,34,science
+1526,11,18,15,13,science
+1527,11,15,17,44,"sports, literature"
+1528,12,13,20,26,science
+1529,15,26,14,16,literature
+1530,10,18,12,34,"sports, science, literature"
+1531,14,21,11,45,"science, literature"
+1532,14,13,7,48,"sports, science, literature"
+1533,15,20,6,16,"science, literature"
+1534,15,11,20,49,"sports, science, literature"
+1535,12,29,18,32,sports
+1536,10,13,8,40,"sports, literature"
+1537,13,28,12,21,"science, literature"
+1538,14,13,10,23,"sports, science, literature"
+1539,10,24,16,19,literature
+1540,14,26,15,50,"sports, science, literature"
+1541,10,12,20,14,science
+1542,15,11,14,23,"science, literature"
+1543,12,12,16,49,"sports, literature"
+1544,10,29,12,47,sports
+1545,14,30,12,36,"sports, literature"
+1546,11,16,5,14,"sports, literature"
+1547,14,27,18,47,sports
+1548,10,20,20,44,"sports, science, literature"
+1549,11,10,20,10,"sports, science, literature"
+1550,10,11,8,45,"sports, science, literature"
+1551,10,18,17,41,"sports, science, literature"
+1552,13,14,15,10,"sports, science, literature"
+1553,12,25,18,13,"sports, literature"
+1554,11,16,14,43,science
+1555,13,26,15,28,"science, literature"
+1556,14,19,7,47,science
+1557,14,24,10,29,"sports, science"
+1558,14,12,7,18,sports
+1559,13,24,17,31,sports
+1560,15,23,6,11,literature
+1561,15,28,18,21,"sports, science, literature"
+1562,10,22,12,12,science
+1563,13,21,9,11,sports
+1564,13,12,20,37,"science, literature"
+1565,13,22,6,43,science
+1566,12,21,17,43,literature
+1567,13,11,16,43,"sports, science"
+1568,13,12,9,26,science
+1569,14,22,20,30,sports
+1570,10,29,17,49,science
+1571,13,22,16,16,"sports, literature"
+1572,13,29,19,47,science
+1573,12,13,18,16,sports
+1574,12,12,7,31,"sports, literature"
+1575,15,11,11,14,science
+1576,11,22,6,42,sports
+1577,13,21,20,11,"science, literature"
+1578,15,18,10,17,science
+1579,15,29,12,32,sports
+1580,12,26,6,22,"science, literature"
+1581,13,30,20,13,"sports, science, literature"
+1582,11,25,17,47,"science, literature"
+1583,15,30,6,16,science
+1584,10,25,19,23,"science, literature"
+1585,13,27,7,12,"sports, science, literature"
+1586,10,30,7,15,"sports, literature"
+1587,10,10,6,39,science
+1588,14,24,11,47,science
+1589,14,20,8,12,"science, literature"
+1590,14,18,10,50,"sports, science, literature"
+1591,12,11,5,47,science
+1592,11,24,18,49,sports
+1593,13,13,6,20,"science, literature"
+1594,10,28,18,29,"science, literature"
+1595,14,18,14,15,"sports, literature"
+1596,11,28,11,29,"science, literature"
+1597,14,13,8,25,science
+1598,15,17,9,46,"science, literature"
+1599,12,16,11,49,"sports, science"
+1600,14,16,16,18,"sports, literature"
+1601,14,28,17,12,science
+1602,13,30,14,14,"sports, literature"
+1603,15,28,11,10,science
+1604,14,22,13,44,"science, literature"
+1605,15,25,5,37,"sports, science"
+1606,12,28,17,29,"science, literature"
+1607,12,18,17,32,"science, literature"
+1608,14,16,9,14,"sports, literature"
+1609,10,23,19,24,literature
+1610,11,30,8,15,science
+1611,11,29,10,15,"sports, literature"
+1612,11,10,12,21,science
+1613,11,25,14,38,science
+1614,11,10,5,45,"sports, science"
+1615,15,11,16,38,"science, literature"
+1616,14,26,12,23,"sports, literature"
+1617,15,12,19,15,science
+1618,12,11,13,49,"sports, literature"
+1619,10,25,20,13,sports
+1620,14,22,10,15,"sports, science"
+1621,15,20,9,31,literature
+1622,10,16,15,37,science
+1623,11,24,17,17,"sports, science, literature"
+1624,13,15,12,48,"science, literature"
+1625,13,29,12,33,"science, literature"
+1626,13,12,16,11,science
+1627,11,12,11,11,"sports, literature"
+1628,10,30,5,44,"sports, science"
+1629,13,28,15,43,"sports, science"
+1630,10,22,7,24,science
+1631,12,18,7,21,"sports, science, literature"
+1632,10,19,5,36,"science, literature"
+1633,13,22,6,12,"science, literature"
+1634,14,26,12,14,"sports, literature"
+1635,15,25,8,45,"science, literature"
+1636,15,10,13,21,"sports, science, literature"
+1637,15,11,16,50,"sports, literature"
+1638,12,26,12,29,science
+1639,15,19,5,29,"sports, science, literature"
+1640,13,30,18,15,"science, literature"
+1641,11,11,16,32,"sports, literature"
+1642,15,17,17,10,"science, literature"
+1643,15,26,17,15,science
+1644,15,26,6,42,"sports, science"
+1645,15,25,19,41,"sports, science"
+1646,10,28,11,34,sports
+1647,12,20,18,29,"sports, science"
+1648,10,12,16,41,"sports, literature"
+1649,12,22,19,25,science
+1650,10,28,7,16,literature
+1651,14,17,7,31,literature
+1652,15,24,12,36,science
+1653,15,19,7,11,"science, literature"
+1654,15,28,12,32,science
+1655,12,12,12,40,"sports, science"
+1656,15,12,6,24,science
+1657,13,25,13,44,sports
+1658,14,21,19,38,"sports, literature"
+1659,13,10,20,22,literature
+1660,13,20,15,40,literature
+1661,13,27,6,12,"sports, literature"
+1662,14,16,19,20,"sports, science, literature"
+1663,15,22,18,35,"sports, literature"
+1664,13,20,16,12,science
+1665,12,19,18,36,"sports, science"
+1666,12,17,5,32,"sports, science, literature"
+1667,12,27,6,19,"science, literature"
+1668,14,15,7,31,science
+1669,15,17,19,32,"sports, science, literature"
+1670,11,28,10,44,literature
+1671,13,27,7,15,"sports, science, literature"
+1672,13,28,19,36,science
+1673,13,10,6,12,"sports, literature"
+1674,14,28,11,48,"sports, literature"
+1675,11,26,19,11,literature
+1676,11,28,6,40,"sports, literature"
+1677,12,15,5,18,science
+1678,10,11,8,14,sports
+1679,14,30,16,28,literature
+1680,13,25,13,39,"sports, science, literature"
+1681,15,13,5,14,science
+1682,12,12,10,20,"sports, science"
+1683,15,16,19,18,science
+1684,15,19,11,22,science
+1685,10,20,9,36,literature
+1686,13,26,9,16,science
+1687,15,14,6,41,science
+1688,14,13,14,20,science
+1689,13,19,17,18,"science, literature"
+1690,15,12,16,14,science
+1691,14,18,12,33,science
+1692,14,25,6,37,"sports, literature"
+1693,14,10,6,43,science
+1694,13,28,11,22,science
+1695,15,18,19,36,science
+1696,15,13,11,10,"science, literature"
+1697,11,30,7,17,"sports, science, literature"
+1698,11,15,19,22,science
+1699,15,13,16,24,"sports, science, literature"
+1700,12,26,5,11,science
+1701,13,30,17,21,"sports, science"
+1702,10,18,9,39,"sports, literature"
+1703,13,11,6,10,"sports, literature"
+1704,10,17,8,32,literature
+1705,14,29,12,33,science
+1706,10,12,10,38,science
+1707,11,28,12,22,science
+1708,14,17,17,34,"sports, science, literature"
+1709,11,24,19,16,"sports, science, literature"
+1710,13,17,9,38,"sports, science"
+1711,12,20,13,17,sports
+1712,11,10,20,34,science
+1713,10,14,10,30,"sports, literature"
+1714,13,19,15,18,"sports, literature"
+1715,13,19,13,19,sports
+1716,10,23,12,44,"sports, science, literature"
+1717,10,27,13,22,science
+1718,12,29,14,44,science
+1719,14,11,7,44,science
+1720,11,25,18,32,"sports, science, literature"
+1721,13,25,15,40,science
+1722,13,27,19,45,"sports, science"
+1723,12,24,9,16,"sports, science, literature"
+1724,15,20,5,14,literature
+1725,15,21,9,22,sports
+1726,14,17,5,30,science
+1727,11,19,12,27,literature
+1728,13,16,13,44,sports
+1729,14,26,5,30,sports
+1730,15,25,15,18,science
+1731,14,30,5,30,science
+1732,15,19,8,13,"science, literature"
+1733,13,19,7,24,"sports, science"
+1734,10,28,16,24,science
+1735,13,17,6,11,science
+1736,10,27,7,34,sports
+1737,13,21,8,21,"sports, science"
+1738,14,14,19,28,sports
+1739,14,17,9,31,sports
+1740,10,21,20,28,sports
+1741,15,30,6,34,"science, literature"
+1742,15,19,5,22,literature
+1743,10,29,15,14,sports
+1744,12,12,16,21,science
+1745,11,25,10,39,sports
+1746,14,16,5,32,"sports, science, literature"
+1747,15,17,15,40,"science, literature"
+1748,15,25,14,14,"sports, science"
+1749,11,19,13,25,science
+1750,11,22,19,28,"sports, science"
+1751,15,26,14,44,"sports, science, literature"
+1752,15,14,9,28,"sports, literature"
+1753,14,29,17,24,"sports, science"
+1754,14,16,13,41,"sports, science, literature"
+1755,10,29,16,46,science
+1756,10,11,18,50,literature
+1757,15,19,20,39,"science, literature"
+1758,14,21,18,19,science
+1759,10,28,13,13,"science, literature"
+1760,13,18,5,20,science
+1761,14,11,12,34,science
+1762,14,12,13,33,science
+1763,12,24,8,39,science
+1764,11,22,14,40,"sports, literature"
+1765,10,16,15,15,"science, literature"
+1766,14,29,16,18,"sports, literature"
+1767,11,23,7,16,literature
+1768,12,15,17,34,literature
+1769,15,13,13,20,science
+1770,12,28,13,44,"sports, science, literature"
+1771,11,29,20,11,"sports, science"
+1772,10,25,7,16,"sports, literature"
+1773,14,19,6,15,"sports, literature"
+1774,12,22,7,24,science
+1775,14,29,19,44,"sports, science"
+1776,11,17,9,27,sports
+1777,10,15,14,50,"sports, science, literature"
+1778,10,30,10,37,science
+1779,10,14,14,15,"science, literature"
+1780,14,25,6,35,literature
+1781,10,19,8,15,"science, literature"
+1782,13,18,18,25,science
+1783,10,27,7,20,science
+1784,13,13,8,14,"sports, science, literature"
+1785,11,30,20,39,"sports, literature"
+1786,13,25,12,32,science
+1787,15,30,6,16,science
+1788,13,16,10,40,literature
+1789,13,16,16,23,literature
+1790,11,25,11,35,"sports, literature"
+1791,11,23,17,44,science
+1792,15,15,9,31,"sports, science, literature"
+1793,14,24,9,21,literature
+1794,14,24,7,21,"sports, science"
+1795,14,19,9,37,"sports, science, literature"
+1796,12,16,14,49,"sports, science"
+1797,12,13,14,32,"sports, literature"
+1798,14,26,12,45,sports
+1799,13,30,13,18,"sports, science, literature"
+1800,13,19,19,34,sports
+1801,10,23,12,13,"sports, science"
+1802,14,15,15,17,"science, literature"
+1803,15,25,10,28,"science, literature"
+1804,13,23,20,45,"sports, science, literature"
+1805,15,27,13,10,science
+1806,12,11,8,34,"sports, literature"
+1807,12,30,18,41,"science, literature"
+1808,13,18,12,17,"sports, science, literature"
+1809,13,19,12,12,"science, literature"
+1810,10,26,13,30,"sports, science, literature"
+1811,11,25,19,36,science
+1812,14,12,6,25,"sports, science, literature"
+1813,13,28,15,37,"sports, literature"
+1814,11,11,17,40,literature
+1815,13,29,19,33,science
+1816,13,14,9,37,"sports, science"
+1817,15,20,11,30,science
+1818,14,30,9,42,"science, literature"
+1819,15,23,13,26,science
+1820,10,29,5,17,"sports, literature"
+1821,12,26,15,26,"sports, literature"
+1822,13,13,9,13,"sports, science, literature"
+1823,10,15,13,23,"science, literature"
+1824,12,30,11,37,"sports, science"
+1825,13,26,19,28,"sports, science, literature"
+1826,11,16,6,49,sports
+1827,15,25,18,44,"sports, science, literature"
+1828,11,17,5,11,literature
+1829,12,17,10,26,"sports, science"
+1830,13,26,14,39,literature
+1831,12,25,9,49,science
+1832,15,10,19,34,"sports, science"
+1833,13,24,10,40,sports
+1834,14,10,19,13,science
+1835,15,30,20,43,"science, literature"
+1836,14,21,16,39,science
+1837,11,19,8,29,literature
+1838,14,12,9,22,literature
+1839,13,25,7,13,"sports, science"
+1840,10,11,12,12,"science, literature"
+1841,14,25,9,10,"sports, literature"
+1842,10,28,6,19,science
+1843,14,22,9,13,science
+1844,12,15,7,47,"sports, science, literature"
+1845,14,11,16,11,"science, literature"
+1846,14,26,12,10,"science, literature"
+1847,15,21,8,47,sports
+1848,14,25,7,26,science
+1849,10,24,20,11,"science, literature"
+1850,13,26,16,11,"sports, science"
+1851,13,23,9,32,science
+1852,15,10,5,11,science
+1853,15,22,12,12,"sports, science, literature"
+1854,14,17,7,14,"sports, science, literature"
+1855,13,29,13,49,science
+1856,13,17,15,49,sports
+1857,10,21,18,22,science
+1858,12,30,13,28,"sports, science"
+1859,10,13,9,46,sports
+1860,14,26,8,22,science
+1861,10,24,19,20,"science, literature"
+1862,15,16,12,14,science
+1863,11,26,9,27,literature
+1864,13,20,13,20,science
+1865,11,22,18,41,sports
+1866,10,15,18,15,"sports, science"
+1867,12,19,9,40,sports
+1868,11,16,17,48,literature
+1869,13,28,11,19,science
+1870,15,12,14,38,"science, literature"
+1871,14,23,10,39,literature
+1872,10,29,5,10,"sports, science"
+1873,15,15,14,14,science
+1874,13,26,7,30,"sports, literature"
+1875,13,24,5,47,"science, literature"
+1876,15,24,18,32,science
+1877,11,24,12,30,"sports, science, literature"
+1878,11,22,7,33,science
+1879,13,29,10,11,"sports, literature"
+1880,15,16,8,18,"sports, science, literature"
+1881,10,21,17,49,literature
+1882,11,26,6,18,literature
+1883,13,28,5,49,"sports, literature"
+1884,12,28,10,30,science
+1885,12,21,10,24,"sports, literature"
+1886,13,14,10,23,sports
+1887,14,22,12,45,sports
+1888,12,30,12,38,"sports, science, literature"
+1889,11,17,19,10,"sports, science"
+1890,12,28,11,30,science
+1891,13,23,13,27,"sports, literature"
+1892,11,14,14,10,sports
+1893,12,11,18,23,literature
+1894,11,26,20,42,sports
+1895,15,17,7,27,"science, literature"
+1896,14,17,17,14,literature
+1897,15,11,7,37,literature
+1898,15,25,11,50,"sports, science, literature"
+1899,14,21,7,44,"sports, science"
+1900,15,12,9,45,literature
+1901,14,22,16,25,"science, literature"
+1902,13,11,12,36,"sports, science"
+1903,11,26,17,45,science
+1904,10,24,13,47,sports
+1905,13,30,17,11,"sports, literature"
+1906,14,23,9,39,literature
+1907,10,11,5,33,sports
+1908,12,14,20,10,science
+1909,11,17,17,21,"sports, science, literature"
+1910,12,13,13,47,"science, literature"
+1911,14,11,10,32,"sports, science"
+1912,13,26,9,18,science
+1913,13,14,8,21,sports
+1914,10,29,15,21,"sports, science"
+1915,15,11,18,31,literature
+1916,11,15,19,11,"science, literature"
+1917,11,11,9,45,literature
+1918,11,25,5,44,sports
+1919,11,20,17,39,"science, literature"
+1920,10,21,5,17,science
+1921,12,27,19,27,science
+1922,10,18,11,42,"sports, science"
+1923,14,28,10,42,science
+1924,14,13,5,29,"sports, literature"
+1925,12,13,10,42,science
+1926,12,11,19,30,"sports, science"
+1927,11,16,6,27,"science, literature"
+1928,13,26,10,38,science
+1929,15,14,16,31,"sports, science"
+1930,12,17,8,37,sports
+1931,14,21,16,34,literature
+1932,11,25,5,35,literature
+1933,12,11,18,24,science
+1934,12,12,12,34,science
+1935,11,10,5,33,"science, literature"
+1936,14,14,19,16,"sports, science"
+1937,15,14,17,26,"science, literature"
+1938,12,19,20,34,"sports, literature"
+1939,14,27,13,47,"sports, science"
+1940,15,20,14,15,"sports, science"
+1941,15,24,16,26,"sports, literature"
+1942,13,25,12,38,"science, literature"
+1943,14,16,6,22,sports
+1944,12,19,9,43,science
+1945,13,13,19,34,literature
+1946,10,29,6,16,science
+1947,12,21,17,49,science
+1948,14,20,13,33,science
+1949,11,26,13,20,science
+1950,14,18,8,41,"science, literature"
+1951,10,29,8,13,literature
+1952,12,11,19,13,"science, literature"
+1953,10,28,16,21,"sports, science, literature"
+1954,15,27,11,14,"sports, literature"
+1955,13,25,10,22,"sports, science, literature"
+1956,13,25,5,34,"science, literature"
+1957,12,20,13,19,literature
+1958,12,10,13,42,science
+1959,12,23,9,33,sports
+1960,13,18,8,21,"sports, science, literature"
+1961,13,13,16,46,"sports, science, literature"
+1962,11,11,15,11,science
+1963,14,27,14,15,literature
+1964,15,29,16,41,"sports, science, literature"
+1965,13,10,19,21,"science, literature"
+1966,10,20,19,42,science
+1967,15,14,7,34,science
+1968,11,23,11,30,science
+1969,10,13,9,26,sports
+1970,10,23,6,12,science
+1971,13,21,6,10,"sports, science"
+1972,14,25,19,50,"sports, science, literature"
+1973,11,13,20,39,"sports, science"
+1974,10,13,17,25,"sports, science"
+1975,11,26,14,12,"science, literature"
+1976,14,15,17,47,literature
+1977,10,21,11,41,"sports, science"
+1978,15,18,15,44,"sports, science, literature"
+1979,11,16,13,27,"sports, science, literature"
+1980,11,12,11,41,sports
+1981,10,16,12,19,"sports, literature"
+1982,14,26,16,10,science
+1983,14,10,7,49,"sports, science"
+1984,14,30,9,45,"sports, science"
+1985,14,27,12,29,sports
+1986,11,24,10,41,science
+1987,15,18,15,36,"sports, science"
+1988,12,17,17,26,"sports, science, literature"
+1989,15,17,8,26,literature
+1990,13,16,19,17,science
+1991,15,18,18,11,"sports, science"
+1992,14,17,8,39,"sports, science"
+1993,12,17,11,11,science
+1994,15,21,11,32,"sports, science"
+1995,10,27,5,35,sports
+1996,14,16,15,20,science
+1997,14,28,14,29,sports
+1998,11,26,8,35,"sports, science, literature"
+1999,10,29,14,31,"sports, science, literature"
+2000,11,20,14,22,"sports, literature"
+2001,15,10,20,41,"sports, science"
+2002,14,30,5,23,science
+2003,13,19,18,23,"sports, science, literature"
+2004,13,26,14,12,"science, literature"
+2005,14,22,12,23,"sports, literature"
+2006,12,27,20,49,science
+2007,13,25,11,33,science
+2008,14,26,8,20,"science, literature"
+2009,14,11,10,30,literature
+2010,10,26,5,43,"sports, science"
+2011,10,17,10,28,science
+2012,11,25,9,38,science
+2013,15,22,16,39,"sports, science, literature"
+2014,13,14,14,26,"science, literature"
+2015,13,14,17,27,"science, literature"
+2016,14,28,17,31,science
+2017,12,13,16,36,literature
+2018,14,11,7,26,"science, literature"
+2019,11,17,13,30,"sports, science"
+2020,11,14,13,11,science
+2021,14,23,11,18,literature
+2022,14,23,6,32,"sports, literature"
+2023,15,23,5,34,"sports, science"
+2024,11,21,13,23,sports
+2025,11,26,17,16,science
+2026,12,27,11,26,science
+2027,13,25,15,36,science
+2028,12,30,6,39,sports
+2029,12,23,7,24,"science, literature"
+2030,11,11,8,25,"sports, science"
+2031,12,17,6,18,"sports, science"
+2032,11,24,20,41,"sports, science"
+2033,11,30,6,10,science
+2034,13,16,8,18,"sports, literature"
+2035,11,22,14,41,science
+2036,13,16,10,47,science
+2037,10,21,12,19,literature
+2038,13,26,15,45,science
+2039,15,10,14,32,science
+2040,12,29,13,15,"sports, science, literature"
+2041,10,10,17,29,"sports, literature"
+2042,13,25,18,39,"sports, literature"
+2043,13,13,10,45,"sports, literature"
+2044,15,13,20,37,"sports, science, literature"
+2045,13,14,8,22,literature
+2046,12,28,12,49,"science, literature"
+2047,11,22,5,39,literature
+2048,13,24,13,39,"sports, literature"
+2049,11,14,14,12,"science, literature"
+2050,11,17,13,49,science
+2051,10,26,14,31,science
+2052,13,16,7,48,science
+2053,14,13,18,46,sports
+2054,14,30,13,42,"sports, science"
+2055,14,24,17,27,sports
+2056,14,13,12,28,"sports, literature"
+2057,13,24,5,19,science
+2058,14,20,12,37,"sports, literature"
+2059,14,28,8,50,science
+2060,12,14,11,48,"sports, science, literature"
+2061,12,28,20,23,"sports, science, literature"
+2062,13,29,8,17,"sports, literature"
+2063,13,13,5,24,"sports, literature"
+2064,13,10,11,40,science
+2065,11,26,8,46,literature
+2066,14,15,5,40,"sports, literature"
+2067,14,21,15,29,"sports, science, literature"
+2068,12,20,16,50,"sports, literature"
+2069,13,17,20,15,"sports, literature"
+2070,11,13,19,22,science
+2071,12,17,17,24,literature
+2072,10,12,9,30,sports
+2073,11,15,5,33,"sports, literature"
+2074,10,29,12,21,sports
+2075,14,25,20,24,"sports, science, literature"
+2076,15,22,18,24,literature
+2077,14,30,19,45,sports
+2078,13,10,12,27,"sports, science"
+2079,15,24,5,30,literature
+2080,11,18,11,48,"sports, science, literature"
+2081,10,15,7,34,"sports, science, literature"
+2082,13,16,8,41,science
+2083,10,14,20,27,sports
+2084,13,17,10,19,"science, literature"
+2085,15,30,5,36,science
+2086,14,11,18,31,"sports, science"
+2087,13,24,7,14,"sports, science, literature"
+2088,15,20,13,44,"sports, literature"
+2089,14,16,6,38,"sports, literature"
+2090,15,22,20,48,science
+2091,14,12,15,32,literature
+2092,11,15,9,30,"sports, science"
+2093,12,28,20,20,"sports, science, literature"
+2094,11,10,7,16,science
+2095,12,11,16,27,sports
+2096,15,19,5,29,science
+2097,13,15,12,12,literature
+2098,12,23,19,10,"sports, science, literature"
+2099,15,24,18,26,science
+2100,11,18,18,32,"sports, science, literature"
+2101,13,11,15,34,"sports, literature"
+2102,13,14,7,40,"science, literature"
+2103,11,12,9,30,"science, literature"
+2104,15,28,16,48,science
+2105,12,30,7,29,sports
+2106,12,22,14,24,sports
+2107,11,19,13,46,"sports, science, literature"
+2108,10,14,13,12,science
+2109,12,29,14,35,"sports, science, literature"
+2110,10,22,8,17,"sports, science, literature"
+2111,12,16,14,23,"sports, science, literature"
+2112,13,22,11,50,"sports, literature"
+2113,11,26,11,18,"sports, science"
+2114,11,27,17,16,"sports, science, literature"
+2115,11,19,15,27,science
+2116,12,20,12,26,science
+2117,15,15,19,20,science
+2118,14,19,6,28,science
+2119,10,20,11,13,science
+2120,11,12,18,35,literature
+2121,14,13,19,44,"sports, literature"
+2122,11,19,7,11,science
+2123,15,18,13,34,"science, literature"
+2124,13,26,9,48,"sports, science"
+2125,14,19,19,48,"sports, literature"
+2126,14,18,16,45,literature
+2127,15,19,11,40,science
+2128,13,19,11,45,"sports, science"
+2129,11,20,16,13,science
+2130,11,11,14,18,"sports, literature"
+2131,13,30,10,29,science
+2132,12,23,8,49,"sports, science"
+2133,10,30,9,24,"sports, science, literature"
+2134,14,25,20,34,literature
+2135,11,30,19,38,"sports, science"
+2136,14,14,8,22,science
+2137,13,17,13,21,"sports, science"
+2138,15,10,14,30,"sports, science, literature"
+2139,15,19,10,36,sports
+2140,11,12,9,30,sports
+2141,10,18,16,13,literature
+2142,13,30,9,14,"sports, science"
+2143,11,29,8,24,"sports, science"
+2144,11,21,12,44,literature
+2145,14,12,18,24,literature
+2146,11,30,11,14,"sports, literature"
+2147,10,21,16,49,"sports, science, literature"
+2148,13,20,6,19,science
+2149,13,12,17,14,science
+2150,15,20,17,32,science
+2151,13,20,9,15,"sports, science"
+2152,12,29,12,20,"sports, science, literature"
+2153,13,17,13,48,science
+2154,11,17,17,13,"science, literature"
+2155,15,29,11,20,"sports, science"
+2156,12,11,9,41,science
+2157,10,16,8,44,science
+2158,12,30,17,50,sports
+2159,10,29,5,45,science
+2160,11,22,19,38,science
+2161,11,25,7,33,science
+2162,15,18,16,13,science
+2163,15,15,9,42,"sports, science, literature"
+2164,15,25,16,27,"sports, science, literature"
+2165,14,27,18,50,"sports, science, literature"
+2166,13,30,13,23,science
+2167,14,19,13,49,"science, literature"
+2168,15,28,20,24,sports
+2169,10,20,19,39,"sports, science, literature"
+2170,14,23,16,29,"sports, literature"
+2171,13,12,18,14,science
+2172,14,17,5,29,"sports, literature"
+2173,11,19,20,41,"sports, science, literature"
+2174,14,27,10,15,science
+2175,11,10,6,29,sports
+2176,13,16,14,37,science
+2177,14,12,16,48,science
+2178,12,11,9,17,literature
+2179,13,16,19,30,"science, literature"
+2180,12,15,15,45,"sports, science, literature"
+2181,15,30,10,26,science
+2182,14,23,8,39,"sports, science"
+2183,11,12,6,17,"science, literature"
+2184,10,27,12,50,science
+2185,10,10,14,15,science
+2186,11,16,11,40,science
+2187,14,13,19,18,sports
+2188,10,30,17,15,sports
+2189,10,19,13,21,sports
+2190,11,30,5,18,literature
+2191,11,26,13,21,"sports, science"
+2192,11,18,10,28,science
+2193,15,30,7,41,sports
+2194,12,24,15,25,science
+2195,14,25,11,19,sports
+2196,14,24,16,33,sports
+2197,15,12,18,41,science
+2198,11,16,19,32,"sports, science, literature"
+2199,12,30,9,16,"sports, science"
+2200,14,14,20,35,science
+2201,11,24,8,19,"sports, literature"
+2202,15,26,6,18,science
+2203,11,13,6,26,science
+2204,11,12,8,14,science
+2205,13,19,11,34,"sports, literature"
+2206,12,26,12,35,"sports, science, literature"
+2207,14,29,15,28,sports
+2208,11,17,18,47,"science, literature"
+2209,12,15,16,27,"science, literature"
+2210,13,11,19,43,sports
+2211,13,10,6,40,"science, literature"
+2212,13,12,10,28,"sports, literature"
+2213,11,24,6,39,"science, literature"
+2214,12,12,7,41,"science, literature"
+2215,11,14,17,27,science
+2216,10,23,16,21,sports
+2217,10,19,10,15,"sports, science, literature"
+2218,13,23,12,41,sports
+2219,11,18,17,36,sports
+2220,11,21,17,28,literature
+2221,10,15,9,36,"sports, science, literature"
+2222,11,11,5,32,"sports, literature"
+2223,12,13,11,18,science
+2224,14,19,17,14,"sports, science"
+2225,10,21,10,15,science
+2226,11,29,15,42,"science, literature"
+2227,15,27,19,19,sports
+2228,11,24,20,33,"sports, science"
+2229,12,27,15,39,"science, literature"
+2230,12,24,17,38,"sports, literature"
+2231,14,27,16,36,literature
+2232,14,28,6,40,science
+2233,11,29,11,36,"science, literature"
+2234,12,20,6,50,"sports, science"
+2235,11,18,13,46,science
+2236,14,22,11,13,"sports, science, literature"
+2237,14,13,17,11,science
+2238,14,20,16,20,science
+2239,10,25,19,31,literature
+2240,12,15,20,13,science
+2241,11,12,13,11,"science, literature"
+2242,12,21,18,41,sports
+2243,13,11,17,14,science
+2244,13,14,7,34,literature
+2245,15,24,17,38,sports
+2246,14,25,16,24,"sports, science"
+2247,14,29,15,34,"science, literature"
+2248,13,28,14,40,"sports, science, literature"
+2249,13,12,6,31,"sports, science, literature"
+2250,10,15,17,41,science
+2251,10,17,5,34,literature
+2252,14,21,13,27,science
+2253,15,29,18,49,literature
+2254,15,16,5,35,"sports, science"
+2255,15,23,11,41,"sports, science, literature"
+2256,10,24,15,19,"sports, science, literature"
+2257,15,14,17,23,"sports, science, literature"
+2258,10,29,20,11,"sports, science"
+2259,12,10,13,41,literature
+2260,15,10,5,29,"sports, science, literature"
+2261,15,27,7,13,"sports, science"
+2262,10,11,14,36,"sports, science, literature"
+2263,15,25,15,17,science
+2264,14,14,15,43,literature
+2265,12,22,13,44,"sports, science"
+2266,12,26,5,41,"sports, science"
+2267,12,14,15,12,science
+2268,10,20,15,27,"science, literature"
+2269,14,21,6,15,"sports, science"
+2270,13,26,18,12,"science, literature"
+2271,12,19,13,11,"science, literature"
+2272,15,21,10,19,"sports, literature"
+2273,15,20,14,28,literature
+2274,11,13,15,40,science
+2275,15,15,18,19,science
+2276,14,12,13,24,science
+2277,15,22,12,11,literature
+2278,15,29,5,33,sports
+2279,11,24,13,32,sports
+2280,14,15,5,18,sports
+2281,15,27,7,10,"sports, science"
+2282,10,18,13,21,sports
+2283,11,13,15,19,"sports, science, literature"
+2284,13,27,7,19,sports
+2285,14,20,8,38,"sports, science, literature"
+2286,12,23,20,28,science
+2287,12,11,12,24,"sports, science"
+2288,10,14,8,29,"sports, science, literature"
+2289,12,11,17,29,"sports, literature"
+2290,11,13,17,16,literature
+2291,12,15,5,38,"sports, literature"
+2292,10,25,12,37,literature
+2293,15,23,6,45,literature
+2294,10,30,16,39,sports
+2295,11,19,14,17,sports
+2296,15,17,5,18,sports
+2297,11,21,5,44,"sports, science"
+2298,12,25,5,48,"sports, literature"
+2299,15,10,16,31,"sports, science, literature"
+2300,15,15,14,15,"science, literature"
+2301,11,20,6,11,"science, literature"
+2302,13,20,12,40,"science, literature"
+2303,12,23,18,33,science
+2304,15,14,12,19,"sports, literature"
+2305,15,26,15,34,"science, literature"
+2306,13,18,9,30,literature
+2307,15,12,14,12,sports
+2308,14,24,18,28,science
+2309,15,23,11,40,"sports, science, literature"
+2310,13,14,13,24,"science, literature"
+2311,14,21,7,13,science
+2312,13,13,17,48,"sports, literature"
+2313,10,24,18,19,literature
+2314,11,27,18,49,"sports, literature"
+2315,10,22,13,41,sports
+2316,13,28,12,13,sports
+2317,11,23,6,43,"sports, science"
+2318,15,23,12,24,science
+2319,13,26,6,20,"sports, literature"
+2320,12,28,7,16,science
+2321,11,15,13,34,sports
+2322,15,14,12,14,"sports, literature"
+2323,15,18,17,22,science
+2324,14,18,6,41,literature
+2325,15,11,16,38,science
+2326,13,25,17,50,"sports, science, literature"
+2327,14,23,6,13,literature
+2328,15,17,15,24,"sports, science"
+2329,10,15,17,11,sports
+2330,10,18,20,14,"sports, science, literature"
+2331,12,14,16,30,"sports, science, literature"
+2332,12,20,7,30,sports
+2333,12,18,19,36,science
+2334,15,26,5,20,"science, literature"
+2335,10,30,10,15,"sports, science"
+2336,12,28,17,41,science
+2337,13,19,19,39,"science, literature"
+2338,13,16,6,49,science
+2339,15,22,5,46,"sports, literature"
+2340,15,16,8,35,"sports, science"
+2341,12,10,15,35,science
+2342,13,23,11,31,"sports, literature"
+2343,13,24,6,10,"science, literature"
+2344,10,19,7,26,"sports, literature"
+2345,11,25,12,30,science
+2346,15,28,14,17,"sports, science"
+2347,14,17,10,22,literature
+2348,12,27,11,45,literature
+2349,11,30,17,13,"sports, science"
+2350,13,14,10,12,science
+2351,14,29,16,32,literature
+2352,12,22,11,14,science
+2353,10,19,7,21,sports
+2354,10,16,10,37,"sports, science, literature"
+2355,11,29,18,50,"sports, science, literature"
+2356,12,27,14,34,science
+2357,12,17,18,48,"sports, literature"
+2358,13,18,16,41,"sports, science, literature"
+2359,15,12,17,16,"sports, literature"
+2360,15,23,20,11,science
+2361,13,17,10,40,"science, literature"
+2362,14,21,11,24,"science, literature"
+2363,13,13,10,22,"sports, science, literature"
+2364,12,17,10,23,"sports, science"
+2365,15,27,13,28,science
+2366,10,25,19,33,sports
+2367,11,18,5,35,science
+2368,13,25,18,16,science
+2369,11,27,17,40,"sports, science"
+2370,13,29,20,40,science
+2371,10,29,10,41,"sports, literature"
+2372,10,12,18,23,sports
+2373,13,22,11,50,science
+2374,14,24,14,41,"sports, science, literature"
+2375,10,12,11,30,sports
+2376,15,18,13,46,science
+2377,15,11,6,10,science
+2378,15,30,12,45,"sports, science"
+2379,15,11,5,12,literature
+2380,13,27,12,18,science
+2381,11,25,20,35,"sports, science"
+2382,14,30,9,23,"sports, science"
+2383,15,29,12,19,science
+2384,12,21,7,45,science
+2385,11,26,7,36,literature
+2386,12,12,12,28,"sports, literature"
+2387,11,30,18,27,"science, literature"
+2388,14,13,6,30,science
+2389,14,19,6,14,"sports, science"
+2390,11,19,10,22,sports
+2391,10,15,7,22,"sports, science, literature"
+2392,14,22,8,46,"sports, science, literature"
+2393,14,17,16,46,science
+2394,10,26,13,35,science
+2395,11,22,19,21,"science, literature"
+2396,14,18,11,33,literature
+2397,13,10,7,45,literature
+2398,14,30,15,41,sports
+2399,10,11,14,39,literature
+2400,12,19,5,42,science
+2401,12,17,20,44,"science, literature"
+2402,10,24,5,43,literature
+2403,14,24,16,21,"sports, literature"
+2404,11,27,12,36,sports
+2405,12,29,5,37,"sports, science"
+2406,11,19,17,17,"sports, science, literature"
+2407,11,28,20,31,sports
+2408,12,15,16,40,science
+2409,10,17,10,20,literature
+2410,11,18,20,22,sports
+2411,11,29,10,50,"science, literature"
+2412,10,17,7,35,"sports, science"
+2413,12,16,19,38,"sports, science"
+2414,15,19,18,25,"science, literature"
+2415,15,18,6,34,literature
+2416,12,30,15,13,"sports, science"
+2417,14,15,19,35,"science, literature"
+2418,10,29,13,21,literature
+2419,10,25,10,41,sports
+2420,15,29,10,43,science
+2421,12,27,9,29,"sports, science, literature"
+2422,11,16,19,44,"science, literature"
+2423,14,21,10,25,"sports, literature"
+2424,12,20,18,11,"science, literature"
+2425,15,22,8,17,"sports, science, literature"
+2426,11,29,13,20,"science, literature"
+2427,14,30,13,42,"sports, science, literature"
+2428,12,27,7,18,"sports, literature"
+2429,15,28,11,32,"sports, science, literature"
+2430,11,28,13,23,science
+2431,13,12,11,40,"science, literature"
+2432,12,18,16,26,literature
+2433,11,18,12,21,sports
+2434,13,28,6,30,sports
+2435,14,13,10,23,"sports, literature"
+2436,13,18,16,30,science
+2437,11,17,20,22,sports
+2438,13,27,18,38,"science, literature"
+2439,10,14,17,45,"science, literature"
+2440,14,20,7,33,science
+2441,13,16,5,36,"science, literature"
+2442,15,20,10,38,science
+2443,12,30,14,23,"sports, science"
+2444,15,25,10,13,"sports, literature"
+2445,15,21,16,40,science
+2446,13,28,11,13,science
+2447,13,18,11,43,science
+2448,13,27,9,14,"sports, science"
+2449,11,26,13,24,"sports, science"
+2450,13,23,12,43,"science, literature"
+2451,11,22,20,19,science
+2452,13,27,20,44,"sports, science, literature"
+2453,12,29,7,45,sports
+2454,13,21,13,41,literature
+2455,12,22,5,31,"sports, science"
+2456,13,26,14,10,"science, literature"
+2457,15,23,12,19,science
+2458,10,23,14,12,science
+2459,15,21,14,39,"sports, science"
+2460,10,23,11,25,science
+2461,15,30,14,12,"sports, science"
+2462,15,24,7,38,"science, literature"
+2463,14,15,16,50,science
+2464,14,15,13,18,"sports, literature"
+2465,15,21,8,29,science
+2466,11,28,14,39,literature
+2467,15,13,14,24,science
+2468,13,20,10,10,"sports, literature"
+2469,11,24,10,40,"sports, literature"
+2470,10,14,13,13,sports
+2471,14,12,16,11,"science, literature"
+2472,10,26,11,46,sports
+2473,12,21,19,27,"sports, science, literature"
+2474,13,21,19,30,science
+2475,10,22,19,35,sports
+2476,14,21,9,38,"sports, literature"
+2477,11,23,11,40,"science, literature"
+2478,15,30,17,49,science
+2479,10,20,14,48,"science, literature"
+2480,11,10,18,45,"sports, science, literature"
+2481,11,14,17,45,"science, literature"
+2482,13,26,15,21,"sports, science"
+2483,12,18,15,44,literature
+2484,15,14,20,39,"sports, science"
+2485,13,23,14,44,"sports, science"
+2486,14,28,16,21,"sports, science"
+2487,13,15,17,49,"sports, science, literature"
+2488,11,17,14,10,science
+2489,10,20,20,16,sports
+2490,14,17,9,26,"science, literature"
+2491,15,16,12,47,science
+2492,12,16,7,35,"science, literature"
+2493,11,17,19,48,science
+2494,10,16,18,15,science
+2495,11,25,13,19,science
+2496,10,21,14,28,"sports, science, literature"
+2497,14,23,13,23,literature
+2498,11,12,6,25,"science, literature"
+2499,12,24,17,40,"science, literature"
+2500,11,19,5,15,science
+2501,13,23,11,43,"sports, science"
+2502,14,15,20,13,"sports, science, literature"
+2503,14,13,14,35,science
+2504,10,29,6,49,science
+2505,12,26,17,42,"sports, science, literature"
+2506,10,21,12,21,science
+2507,15,14,11,10,"sports, science"
+2508,15,16,20,37,science
+2509,10,11,8,39,"sports, literature"
+2510,15,16,16,38,"science, literature"
+2511,14,23,20,45,sports
+2512,14,24,10,13,"science, literature"
+2513,11,11,14,13,"sports, science, literature"
+2514,11,27,8,40,science
+2515,14,28,10,30,"sports, science, literature"
+2516,15,18,13,41,sports
+2517,15,18,10,11,"sports, science, literature"
+2518,13,24,15,49,"science, literature"
+2519,13,11,16,44,"science, literature"
+2520,10,16,18,24,sports
+2521,12,23,15,24,"sports, science"
+2522,10,15,5,31,"sports, literature"
+2523,14,16,11,14,"science, literature"
+2524,10,20,8,36,science
+2525,13,19,9,36,literature
+2526,11,23,17,37,literature
+2527,13,20,10,26,"sports, science"
+2528,12,23,13,13,"science, literature"
+2529,14,17,9,46,"sports, literature"
+2530,12,22,9,16,"sports, science"
+2531,13,13,14,30,literature
+2532,11,16,7,39,"science, literature"
+2533,10,28,10,24,"sports, literature"
+2534,11,11,10,36,science
+2535,14,21,5,47,"sports, literature"
+2536,15,16,16,44,"sports, science, literature"
+2537,10,14,12,21,"sports, science, literature"
+2538,13,26,6,37,sports
+2539,10,14,17,37,literature
+2540,12,18,6,35,literature
+2541,11,11,13,33,"sports, science"
+2542,11,17,6,44,sports
+2543,13,26,5,47,literature
+2544,14,29,16,33,science
+2545,10,26,14,12,"sports, science, literature"
+2546,13,26,15,19,science
+2547,12,20,19,21,sports
+2548,13,22,6,13,science
+2549,11,25,6,40,"sports, science, literature"
+2550,13,27,7,44,literature
+2551,13,28,9,30,sports
+2552,15,28,19,14,"sports, literature"
+2553,11,27,17,28,science
+2554,11,27,11,24,science
+2555,10,15,19,12,science
+2556,12,14,5,13,"sports, science, literature"
+2557,13,26,13,19,literature
+2558,10,11,10,33,"sports, science, literature"
+2559,12,29,7,39,"sports, science"
+2560,14,14,10,50,science
+2561,13,15,19,11,"sports, science, literature"
+2562,10,22,7,26,science
+2563,10,28,11,13,science
+2564,13,18,9,32,"sports, literature"
+2565,12,19,11,26,sports
+2566,14,20,13,39,literature
+2567,14,15,7,36,"science, literature"
+2568,15,14,10,35,"sports, literature"
+2569,15,29,16,30,sports
+2570,15,10,9,42,"sports, science"
+2571,14,10,11,29,science
+2572,13,17,18,48,"sports, literature"
+2573,12,26,10,13,"sports, science, literature"
+2574,15,22,16,37,science
+2575,10,14,17,18,science
+2576,14,19,7,48,"sports, literature"
+2577,10,13,17,25,"sports, science"
+2578,10,29,10,30,"sports, literature"
+2579,12,19,7,45,"sports, literature"
+2580,15,27,13,20,"sports, literature"
+2581,15,16,16,44,science
+2582,10,20,10,38,"sports, literature"
+2583,11,26,6,46,"sports, science, literature"
+2584,11,18,17,16,"sports, science, literature"
+2585,14,18,17,36,sports
+2586,13,16,17,20,literature
+2587,15,15,5,43,"sports, literature"
+2588,12,13,20,32,"sports, science"
+2589,15,20,5,43,sports
+2590,15,19,8,40,"sports, literature"
+2591,15,13,8,45,"sports, science, literature"
+2592,13,19,18,49,literature
+2593,14,21,7,38,sports
+2594,13,22,13,29,"science, literature"
+2595,11,19,11,37,sports
+2596,11,25,5,43,science
+2597,14,27,11,37,literature
+2598,11,23,13,10,sports
+2599,10,26,7,17,science
+2600,11,27,17,18,literature
+2601,14,11,12,45,science
+2602,10,21,20,36,literature
+2603,15,25,20,11,literature
+2604,12,12,7,35,"sports, science, literature"
+2605,13,21,19,19,"science, literature"
+2606,13,29,6,28,sports
+2607,14,23,18,42,"science, literature"
+2608,15,28,9,27,"science, literature"
+2609,11,30,16,45,"sports, science, literature"
+2610,15,27,9,42,literature
+2611,11,27,14,31,"science, literature"
+2612,13,13,16,30,literature
+2613,11,27,11,47,literature
+2614,10,20,9,29,"science, literature"
+2615,11,17,15,19,science
+2616,14,13,7,20,"sports, science"
+2617,10,25,10,19,science
+2618,14,25,7,21,science
+2619,10,11,5,25,"science, literature"
+2620,14,15,6,16,"sports, science"
+2621,13,13,15,37,science
+2622,14,25,10,34,"sports, science"
+2623,13,19,20,29,"sports, literature"
+2624,15,30,16,29,"sports, science, literature"
+2625,12,21,8,14,literature
+2626,10,17,13,11,"sports, science, literature"
+2627,12,27,9,32,"sports, science, literature"
+2628,12,12,8,40,science
+2629,13,10,7,25,science
+2630,14,27,12,15,science
+2631,14,25,8,35,"sports, science"
+2632,11,15,15,47,"science, literature"
+2633,15,26,12,48,"sports, literature"
+2634,12,26,10,47,sports
+2635,14,24,6,49,"sports, science, literature"
+2636,10,10,8,20,sports
+2637,13,14,17,43,"sports, literature"
+2638,14,16,17,43,"science, literature"
+2639,14,30,16,37,science
+2640,13,11,18,13,science
+2641,12,28,17,33,science
+2642,14,30,15,48,"sports, literature"
+2643,12,13,15,47,literature
+2644,13,17,10,43,"sports, science, literature"
+2645,12,19,20,29,"sports, science"
+2646,15,24,20,12,literature
+2647,15,26,10,11,literature
+2648,11,21,18,36,science
+2649,14,30,7,23,science
+2650,13,28,12,33,literature
+2651,14,11,14,30,"science, literature"
+2652,13,19,13,50,science
+2653,13,11,12,19,sports
+2654,10,26,5,17,sports
+2655,12,12,16,48,"sports, literature"
+2656,11,23,17,20,"science, literature"
+2657,14,11,10,29,"sports, literature"
+2658,12,20,20,46,sports
+2659,12,17,14,39,"science, literature"
+2660,12,13,9,34,sports
+2661,12,15,9,14,literature
+2662,14,23,14,10,"sports, science"
+2663,14,10,14,33,"sports, science, literature"
+2664,10,21,10,39,science
+2665,14,20,18,36,literature
+2666,11,11,9,11,"sports, science"
+2667,15,20,20,18,science
+2668,11,20,7,15,"sports, literature"
+2669,12,15,17,15,"sports, science, literature"
+2670,14,26,15,30,science
+2671,12,14,10,13,"sports, literature"
+2672,12,23,13,16,"science, literature"
+2673,13,24,20,50,"science, literature"
+2674,10,27,19,39,"science, literature"
+2675,15,16,18,35,science
+2676,10,19,17,38,"sports, science, literature"
+2677,11,16,8,43,sports
+2678,14,24,14,22,"science, literature"
+2679,13,29,18,18,science
+2680,14,18,10,34,"sports, science"
+2681,10,12,14,44,science
+2682,13,26,15,48,science
+2683,13,16,16,42,"sports, science"
+2684,15,28,16,50,"science, literature"
+2685,12,19,10,40,science
+2686,10,17,17,26,"sports, science, literature"
+2687,13,15,20,24,science
+2688,10,11,15,28,literature
+2689,11,21,13,36,"science, literature"
+2690,15,14,20,49,"sports, literature"
+2691,13,15,10,42,"science, literature"
+2692,12,24,7,40,"sports, literature"
+2693,10,16,12,18,science
+2694,15,14,15,28,"science, literature"
+2695,12,10,11,48,sports
+2696,14,25,10,30,sports
+2697,15,25,9,11,science
+2698,10,20,14,28,"sports, literature"
+2699,10,11,5,46,science
+2700,15,18,20,46,sports
+2701,10,21,13,15,science
+2702,10,16,16,18,"sports, science"
+2703,11,16,14,24,sports
+2704,12,25,8,37,sports
+2705,15,26,8,28,"sports, literature"
+2706,13,12,11,28,"sports, science, literature"
+2707,10,13,15,27,"sports, science"
+2708,12,30,17,43,sports
+2709,13,19,18,36,literature
+2710,10,27,5,17,"sports, literature"
+2711,15,29,15,31,"sports, science"
+2712,14,28,5,29,"sports, science, literature"
+2713,15,13,6,47,science
+2714,15,15,16,43,"sports, literature"
+2715,14,28,14,17,science
+2716,14,11,18,12,"sports, science"
+2717,11,17,7,37,science
+2718,15,17,19,33,science
+2719,14,12,14,45,literature
+2720,11,24,7,40,"sports, science"
+2721,13,24,7,26,"sports, science"
+2722,12,29,5,25,"sports, science, literature"
+2723,14,12,17,22,"sports, literature"
+2724,15,17,16,16,science
+2725,13,30,17,13,literature
+2726,11,30,13,12,"sports, science, literature"
+2727,11,15,18,43,"science, literature"
+2728,15,12,17,35,"sports, science, literature"
+2729,13,28,6,15,"sports, science"
+2730,11,17,9,17,sports
+2731,14,16,5,21,"sports, literature"
+2732,14,16,18,13,"science, literature"
+2733,14,22,6,38,sports
+2734,11,22,17,46,"sports, literature"
+2735,13,26,16,32,"sports, science"
+2736,11,21,8,26,science
+2737,14,24,20,48,sports
+2738,11,18,14,41,science
+2739,11,15,9,22,"sports, science"
+2740,12,10,11,13,"sports, science, literature"
+2741,12,27,6,22,"sports, literature"
+2742,12,20,13,28,"sports, literature"
+2743,15,21,16,25,sports
+2744,14,12,5,44,literature
+2745,13,22,10,22,science
+2746,12,27,7,29,science
+2747,14,14,17,21,"sports, science, literature"
+2748,13,23,18,30,sports
+2749,12,16,20,47,literature
+2750,13,16,13,23,"sports, science, literature"
+2751,10,21,13,14,"science, literature"
+2752,13,29,15,49,science
+2753,12,12,16,36,"sports, literature"
+2754,13,28,6,14,"science, literature"
+2755,11,28,7,48,sports
+2756,12,23,10,11,"sports, literature"
+2757,11,23,5,15,"sports, literature"
+2758,11,15,6,23,"sports, literature"
+2759,10,30,10,11,"sports, science, literature"
+2760,14,23,8,40,"sports, science, literature"
+2761,13,15,5,14,literature
+2762,15,18,19,31,science
+2763,15,22,12,48,literature
+2764,12,22,12,22,"sports, science, literature"
+2765,14,17,19,15,"science, literature"
+2766,11,18,5,11,science
+2767,10,12,19,40,"sports, science"
+2768,10,12,5,49,"sports, literature"
+2769,11,13,9,48,"sports, science, literature"
+2770,10,11,6,42,sports
+2771,13,30,5,27,"sports, literature"
+2772,13,27,9,48,"sports, literature"
+2773,15,23,9,17,"sports, science, literature"
+2774,14,18,15,18,science
+2775,11,17,17,36,literature
+2776,15,23,17,11,sports
+2777,11,13,7,15,"sports, literature"
+2778,13,28,14,21,science
+2779,11,18,13,30,"science, literature"
+2780,12,11,11,29,"sports, science, literature"
+2781,15,23,17,38,"sports, literature"
+2782,10,18,6,33,"sports, literature"
+2783,13,26,14,48,"science, literature"
+2784,15,28,20,45,"sports, science"
+2785,11,24,15,10,science
+2786,15,14,8,32,"sports, science, literature"
+2787,14,29,11,21,sports
+2788,14,27,7,39,"sports, science, literature"
+2789,10,21,5,34,"science, literature"
+2790,10,23,7,11,"science, literature"
+2791,12,18,18,35,"sports, literature"
+2792,15,11,16,50,"science, literature"
+2793,11,21,13,35,"sports, literature"
+2794,15,29,11,15,literature
+2795,10,25,9,21,"sports, science"
+2796,14,27,19,24,"sports, literature"
+2797,14,22,17,12,science
+2798,12,23,20,33,science
+2799,13,26,13,25,science
+2800,11,16,5,16,science
+2801,14,13,9,38,"sports, literature"
+2802,14,11,14,29,science
+2803,11,22,11,21,sports
+2804,13,24,13,49,sports
+2805,10,29,5,19,sports
+2806,15,18,16,12,"science, literature"
+2807,13,24,13,46,"sports, science"
+2808,13,20,20,38,"science, literature"
+2809,14,29,19,11,literature
+2810,10,29,15,28,science
+2811,14,23,19,48,"sports, science"
+2812,14,24,12,10,sports
+2813,11,26,17,19,literature
+2814,15,15,16,45,science
+2815,14,12,17,30,sports
+2816,10,23,10,12,science
+2817,10,18,14,39,science
+2818,13,26,19,30,science
+2819,14,20,10,40,"sports, science"
+2820,11,20,16,47,science
+2821,10,21,11,45,science
+2822,15,10,10,44,"science, literature"
+2823,15,29,20,32,"science, literature"
+2824,10,20,10,15,sports
+2825,10,17,10,32,sports
+2826,10,19,8,21,"sports, science, literature"
+2827,11,17,9,19,literature
+2828,12,20,11,37,sports
+2829,15,15,15,26,science
+2830,10,18,12,33,sports
+2831,10,12,8,45,literature
+2832,11,24,17,39,science
+2833,12,19,9,38,"sports, science, literature"
+2834,10,20,11,14,"sports, science, literature"
+2835,12,28,17,27,"science, literature"
+2836,13,24,16,33,"sports, science"
+2837,12,20,8,45,"sports, literature"
+2838,11,20,19,19,sports
+2839,10,18,5,44,"science, literature"
+2840,11,19,20,47,"sports, literature"
+2841,11,16,8,24,science
+2842,14,15,20,50,science
+2843,14,14,10,43,"sports, science, literature"
+2844,11,12,12,49,science
+2845,14,29,8,21,"sports, science, literature"
+2846,15,13,20,46,science
+2847,15,24,8,27,literature
+2848,10,27,14,21,science
+2849,14,19,18,37,science
+2850,11,16,13,30,"sports, science"
+2851,10,15,14,37,"science, literature"
+2852,15,13,17,12,"sports, science"
+2853,11,29,20,47,"science, literature"
+2854,13,19,17,18,literature
+2855,12,20,20,48,"science, literature"
+2856,11,16,10,20,"sports, literature"
+2857,13,14,8,42,science
+2858,12,10,11,26,literature
+2859,15,11,15,20,literature
+2860,15,10,18,17,"sports, science"
+2861,12,21,17,39,"science, literature"
+2862,13,22,11,33,literature
+2863,15,30,12,29,"sports, science"
+2864,14,16,9,14,"sports, science"
+2865,11,15,11,23,"sports, literature"
+2866,10,29,17,20,science
+2867,10,28,15,16,science
+2868,10,12,20,15,literature
+2869,14,25,18,13,sports
+2870,13,30,11,15,"sports, science, literature"
+2871,14,29,16,12,sports
+2872,11,12,11,20,"sports, science, literature"
+2873,15,26,18,33,sports
+2874,10,10,5,38,literature
+2875,11,16,6,15,literature
+2876,14,29,15,30,"sports, science, literature"
+2877,10,30,17,11,science
+2878,12,29,8,25,"sports, science"
+2879,11,16,9,26,sports
+2880,15,13,15,50,literature
+2881,13,19,20,40,"sports, science"
+2882,10,10,6,16,"sports, science, literature"
+2883,14,14,13,44,"sports, science"
+2884,12,12,15,10,sports
+2885,15,11,10,14,sports
+2886,13,29,5,29,sports
+2887,12,26,9,23,"sports, science, literature"
+2888,10,30,9,33,science
+2889,14,18,19,30,"science, literature"
+2890,15,29,8,44,science
+2891,15,17,7,31,science
+2892,10,30,19,17,"sports, literature"
+2893,12,22,7,38,literature
+2894,15,13,9,10,"science, literature"
+2895,11,10,7,28,"science, literature"
+2896,12,18,15,37,science
+2897,10,10,12,45,"science, literature"
+2898,11,18,20,40,"sports, literature"
+2899,11,29,9,33,science
+2900,10,12,8,19,science
+2901,10,17,9,46,"sports, science"
+2902,13,28,7,14,"sports, literature"
+2903,11,29,13,47,sports
+2904,11,29,14,24,sports
+2905,10,21,16,23,science
+2906,11,29,5,40,"sports, literature"
+2907,15,24,10,25,sports
+2908,13,13,17,36,"sports, science, literature"
+2909,10,21,19,29,"science, literature"
+2910,12,16,10,14,sports
+2911,10,25,6,46,"science, literature"
+2912,10,25,10,12,science
+2913,15,13,20,26,"science, literature"
+2914,15,26,20,47,science
+2915,13,27,15,49,"sports, science"
+2916,15,22,13,48,"sports, literature"
+2917,11,14,19,17,sports
+2918,11,15,9,18,"sports, science"
+2919,15,26,9,16,science
+2920,13,21,20,30,"science, literature"
+2921,12,24,11,25,sports
+2922,10,14,19,48,science
+2923,11,20,13,26,"sports, literature"
+2924,10,15,5,34,sports
+2925,15,29,8,14,literature
+2926,12,20,17,43,"science, literature"
+2927,15,25,19,27,"sports, science"
+2928,15,27,19,12,science
+2929,10,28,5,36,sports
+2930,10,21,6,15,science
+2931,10,23,12,44,sports
+2932,12,11,12,17,literature
+2933,15,22,13,40,"science, literature"
+2934,15,27,6,26,literature
+2935,14,24,16,39,"sports, science, literature"
+2936,12,30,19,29,"sports, science"
+2937,11,18,11,15,science
+2938,12,11,16,16,"science, literature"
+2939,12,29,13,41,literature
+2940,12,25,14,14,"sports, science, literature"
+2941,15,22,20,33,science
+2942,13,15,5,17,"science, literature"
+2943,13,15,19,13,"sports, literature"
+2944,13,29,12,44,"sports, literature"
+2945,12,10,6,31,"sports, science, literature"
+2946,13,13,11,10,science
+2947,13,19,18,43,"sports, literature"
+2948,11,13,7,32,science
+2949,10,27,17,26,science
+2950,10,26,9,46,literature
+2951,10,18,6,40,"science, literature"
+2952,13,11,16,50,literature
+2953,15,23,12,28,"science, literature"
+2954,11,24,15,20,"sports, science, literature"
+2955,10,24,16,20,"sports, science, literature"
+2956,11,15,9,30,"sports, science, literature"
+2957,14,30,15,35,"sports, science, literature"
+2958,11,12,15,27,"sports, literature"
+2959,10,21,18,11,sports
+2960,14,29,9,44,sports
+2961,13,25,14,35,literature
+2962,13,21,15,17,science
+2963,14,30,6,41,sports
+2964,15,11,5,47,sports
+2965,11,14,11,36,science
+2966,14,28,15,29,"sports, science"
+2967,13,16,5,18,"science, literature"
+2968,15,30,20,33,science
+2969,14,14,17,46,science
+2970,14,13,13,48,sports
+2971,10,18,15,28,"sports, science, literature"
+2972,13,21,12,28,science
+2973,13,26,17,14,"science, literature"
+2974,14,11,17,38,"sports, literature"
+2975,11,15,5,20,science
+2976,13,11,17,23,literature
+2977,14,19,14,30,"sports, science"
+2978,11,26,15,39,"science, literature"
+2979,13,28,15,17,"sports, science"
+2980,12,16,13,28,literature
+2981,12,11,7,16,"sports, science, literature"
+2982,10,21,15,40,science
+2983,13,28,14,16,science
+2984,15,20,5,10,"sports, science"
+2985,14,24,12,43,science
+2986,11,17,18,14,"sports, literature"
+2987,10,20,11,21,"sports, science"
+2988,14,18,13,42,"sports, science, literature"
+2989,13,26,15,24,"sports, science"
+2990,10,21,10,50,literature
+2991,13,10,14,43,sports
+2992,12,24,10,25,sports
+2993,15,16,9,47,"sports, science"
+2994,12,11,19,41,"sports, literature"
+2995,12,17,19,31,"sports, science, literature"
+2996,13,28,7,46,"sports, science, literature"
+2997,15,23,6,11,"sports, literature"
+2998,15,25,13,24,science
+2999,15,23,6,18,science
+3000,10,11,18,27,science
+3001,14,14,15,21,"sports, science, literature"
+3002,11,27,20,48,"sports, science, literature"
+3003,14,18,20,22,science
+3004,11,13,7,27,science
+3005,10,25,13,33,"sports, literature"
+3006,14,11,15,26,literature
+3007,11,14,6,18,science
+3008,10,11,17,41,science
+3009,10,11,10,29,"sports, science, literature"
+3010,10,14,7,41,"science, literature"
+3011,11,14,15,27,science
+3012,12,18,13,45,"sports, literature"
+3013,10,18,7,36,"sports, literature"
+3014,12,21,20,47,science
+3015,13,21,11,40,"sports, science, literature"
+3016,14,24,10,31,science
+3017,11,10,7,47,literature
+3018,13,26,15,25,science
+3019,12,22,19,43,"sports, science, literature"
+3020,13,21,20,17,sports
+3021,13,10,9,20,"sports, science, literature"
+3022,10,20,9,37,"sports, literature"
+3023,14,24,14,20,science
+3024,14,11,20,11,"sports, science, literature"
+3025,14,24,14,48,science
+3026,15,28,19,48,literature
+3027,13,13,16,43,literature
+3028,12,19,16,32,science
+3029,15,13,12,23,literature
+3030,13,15,17,32,science
+3031,12,26,16,35,science
+3032,14,13,11,18,literature
+3033,13,25,8,34,"sports, science, literature"
+3034,14,14,10,31,science
+3035,15,13,5,32,science
+3036,12,23,6,33,"sports, literature"
+3037,14,24,13,24,science
+3038,13,13,6,46,science
+3039,11,30,9,10,"sports, science, literature"
+3040,13,22,9,28,science
+3041,12,12,16,14,"sports, science, literature"
+3042,10,24,16,16,science
+3043,11,14,9,12,"sports, literature"
+3044,15,25,16,31,literature
+3045,12,23,7,45,literature
+3046,14,20,13,41,"sports, literature"
+3047,12,29,17,31,"sports, science, literature"
+3048,13,21,5,29,sports
+3049,12,15,8,46,literature
+3050,15,25,16,30,"sports, literature"
+3051,13,24,10,44,"sports, literature"
+3052,10,18,18,30,"sports, science"
+3053,14,19,7,48,"science, literature"
+3054,12,14,11,31,science
+3055,15,22,10,22,science
+3056,13,21,14,27,science
+3057,11,27,16,28,science
+3058,14,30,10,22,literature
+3059,14,23,20,49,"science, literature"
+3060,10,27,5,39,"sports, science"
+3061,11,23,17,28,"sports, science"
+3062,11,13,15,49,science
+3063,11,25,18,35,literature
+3064,15,29,20,48,"science, literature"
+3065,11,19,10,37,"sports, science"
+3066,11,26,11,12,"science, literature"
+3067,13,29,18,10,sports
+3068,10,19,9,12,"sports, science"
+3069,15,19,19,15,"sports, literature"
+3070,13,12,15,43,"sports, science, literature"
+3071,13,16,20,14,science
+3072,14,10,11,32,"science, literature"
+3073,15,20,18,18,science
+3074,10,21,14,49,"science, literature"
+3075,15,15,20,39,"sports, science"
+3076,15,13,11,42,sports
+3077,11,11,12,43,literature
+3078,14,18,8,30,"sports, science, literature"
+3079,15,11,11,14,"sports, literature"
+3080,13,29,19,15,"science, literature"
+3081,13,24,11,16,science
+3082,11,19,9,41,"sports, literature"
+3083,13,25,15,37,science
+3084,11,14,11,12,"sports, science, literature"
+3085,10,11,9,41,sports
+3086,10,14,14,21,"science, literature"
+3087,14,26,13,45,sports
+3088,13,12,6,17,"sports, literature"
+3089,12,25,9,16,science
+3090,12,28,7,31,sports
+3091,15,26,6,36,science
+3092,13,12,15,28,"sports, science"
+3093,13,14,6,37,"science, literature"
+3094,11,11,12,15,science
+3095,15,19,14,50,sports
+3096,13,12,9,39,literature
+3097,15,14,5,21,sports
+3098,12,26,17,47,"science, literature"
+3099,14,13,10,27,"sports, science, literature"
+3100,12,12,12,43,"science, literature"
+3101,12,21,17,31,"sports, science"
+3102,13,23,16,32,"science, literature"
+3103,14,19,13,26,"sports, science"
+3104,11,13,5,34,"sports, science, literature"
+3105,12,24,20,49,"sports, science, literature"
+3106,11,17,8,37,"sports, science, literature"
+3107,15,19,9,18,science
+3108,13,15,14,17,"sports, science, literature"
+3109,15,10,10,14,sports
+3110,15,28,13,15,science
+3111,10,29,16,38,"science, literature"
+3112,10,10,13,35,sports
+3113,15,22,18,27,sports
+3114,10,24,8,45,science
+3115,10,15,18,43,"sports, science, literature"
+3116,15,24,7,29,"science, literature"
+3117,12,16,11,18,"science, literature"
+3118,12,10,19,31,sports
+3119,10,15,15,41,science
+3120,14,16,15,43,"sports, science"
+3121,14,18,14,21,sports
+3122,13,11,18,21,"sports, science"
+3123,12,21,14,31,"sports, science"
+3124,11,22,10,13,science
+3125,13,21,11,41,literature
+3126,12,21,10,41,"science, literature"
+3127,10,22,14,48,"science, literature"
+3128,10,25,16,40,"sports, literature"
+3129,13,28,12,33,science
+3130,10,11,6,30,"sports, literature"
+3131,13,13,7,13,science
+3132,14,18,12,45,science
+3133,12,19,8,14,literature
+3134,13,29,16,44,literature
+3135,10,12,14,46,literature
+3136,13,26,5,45,"sports, science, literature"
+3137,11,29,9,18,"sports, science, literature"
+3138,14,27,11,36,"sports, science, literature"
+3139,11,13,13,15,literature
+3140,11,26,16,50,"sports, science, literature"
+3141,12,19,13,33,science
+3142,13,18,19,30,"sports, literature"
+3143,10,15,5,29,"sports, science, literature"
+3144,14,23,8,44,sports
+3145,15,27,10,40,"sports, science, literature"
+3146,15,13,17,35,literature
+3147,13,14,18,28,science
+3148,11,15,6,35,"sports, science, literature"
+3149,11,24,8,19,"science, literature"
+3150,12,22,8,22,science
+3151,11,27,13,47,"sports, literature"
+3152,12,19,15,42,sports
+3153,15,18,19,37,science
+3154,14,12,11,20,science
+3155,11,20,9,26,science
+3156,12,21,9,33,sports
+3157,14,29,19,26,"science, literature"
+3158,13,24,18,29,"sports, science"
+3159,12,20,10,10,science
+3160,14,10,16,44,"sports, science"
+3161,13,30,7,45,sports
+3162,10,17,19,42,"sports, science"
+3163,12,11,12,30,science
+3164,10,18,14,50,science
+3165,14,22,7,31,"science, literature"
+3166,11,23,8,12,science
+3167,13,29,9,27,"sports, science"
+3168,13,26,7,15,"science, literature"
+3169,11,10,17,11,"sports, literature"
+3170,14,23,17,41,science
+3171,13,16,10,21,literature
+3172,13,17,12,15,literature
+3173,13,11,12,23,"sports, science, literature"
+3174,15,30,12,38,sports
+3175,11,22,16,14,"sports, literature"
+3176,15,20,19,27,sports
+3177,10,23,10,48,science
+3178,15,22,10,12,"sports, literature"
+3179,14,27,12,36,"sports, literature"
+3180,13,20,17,45,"science, literature"
+3181,12,18,6,19,literature
+3182,12,19,12,34,"sports, literature"
+3183,12,29,12,32,sports
+3184,11,20,7,50,"sports, science"
+3185,11,17,20,44,"sports, literature"
+3186,12,16,12,32,"science, literature"
+3187,11,20,10,27,"sports, literature"
+3188,11,24,18,48,"sports, literature"
+3189,11,11,10,39,sports
+3190,12,28,12,38,sports
+3191,14,17,10,19,literature
+3192,13,10,13,13,science
+3193,12,20,7,36,"science, literature"
+3194,13,18,10,48,"sports, literature"
+3195,14,19,8,42,"sports, science, literature"
+3196,11,23,18,30,"sports, literature"
+3197,12,26,19,49,science
+3198,15,25,14,24,science
+3199,14,21,19,35,"science, literature"
+3200,15,17,20,40,"sports, literature"
+3201,10,10,10,33,"science, literature"
+3202,15,27,17,29,"sports, science"
+3203,10,22,6,41,science
+3204,15,10,9,27,science
+3205,14,15,5,50,"sports, science"
+3206,10,24,17,37,literature
+3207,10,23,12,35,"sports, literature"
+3208,11,23,16,18,"sports, literature"
+3209,11,10,17,20,literature
+3210,12,16,7,36,literature
+3211,13,28,10,19,science
+3212,13,26,7,30,"sports, literature"
+3213,12,20,5,12,"science, literature"
+3214,15,19,11,25,"sports, science, literature"
+3215,14,21,11,50,"sports, literature"
+3216,15,24,14,22,sports
+3217,11,14,17,33,science
+3218,14,16,11,19,"sports, literature"
+3219,14,23,9,36,literature
+3220,14,16,19,14,"sports, science, literature"
+3221,14,29,18,16,science
+3222,12,24,6,14,science
+3223,14,17,19,33,literature
+3224,14,10,18,46,science
+3225,14,19,20,46,"sports, science"
+3226,15,27,10,16,"science, literature"
+3227,11,16,14,40,science
+3228,15,14,13,26,sports
+3229,14,26,13,39,science
+3230,15,25,14,23,"sports, literature"
+3231,15,26,16,18,"sports, science, literature"
+3232,15,17,9,46,science
+3233,11,14,11,16,sports
+3234,13,25,7,47,"sports, science, literature"
+3235,12,17,14,13,"sports, science, literature"
+3236,13,10,8,50,"science, literature"
+3237,13,27,19,15,science
+3238,15,17,20,14,"sports, science"
+3239,14,24,7,25,science
+3240,11,18,9,37,"sports, science, literature"
+3241,11,25,13,20,"sports, science, literature"
+3242,15,28,5,44,"sports, science, literature"
+3243,10,29,13,40,"science, literature"
+3244,15,17,15,33,literature
+3245,12,30,17,22,"science, literature"
+3246,14,26,9,41,"sports, science, literature"
+3247,13,25,14,29,science
+3248,15,26,14,31,science
+3249,14,30,18,33,"sports, literature"
+3250,14,23,9,17,science
+3251,12,23,16,44,"sports, science"
+3252,15,24,13,10,science
+3253,13,21,17,36,"science, literature"
+3254,14,29,18,49,"sports, science, literature"
+3255,15,29,11,38,"sports, science"
+3256,15,27,12,11,sports
+3257,12,11,5,31,science
+3258,15,28,19,45,sports
+3259,13,29,20,36,"sports, literature"
+3260,10,18,7,39,literature
+3261,10,18,13,23,science
+3262,15,17,18,39,science
+3263,11,13,8,28,"sports, science"
+3264,11,13,9,11,literature
+3265,12,21,14,32,"science, literature"
+3266,11,17,10,31,literature
+3267,13,16,8,31,"sports, literature"
+3268,11,17,7,44,"sports, science, literature"
+3269,10,24,13,14,"science, literature"
+3270,10,13,7,32,"sports, literature"
+3271,10,20,18,31,"science, literature"
+3272,13,16,15,42,"sports, science"
+3273,10,15,14,48,sports
+3274,12,15,12,48,"sports, science, literature"
+3275,11,17,9,34,literature
+3276,12,17,17,42,science
+3277,14,22,8,44,literature
+3278,12,28,10,28,science
+3279,12,17,20,21,sports
+3280,10,16,5,31,literature
+3281,11,22,9,26,"science, literature"
+3282,14,16,8,19,"science, literature"
+3283,13,14,13,29,"sports, literature"
+3284,11,16,12,40,"sports, science"
+3285,15,25,6,48,"sports, science"
+3286,13,21,14,47,"sports, science"
+3287,12,27,5,43,literature
+3288,12,21,10,19,"sports, literature"
+3289,13,25,7,20,science
+3290,11,21,5,15,science
+3291,13,16,10,50,"sports, science"
+3292,14,22,10,16,science
+3293,13,16,6,29,"sports, science, literature"
+3294,11,15,15,34,"science, literature"
+3295,10,19,8,50,literature
+3296,10,24,14,40,science
+3297,12,10,12,37,"sports, science, literature"
+3298,13,23,7,32,literature
+3299,13,22,9,43,"science, literature"
+3300,14,16,7,44,"science, literature"
+3301,14,22,14,49,sports
+3302,15,30,19,40,literature
+3303,15,15,13,28,"sports, literature"
+3304,15,18,12,18,science
+3305,14,16,7,16,science
+3306,12,27,14,49,"sports, science"
+3307,13,28,13,35,sports
+3308,15,19,16,40,"sports, science, literature"
+3309,10,16,7,37,"sports, science, literature"
+3310,10,13,20,27,"sports, science, literature"
+3311,15,19,13,14,"sports, science"
+3312,15,15,14,34,"sports, science"
+3313,15,13,13,37,literature
+3314,13,13,18,26,"science, literature"
+3315,10,28,7,12,science
+3316,12,28,13,21,"sports, science, literature"
+3317,12,18,17,18,"sports, science, literature"
+3318,11,28,18,50,literature
+3319,14,15,14,48,science
+3320,15,16,12,44,literature
+3321,12,27,20,31,"sports, science, literature"
+3322,12,10,10,23,science
+3323,13,23,5,35,literature
+3324,11,18,11,46,"sports, literature"
+3325,15,28,9,37,science
+3326,11,12,18,33,"science, literature"
+3327,13,12,19,41,science
+3328,11,20,10,38,"science, literature"
+3329,11,23,18,21,"sports, science"
+3330,15,16,7,19,literature
+3331,11,19,5,14,"sports, literature"
+3332,12,21,8,49,science
+3333,14,19,6,38,sports
+3334,10,20,8,23,literature
+3335,12,27,6,35,"science, literature"
+3336,14,27,20,27,"sports, literature"
+3337,13,16,13,23,science
+3338,14,14,7,10,"science, literature"
+3339,15,14,12,42,"sports, science"
+3340,11,19,12,28,"sports, science, literature"
+3341,10,21,5,47,science
+3342,12,15,16,44,science
+3343,14,27,11,41,science
+3344,13,29,7,13,science
+3345,10,18,20,34,"sports, science"
+3346,13,28,12,34,science
+3347,13,11,12,37,"sports, science"
+3348,11,14,14,15,science
+3349,12,18,11,46,"sports, literature"
+3350,14,28,16,45,"science, literature"
+3351,14,16,9,23,"sports, science, literature"
+3352,10,24,14,40,sports
+3353,13,12,8,43,"sports, literature"
+3354,13,12,10,48,"sports, literature"
+3355,15,15,20,12,sports
+3356,14,26,18,38,science
+3357,13,17,14,42,science
+3358,14,25,12,26,"sports, literature"
+3359,11,27,7,24,science
+3360,10,16,20,47,"sports, science, literature"
+3361,14,20,12,15,"sports, science, literature"
+3362,12,20,15,44,sports
+3363,11,19,10,14,"sports, science"
+3364,14,26,5,32,science
+3365,15,10,7,42,science
+3366,10,10,14,35,sports
+3367,12,20,14,39,"sports, science, literature"
+3368,12,23,19,30,"science, literature"
+3369,11,19,7,16,"sports, literature"
+3370,13,21,18,45,science
+3371,12,13,6,14,literature
+3372,15,12,5,13,"science, literature"
+3373,14,15,10,16,"sports, science"
+3374,13,18,14,19,science
+3375,11,14,8,48,sports
+3376,12,30,16,23,"sports, science"
+3377,15,15,11,35,sports
+3378,15,26,15,25,"science, literature"
+3379,14,13,12,39,"science, literature"
+3380,12,20,9,28,science
+3381,14,26,12,46,"sports, science"
+3382,12,17,18,22,"sports, literature"
+3383,12,20,9,14,"sports, science"
+3384,14,29,16,31,science
+3385,15,12,18,18,science
+3386,10,20,15,46,"sports, science"
+3387,15,24,9,15,"science, literature"
+3388,15,26,7,22,sports
+3389,12,11,15,11,"sports, science"
+3390,11,25,18,42,"sports, science"
+3391,11,23,7,25,science
+3392,10,26,7,22,science
+3393,15,28,9,24,"sports, literature"
+3394,14,16,7,20,science
+3395,13,25,17,27,science
+3396,14,27,8,14,sports
+3397,13,13,20,45,"sports, literature"
+3398,13,10,11,43,science
+3399,13,20,11,44,science
+3400,13,25,5,41,"science, literature"
+3401,11,22,14,50,"sports, science"
+3402,14,11,16,33,literature
+3403,13,17,20,48,"sports, science, literature"
+3404,14,24,14,45,"sports, literature"
+3405,11,23,15,10,science
+3406,11,12,20,50,"science, literature"
+3407,13,25,7,26,"sports, science"
+3408,11,26,18,40,sports
+3409,14,25,17,25,"sports, literature"
+3410,13,20,5,16,science
+3411,10,13,12,48,"sports, literature"
+3412,12,28,13,22,"sports, literature"
+3413,12,10,7,45,"sports, science, literature"
+3414,10,13,11,11,sports
+3415,10,27,8,21,science
+3416,14,25,11,12,"sports, science, literature"
+3417,15,30,7,13,science
+3418,14,19,19,40,literature
+3419,14,26,10,45,"science, literature"
+3420,13,15,19,11,"sports, science"
+3421,10,21,11,12,"sports, literature"
+3422,10,18,18,28,science
+3423,15,12,10,25,"sports, literature"
+3424,10,21,10,27,"sports, science, literature"
+3425,14,29,14,49,"science, literature"
+3426,12,11,12,37,"sports, literature"
+3427,10,27,11,22,literature
+3428,10,22,16,17,science
+3429,15,15,9,41,"sports, literature"
+3430,12,23,11,23,sports
+3431,14,15,9,18,"sports, science, literature"
+3432,10,16,12,49,"sports, science"
+3433,13,25,17,10,literature
+3434,14,26,20,39,"sports, science"
+3435,11,17,11,25,"science, literature"
+3436,13,10,16,25,science
+3437,12,28,17,45,"sports, science"
+3438,14,29,11,50,sports
+3439,14,10,13,26,"sports, literature"
+3440,14,12,12,20,science
+3441,14,17,10,49,science
+3442,13,14,10,23,sports
+3443,11,19,14,43,"sports, literature"
+3444,12,13,20,19,"sports, science, literature"
+3445,10,20,9,45,"sports, science"
+3446,12,15,11,31,"science, literature"
+3447,12,28,19,48,"sports, literature"
+3448,10,12,8,12,sports
+3449,10,13,7,17,science
+3450,15,17,10,32,sports
+3451,12,21,6,27,science
+3452,15,11,6,35,"sports, science"
+3453,10,26,10,32,literature
+3454,13,17,12,26,science
+3455,10,28,12,38,science
+3456,15,15,20,27,"sports, science"
+3457,13,20,11,36,"sports, literature"
+3458,12,29,16,30,"sports, literature"
+3459,10,18,9,31,science
+3460,12,20,13,30,"sports, science"
+3461,14,10,5,38,"sports, science, literature"
+3462,13,22,18,25,"sports, science"
+3463,14,20,20,45,science
+3464,14,13,16,32,"sports, science"
+3465,15,22,10,11,"science, literature"
+3466,12,18,18,30,sports
+3467,11,24,17,15,science
+3468,14,20,19,11,sports
+3469,11,30,8,50,"science, literature"
+3470,13,28,18,31,"sports, science, literature"
+3471,13,13,11,19,"science, literature"
+3472,14,10,5,45,"sports, science, literature"
+3473,11,17,6,21,"sports, literature"
+3474,11,23,20,14,"sports, literature"
+3475,10,23,10,49,"sports, science"
+3476,11,28,19,10,"sports, science"
+3477,14,21,13,17,"sports, science"
+3478,11,21,18,28,"sports, science, literature"
+3479,15,16,12,35,sports
+3480,13,22,6,16,"science, literature"
+3481,11,14,7,45,"sports, science, literature"
+3482,13,19,10,33,"science, literature"
+3483,11,24,11,36,"sports, literature"
+3484,13,17,17,22,"sports, literature"
+3485,15,30,19,36,"science, literature"
+3486,12,17,14,32,science
+3487,14,15,19,42,sports
+3488,13,13,8,28,science
+3489,14,12,13,10,"sports, science, literature"
+3490,12,30,6,34,science
+3491,13,19,6,31,"sports, science"
+3492,11,15,11,28,"sports, literature"
+3493,12,16,17,44,science
+3494,15,12,7,46,science
+3495,15,30,12,41,"sports, science, literature"
+3496,14,28,13,23,science
+3497,13,23,16,26,science
+3498,15,28,9,24,"sports, literature"
+3499,14,19,5,21,literature
+3500,11,27,19,42,"sports, literature"
+3501,11,15,15,41,science
+3502,13,22,19,32,"sports, literature"
+3503,15,29,18,16,literature
+3504,13,24,20,36,"science, literature"
+3505,13,17,20,45,science
+3506,14,30,10,18,science
+3507,10,30,10,11,sports
+3508,15,18,19,42,science
+3509,12,17,20,29,"sports, science"
+3510,13,29,18,14,science
+3511,13,15,14,12,science
+3512,11,21,6,49,literature
+3513,12,23,13,35,sports
+3514,13,21,8,35,literature
+3515,15,30,15,31,"sports, science"
+3516,15,30,5,19,"sports, science, literature"
+3517,12,18,12,16,"science, literature"
+3518,13,15,7,29,"sports, science"
+3519,14,16,11,42,"sports, literature"
+3520,14,30,8,50,"sports, literature"
+3521,11,18,14,41,"sports, literature"
+3522,15,16,7,43,sports
+3523,14,21,5,45,"sports, science, literature"
+3524,14,18,9,37,science
+3525,11,22,15,48,science
+3526,13,21,16,36,"sports, literature"
+3527,14,10,13,17,"sports, science"
+3528,15,19,10,16,"science, literature"
+3529,10,28,15,50,"sports, science"
+3530,13,18,20,38,science
+3531,10,27,16,37,literature
+3532,15,17,10,14,"sports, literature"
+3533,10,26,7,25,"sports, science"
+3534,13,13,15,12,sports
+3535,12,22,17,32,literature
+3536,13,14,8,42,sports
+3537,12,20,6,42,science
+3538,10,16,14,10,science
+3539,13,27,18,35,"sports, literature"
+3540,10,24,16,20,science
+3541,15,18,16,16,"sports, science"
+3542,14,30,12,13,"sports, literature"
+3543,11,23,5,16,literature
+3544,10,30,8,35,"sports, literature"
+3545,15,11,8,46,science
+3546,13,13,13,21,"science, literature"
+3547,13,17,20,14,"sports, science, literature"
+3548,11,21,15,13,science
+3549,11,20,8,32,sports
+3550,15,16,7,29,literature
+3551,12,29,18,14,literature
+3552,10,23,8,42,sports
+3553,15,18,15,25,"sports, science, literature"
+3554,11,20,5,35,"sports, literature"
+3555,10,27,15,45,"science, literature"
+3556,13,27,11,11,literature
+3557,13,29,15,27,"sports, science"
+3558,15,23,8,37,"sports, literature"
+3559,12,28,10,17,sports
+3560,14,26,15,15,literature
+3561,13,19,7,39,"science, literature"
+3562,10,25,10,10,literature
+3563,10,12,14,22,"sports, science, literature"
+3564,12,19,11,21,"science, literature"
+3565,15,10,19,28,literature
+3566,15,26,15,42,"science, literature"
+3567,10,26,20,19,science
+3568,10,27,7,11,sports
+3569,11,17,11,44,"science, literature"
+3570,12,11,5,42,literature
+3571,12,19,18,39,"sports, science, literature"
+3572,10,27,6,19,science
+3573,12,29,18,50,literature
+3574,10,23,17,26,science
+3575,13,30,16,13,"sports, science"
+3576,11,18,18,32,sports
+3577,14,13,15,10,"science, literature"
+3578,11,10,10,38,"sports, literature"
+3579,14,19,6,32,sports
+3580,13,19,19,43,literature
+3581,15,19,15,25,science
+3582,13,28,13,50,science
+3583,13,21,10,36,sports
+3584,11,24,16,40,science
+3585,10,22,17,45,"sports, science"
+3586,12,14,15,14,science
+3587,10,16,13,30,"sports, science, literature"
+3588,13,30,7,44,"sports, science"
+3589,10,16,9,35,science
+3590,15,23,16,39,science
+3591,10,23,8,26,science
+3592,14,16,9,46,"sports, science, literature"
+3593,14,15,8,17,literature
+3594,14,23,14,12,sports
+3595,12,28,15,14,sports
+3596,15,15,12,42,"sports, literature"
+3597,10,12,7,17,literature
+3598,10,16,18,15,sports
+3599,12,17,7,14,"sports, science, literature"
+3600,14,27,14,22,sports
+3601,11,20,15,13,sports
+3602,15,11,7,31,"sports, science, literature"
+3603,15,27,16,14,"sports, science, literature"
+3604,10,15,9,32,literature
+3605,15,10,20,46,literature
+3606,10,10,15,35,"sports, science, literature"
+3607,11,30,9,42,science
+3608,10,30,16,17,science
+3609,13,24,16,31,science
+3610,14,20,6,25,literature
+3611,10,24,8,30,"sports, science"
+3612,14,30,20,45,science
+3613,11,22,17,12,sports
+3614,14,24,16,49,"sports, science, literature"
+3615,13,24,15,43,sports
+3616,12,22,19,20,"sports, science"
+3617,11,29,7,47,"sports, science, literature"
+3618,11,17,6,19,sports
+3619,14,23,19,33,science
+3620,11,19,20,15,science
+3621,11,10,11,16,science
+3622,10,13,11,23,"sports, literature"
+3623,11,12,8,21,"sports, science, literature"
+3624,10,22,16,15,"sports, science"
+3625,14,25,9,32,science
+3626,10,22,19,27,science
+3627,15,20,7,47,science
+3628,13,21,18,15,"sports, science"
+3629,15,30,10,36,science
+3630,10,12,7,26,"sports, science"
+3631,13,29,15,13,"sports, literature"
+3632,15,30,12,31,"sports, literature"
+3633,11,16,5,26,literature
+3634,15,12,11,29,science
+3635,12,13,9,19,science
+3636,11,26,10,47,literature
+3637,14,17,5,17,science
+3638,15,26,8,29,"sports, science, literature"
+3639,15,12,18,39,"sports, literature"
+3640,12,11,7,28,"sports, science, literature"
+3641,11,15,13,39,"sports, science"
+3642,11,24,5,27,science
+3643,12,10,11,40,"sports, science, literature"
+3644,12,15,15,30,sports
+3645,15,20,10,40,"science, literature"
+3646,10,23,18,43,"science, literature"
+3647,12,30,18,21,"science, literature"
+3648,15,26,5,35,literature
+3649,11,10,5,18,science
+3650,15,30,8,17,"sports, science"
+3651,14,27,20,15,"sports, science, literature"
+3652,14,10,9,28,sports
+3653,15,16,7,41,"sports, science, literature"
+3654,14,28,11,43,literature
+3655,11,19,6,18,"sports, science"
+3656,15,20,8,29,science
+3657,15,29,13,36,"science, literature"
+3658,10,11,18,23,"sports, science, literature"
+3659,10,25,15,32,"science, literature"
+3660,11,11,17,38,"sports, science"
+3661,10,25,13,24,sports
+3662,15,18,8,15,science
+3663,12,18,6,16,"sports, science, literature"
+3664,11,20,19,47,science
+3665,11,21,17,35,sports
+3666,13,30,18,29,"sports, science"
+3667,10,14,19,15,"sports, science"
+3668,10,17,7,26,"sports, literature"
+3669,15,25,18,43,"sports, literature"
+3670,12,22,20,29,"sports, science, literature"
+3671,14,24,10,37,sports
+3672,12,22,13,10,"sports, science, literature"
+3673,14,27,12,25,literature
+3674,15,16,17,49,"sports, science"
+3675,12,21,14,46,literature
+3676,11,25,16,26,"sports, literature"
+3677,10,30,10,29,"science, literature"
+3678,14,16,18,29,literature
+3679,11,17,6,30,"science, literature"
+3680,15,15,5,10,"science, literature"
+3681,15,25,11,48,science
+3682,10,27,19,18,literature
+3683,10,22,17,14,"sports, science"
+3684,15,23,8,39,sports
+3685,13,19,19,23,sports
+3686,15,20,5,38,sports
+3687,12,11,9,19,"sports, science"
+3688,13,18,15,33,"sports, science"
+3689,14,11,20,27,"sports, science, literature"
+3690,15,13,9,35,sports
+3691,13,25,6,32,literature
+3692,14,27,12,16,science
+3693,13,27,20,10,literature
+3694,15,18,20,47,"sports, science"
+3695,12,28,8,45,science
+3696,13,25,17,19,"sports, science"
+3697,12,28,19,35,"sports, science, literature"
+3698,15,14,9,17,science
+3699,12,12,16,46,sports
+3700,13,22,6,45,"science, literature"
+3701,14,24,11,13,sports
+3702,13,25,6,11,literature
+3703,14,25,9,11,science
+3704,12,16,18,10,sports
+3705,11,28,16,41,literature
+3706,14,14,14,35,literature
+3707,12,25,20,38,"sports, science"
+3708,13,20,20,31,literature
+3709,15,22,17,36,sports
+3710,10,10,8,35,science
+3711,12,21,15,47,science
+3712,10,11,18,18,literature
+3713,12,10,12,43,science
+3714,15,14,18,32,"sports, science, literature"
+3715,11,22,5,23,science
+3716,12,30,5,28,sports
+3717,12,28,19,10,science
+3718,15,17,17,22,science
+3719,14,14,16,39,"sports, science, literature"
+3720,12,30,20,25,sports
+3721,11,28,6,34,literature
+3722,10,28,13,12,science
+3723,11,13,8,36,literature
+3724,10,30,20,42,science
+3725,10,22,7,35,"science, literature"
+3726,10,14,11,17,"sports, science"
+3727,11,25,12,41,"sports, science, literature"
+3728,10,17,8,28,science
+3729,13,11,15,44,"sports, science"
+3730,10,21,17,39,science
+3731,11,18,13,11,literature
+3732,13,30,17,41,"sports, literature"
+3733,11,15,12,27,"science, literature"
+3734,15,14,16,37,"sports, science, literature"
+3735,14,25,18,20,science
+3736,13,26,16,15,"sports, science"
+3737,12,20,16,50,"science, literature"
+3738,13,11,19,36,"sports, science, literature"
+3739,15,23,8,19,"sports, science"
+3740,14,17,7,16,science
+3741,14,14,19,37,"sports, literature"
+3742,14,17,16,21,literature
+3743,10,27,14,10,"sports, science, literature"
+3744,13,24,9,12,science
+3745,13,10,17,48,"science, literature"
+3746,15,21,10,34,"science, literature"
+3747,14,30,17,28,science
+3748,15,27,7,12,"sports, literature"
+3749,14,24,5,43,literature
+3750,11,28,11,36,science
+3751,13,16,6,33,"science, literature"
+3752,12,20,12,40,"sports, literature"
+3753,11,24,11,29,science
+3754,14,14,8,44,literature
+3755,14,27,19,47,"sports, science"
+3756,13,21,8,23,"science, literature"
+3757,13,28,20,40,"sports, science"
+3758,14,23,9,30,"sports, literature"
+3759,14,28,8,31,literature
+3760,15,29,12,37,sports
+3761,11,28,15,48,sports
+3762,15,23,18,26,sports
+3763,14,14,12,24,"science, literature"
+3764,14,10,8,20,"sports, science"
+3765,10,29,17,32,sports
+3766,11,26,18,26,literature
+3767,13,29,11,29,"sports, science, literature"
+3768,11,27,15,35,"sports, science, literature"
+3769,14,30,9,26,sports
+3770,13,10,9,48,literature
+3771,14,22,10,32,science
+3772,15,24,12,27,"sports, literature"
+3773,11,30,9,46,"sports, science"
+3774,10,16,10,36,science
+3775,14,30,5,12,sports
+3776,15,29,16,10,"sports, literature"
+3777,11,13,11,21,"sports, science, literature"
+3778,12,29,17,29,"sports, literature"
+3779,11,20,12,36,"sports, science, literature"
+3780,12,15,8,37,science
+3781,12,16,8,21,sports
+3782,10,19,10,33,"science, literature"
+3783,14,24,5,28,sports
+3784,14,19,7,21,"sports, science, literature"
+3785,15,19,15,17,"science, literature"
+3786,14,21,6,28,"sports, literature"
+3787,11,12,8,45,science
+3788,13,28,16,42,"sports, literature"
+3789,13,18,18,12,sports
+3790,10,15,10,10,literature
+3791,14,19,13,44,"science, literature"
+3792,15,24,6,19,sports
+3793,13,25,13,43,"sports, literature"
+3794,12,21,15,49,"science, literature"
+3795,12,26,11,49,"sports, science"
+3796,12,27,17,24,science
+3797,15,15,9,45,sports
+3798,13,22,7,38,"sports, science"
+3799,12,23,16,32,"sports, literature"
+3800,12,14,10,47,science
+3801,14,21,12,29,science
+3802,11,10,14,29,literature
+3803,10,28,14,32,"sports, literature"
+3804,13,12,18,39,sports
+3805,10,17,10,42,literature
+3806,11,18,16,17,"science, literature"
+3807,11,20,10,37,literature
+3808,12,21,20,38,"sports, science, literature"
+3809,10,10,8,16,literature
+3810,13,17,18,34,literature
+3811,15,18,19,14,literature
+3812,15,22,13,50,"sports, literature"
+3813,12,19,10,30,literature
+3814,11,17,8,13,sports
+3815,13,26,8,26,"science, literature"
+3816,11,19,6,23,literature
+3817,14,13,18,11,literature
+3818,12,24,16,30,"sports, science, literature"
+3819,12,12,12,11,"science, literature"
+3820,14,28,8,49,"science, literature"
+3821,11,22,19,17,science
+3822,15,28,6,50,science
+3823,12,24,7,50,"sports, science, literature"
+3824,15,30,7,17,science
+3825,14,12,6,39,"sports, science"
+3826,13,10,19,45,"sports, science, literature"
+3827,11,17,5,32,"sports, science"
+3828,15,25,7,38,"sports, science"
+3829,14,16,11,10,"sports, literature"
+3830,12,27,13,21,literature
+3831,11,30,18,17,literature
+3832,12,21,10,17,science
+3833,11,15,7,40,science
+3834,15,10,10,49,"sports, literature"
+3835,14,28,17,11,literature
+3836,11,22,9,35,science
+3837,12,25,10,26,literature
+3838,14,20,15,42,science
+3839,14,11,17,44,literature
+3840,15,28,20,12,"sports, science"
+3841,12,27,15,17,"sports, science, literature"
+3842,13,19,9,42,science
+3843,12,10,13,47,science
+3844,15,26,15,26,sports
+3845,13,18,10,25,science
+3846,11,17,17,50,sports
+3847,11,19,17,35,"sports, science, literature"
+3848,10,28,10,28,"sports, literature"
+3849,10,17,6,15,science
+3850,12,21,12,21,science
+3851,13,24,11,35,"science, literature"
+3852,14,27,15,33,"sports, literature"
+3853,10,21,9,38,science
+3854,14,15,17,47,"sports, science, literature"
+3855,14,30,20,24,"science, literature"
+3856,14,13,8,39,literature
+3857,14,26,10,43,sports
+3858,10,28,6,44,sports
+3859,14,30,16,50,science
+3860,10,21,15,13,science
+3861,14,17,17,38,sports
+3862,10,24,6,30,literature
+3863,15,25,13,22,literature
+3864,11,20,7,26,"sports, science"
+3865,13,18,13,16,"sports, literature"
+3866,15,28,10,41,"science, literature"
+3867,14,18,11,13,sports
+3868,12,23,11,13,"sports, science, literature"
+3869,15,26,8,48,sports
+3870,12,13,17,32,"sports, science"
+3871,15,16,12,21,science
+3872,14,11,10,38,"sports, literature"
+3873,10,23,19,20,science
+3874,10,17,18,26,sports
+3875,12,15,9,23,"sports, science, literature"
+3876,11,14,14,29,science
+3877,15,17,12,12,literature
+3878,12,13,5,41,literature
+3879,14,13,6,33,literature
+3880,12,24,8,43,sports
+3881,14,10,20,25,"sports, science, literature"
+3882,15,23,18,10,science
+3883,13,11,20,29,sports
+3884,15,15,8,21,sports
+3885,13,16,19,31,"science, literature"
+3886,12,30,20,36,science
+3887,12,11,7,22,"sports, science"
+3888,11,22,15,24,"sports, literature"
+3889,15,26,14,46,"sports, literature"
+3890,13,14,11,39,"sports, science, literature"
+3891,12,27,12,11,literature
+3892,13,21,16,40,science
+3893,11,14,13,50,literature
+3894,11,23,12,42,science
+3895,14,21,18,49,science
+3896,13,12,10,30,"sports, science"
+3897,12,26,6,30,science
+3898,15,26,15,11,science
+3899,11,13,19,38,"sports, science, literature"
+3900,15,13,9,38,"sports, science"
+3901,12,22,18,44,sports
+3902,13,15,17,25,science
+3903,13,25,11,47,"sports, science, literature"
+3904,10,28,14,18,"sports, literature"
+3905,13,26,15,48,"science, literature"
+3906,10,10,14,44,literature
+3907,13,19,8,15,science
+3908,14,16,11,35,science
+3909,15,14,7,41,sports
+3910,12,16,12,39,"sports, literature"
+3911,12,16,12,21,science
+3912,13,21,6,17,science
+3913,14,28,19,27,"sports, science, literature"
+3914,13,18,19,44,"science, literature"
+3915,13,17,7,26,literature
+3916,13,16,7,32,"sports, science, literature"
+3917,15,20,11,23,sports
+3918,14,21,9,38,"sports, literature"
+3919,11,10,6,27,"sports, literature"
+3920,14,15,12,40,sports
+3921,12,30,14,16,science
+3922,15,23,6,34,sports
+3923,15,25,16,25,"sports, literature"
+3924,15,15,15,30,literature
+3925,12,18,8,27,literature
+3926,14,24,8,24,"sports, science"
+3927,15,16,12,12,"sports, science"
+3928,12,23,19,41,"sports, literature"
+3929,13,25,16,21,science
+3930,11,27,13,13,"sports, science"
+3931,11,25,6,31,"sports, science, literature"
+3932,10,11,13,21,"sports, science"
+3933,15,23,19,42,"science, literature"
+3934,15,22,14,18,literature
+3935,14,29,5,31,"sports, science"
+3936,15,25,6,10,literature
+3937,14,11,19,10,"sports, literature"
+3938,14,22,8,20,science
+3939,14,23,12,23,"sports, literature"
+3940,11,30,8,48,science
+3941,11,21,11,35,"sports, science, literature"
+3942,14,12,15,21,sports
+3943,13,26,12,44,"sports, literature"
+3944,10,29,11,45,"science, literature"
+3945,13,19,5,21,"sports, literature"
+3946,15,10,5,41,"sports, literature"
+3947,10,25,15,29,sports
+3948,12,30,6,43,"science, literature"
+3949,10,28,20,28,science
+3950,15,26,6,17,"science, literature"
+3951,11,25,12,41,"science, literature"
+3952,12,11,19,25,"sports, science, literature"
+3953,14,20,9,37,literature
+3954,15,30,18,16,"science, literature"
+3955,15,10,9,10,sports
+3956,13,10,17,22,"sports, literature"
+3957,11,25,8,46,sports
+3958,15,18,12,21,"sports, science"
+3959,15,27,18,36,"sports, science, literature"
+3960,13,14,20,37,sports
+3961,11,26,5,35,"sports, literature"
+3962,15,13,5,15,"science, literature"
+3963,10,21,15,13,"sports, science"
+3964,14,17,16,44,"sports, literature"
+3965,14,16,7,22,science
+3966,14,29,5,16,science
+3967,14,13,10,44,sports
+3968,15,27,6,27,"sports, literature"
+3969,15,30,11,24,sports
+3970,13,11,17,27,"science, literature"
+3971,10,27,7,48,"sports, science"
+3972,11,26,11,30,literature
+3973,11,24,10,14,"sports, science, literature"
+3974,12,14,12,37,"sports, literature"
+3975,14,19,13,24,"science, literature"
+3976,12,27,10,16,"sports, literature"
+3977,10,28,7,44,"sports, science"
+3978,13,19,6,45,sports
+3979,10,15,20,49,"sports, science, literature"
+3980,11,29,10,14,science
+3981,11,21,9,50,"sports, science"
+3982,12,23,20,29,"sports, literature"
+3983,15,11,8,34,literature
+3984,11,26,17,50,"sports, science, literature"
+3985,12,10,13,35,literature
+3986,10,28,7,18,"sports, science"
+3987,15,17,11,35,"sports, literature"
+3988,15,10,16,15,science
+3989,11,16,18,20,"sports, science, literature"
+3990,10,23,10,38,"sports, science"
+3991,15,25,17,24,"science, literature"
+3992,13,17,18,38,"sports, science"
+3993,13,12,6,35,"sports, literature"
+3994,11,22,12,14,literature
+3995,12,12,11,10,"science, literature"
+3996,15,23,19,34,literature
+3997,11,20,5,20,"sports, science, literature"
+3998,14,20,10,20,literature
+3999,10,29,12,44,"sports, science"
+4000,14,24,15,47,"sports, science, literature"
+4001,12,18,20,49,science
+4002,12,15,15,16,sports
+4003,13,25,15,23,"sports, science"
+4004,13,25,17,37,sports
+4005,12,18,9,23,"science, literature"
+4006,12,12,13,44,"sports, science, literature"
+4007,10,26,8,48,"sports, science, literature"
+4008,14,19,17,42,"sports, literature"
+4009,14,27,5,42,science
+4010,11,22,11,49,science
+4011,11,25,6,14,"sports, literature"
+4012,14,17,19,37,science
+4013,13,15,16,46,literature
+4014,13,28,19,35,science
+4015,13,20,9,15,"sports, science, literature"
+4016,10,18,18,31,"sports, science"
+4017,15,22,6,17,sports
+4018,15,12,15,33,"sports, science, literature"
+4019,15,11,5,31,science
+4020,12,25,15,47,science
+4021,15,18,20,35,literature
+4022,11,28,12,23,literature
+4023,10,25,10,12,literature
+4024,13,11,6,32,sports
+4025,10,30,8,45,"science, literature"
+4026,13,20,13,45,science
+4027,15,26,10,42,science
+4028,14,17,11,23,science
+4029,10,21,9,48,"sports, literature"
+4030,10,15,16,15,"sports, science"
+4031,12,10,7,15,science
+4032,12,28,14,30,science
+4033,11,13,5,24,science
+4034,14,29,18,34,"sports, science"
+4035,12,20,20,29,"sports, science"
+4036,14,29,13,42,"sports, science, literature"
+4037,15,16,11,49,"sports, science"
+4038,15,28,9,29,sports
+4039,14,20,13,49,"sports, literature"
+4040,13,18,17,46,"science, literature"
+4041,12,18,17,42,"sports, science"
+4042,14,28,15,22,literature
+4043,13,12,9,29,literature
+4044,10,18,5,11,"sports, literature"
+4045,14,23,14,40,"sports, science"
+4046,10,17,5,35,"sports, science"
+4047,10,15,8,45,science
+4048,12,12,7,23,science
+4049,11,17,9,24,literature
+4050,10,22,7,17,"sports, science, literature"
+4051,15,24,19,34,"science, literature"
+4052,10,12,12,49,science
+4053,13,26,10,36,"sports, science"
+4054,12,24,7,17,"sports, science"
+4055,14,25,15,46,"sports, science, literature"
+4056,10,24,19,39,"sports, literature"
+4057,13,21,5,15,science
+4058,13,29,8,32,"sports, literature"
+4059,15,18,8,28,science
+4060,15,30,5,11,science
+4061,11,16,9,16,"science, literature"
+4062,11,26,19,15,"sports, science, literature"
+4063,11,27,13,42,"sports, literature"
+4064,15,10,16,34,"sports, literature"
+4065,12,18,18,12,"sports, science"
+4066,13,17,7,10,"sports, science"
+4067,13,28,18,41,literature
+4068,15,11,19,16,"sports, science, literature"
+4069,13,13,17,13,"sports, literature"
+4070,15,17,5,25,"sports, science"
+4071,12,21,19,43,science
+4072,15,24,6,47,"science, literature"
+4073,13,22,17,41,science
+4074,11,29,9,35,literature
+4075,11,21,8,26,science
+4076,14,16,19,15,literature
+4077,14,16,5,27,literature
+4078,10,18,12,18,science
+4079,14,22,10,40,"sports, science"
+4080,15,14,10,29,science
+4081,13,29,5,17,science
+4082,10,15,14,23,literature
+4083,11,24,19,35,"sports, science"
+4084,13,25,13,23,literature
+4085,15,22,6,17,science
+4086,13,15,15,33,"sports, science, literature"
+4087,13,30,12,23,"sports, science"
+4088,15,26,20,12,science
+4089,15,23,6,32,"sports, literature"
+4090,14,13,8,21,"science, literature"
+4091,14,20,20,41,"sports, science, literature"
+4092,11,28,9,41,sports
+4093,15,20,6,36,sports
+4094,14,16,13,32,science
+4095,10,22,11,26,"science, literature"
+4096,11,28,12,14,"sports, science, literature"
+4097,13,19,13,32,"sports, literature"
+4098,11,27,8,37,"sports, science, literature"
+4099,12,25,12,42,"sports, science, literature"
+4100,10,19,12,17,"sports, literature"
+4101,13,25,7,30,"sports, science, literature"
+4102,10,21,7,19,sports
+4103,10,23,13,29,science
+4104,15,24,16,14,sports
+4105,13,11,13,41,sports
+4106,10,22,15,25,"sports, science"
+4107,11,21,8,37,"science, literature"
+4108,14,16,13,45,"sports, science"
+4109,12,24,14,21,science
+4110,13,20,16,39,science
+4111,13,23,15,48,literature
+4112,12,24,10,25,sports
+4113,12,25,7,21,"sports, science, literature"
+4114,13,22,10,26,literature
+4115,10,18,14,44,science
+4116,11,19,5,43,literature
+4117,10,27,13,13,science
+4118,11,24,11,26,literature
+4119,10,18,13,39,sports
+4120,13,14,11,42,science
+4121,15,15,10,37,science
+4122,13,30,15,12,science
+4123,11,18,5,33,"science, literature"
+4124,11,23,7,40,"sports, science, literature"
+4125,10,21,20,43,"sports, literature"
+4126,15,10,9,23,"sports, science, literature"
+4127,14,18,13,17,"sports, literature"
+4128,10,13,12,30,"sports, science"
+4129,12,10,12,21,"science, literature"
+4130,14,24,8,20,science
+4131,11,22,19,31,science
+4132,15,30,11,39,science
+4133,13,21,11,17,"science, literature"
+4134,12,10,5,21,science
+4135,15,20,10,42,"science, literature"
+4136,14,19,12,49,"sports, literature"
+4137,10,24,6,35,"sports, science"
+4138,15,15,12,25,"sports, science"
+4139,10,19,18,32,science
+4140,11,23,7,45,literature
+4141,14,17,17,20,"sports, science, literature"
+4142,15,12,17,23,science
+4143,11,25,14,37,science
+4144,13,23,6,41,"sports, literature"
+4145,11,23,8,31,"sports, literature"
+4146,14,28,5,36,"sports, science"
+4147,10,17,11,34,sports
+4148,13,29,15,42,science
+4149,15,22,19,26,science
+4150,13,30,5,36,literature
+4151,14,15,13,47,"sports, science"
+4152,15,25,14,38,"sports, science"
+4153,13,29,19,18,"sports, science"
+4154,10,27,20,45,science
+4155,10,13,10,24,"sports, science, literature"
+4156,12,26,15,38,"sports, literature"
+4157,14,18,10,36,"science, literature"
+4158,13,21,8,39,"science, literature"
+4159,15,29,9,34,"science, literature"
+4160,14,27,14,28,literature
+4161,11,14,6,50,"sports, science"
+4162,13,22,8,13,science
+4163,12,18,13,42,science
+4164,10,22,12,42,science
+4165,15,20,10,11,science
+4166,15,11,13,33,sports
+4167,13,29,15,37,science
+4168,11,15,15,16,sports
+4169,10,10,10,18,"sports, science"
+4170,15,13,19,27,science
+4171,14,14,19,49,"science, literature"
+4172,14,19,14,24,"sports, literature"
+4173,11,21,8,35,"sports, science, literature"
+4174,15,30,6,27,"science, literature"
+4175,12,15,16,24,science
+4176,14,18,19,40,"science, literature"
+4177,13,30,16,50,"sports, science, literature"
+4178,10,18,5,18,science
+4179,11,29,11,33,literature
+4180,11,11,20,39,science
+4181,12,19,19,37,literature
+4182,10,18,8,10,"science, literature"
+4183,13,16,6,22,science
+4184,10,20,7,31,"science, literature"
+4185,11,17,11,33,"sports, science"
+4186,12,28,6,15,"sports, science, literature"
+4187,10,29,18,14,"sports, literature"
+4188,14,18,8,27,"sports, science, literature"
+4189,12,19,16,44,literature
+4190,14,25,5,28,"sports, science"
+4191,11,26,10,12,literature
+4192,11,19,9,36,sports
+4193,11,14,19,23,"science, literature"
+4194,13,26,12,10,science
+4195,11,28,18,47,science
+4196,11,30,11,35,"sports, literature"
+4197,11,22,9,47,science
+4198,14,18,10,23,science
+4199,14,21,12,39,sports
+4200,14,18,11,31,"sports, science"
+4201,14,18,5,46,literature
+4202,10,17,18,28,sports
+4203,14,10,9,11,literature
+4204,10,22,18,30,sports
+4205,13,27,11,35,"science, literature"
+4206,14,16,8,25,"sports, science, literature"
+4207,13,14,17,47,"science, literature"
+4208,11,14,13,18,"sports, literature"
+4209,13,23,20,13,"sports, science"
+4210,10,12,16,34,"sports, literature"
+4211,12,24,6,48,"sports, science, literature"
+4212,13,22,5,30,sports
+4213,15,29,18,33,science
+4214,14,23,18,12,sports
+4215,11,19,20,45,science
+4216,14,11,6,44,sports
+4217,15,24,11,15,"sports, literature"
+4218,15,14,14,24,"sports, literature"
+4219,13,20,7,28,literature
+4220,14,18,17,43,science
+4221,13,16,5,20,science
+4222,13,23,13,50,literature
+4223,13,30,7,11,literature
+4224,14,14,18,35,"science, literature"
+4225,11,16,11,39,"science, literature"
+4226,12,28,10,21,literature
+4227,15,26,13,32,"science, literature"
+4228,13,19,14,32,sports
+4229,13,22,10,43,"sports, literature"
+4230,10,25,9,30,"sports, science, literature"
+4231,12,16,20,48,"sports, science, literature"
+4232,13,15,15,28,sports
+4233,15,22,11,11,"sports, science"
+4234,15,22,11,41,science
+4235,11,28,11,39,"sports, science, literature"
+4236,15,11,9,43,"sports, literature"
+4237,14,18,11,37,science
+4238,13,23,9,25,literature
+4239,13,19,15,33,"science, literature"
+4240,15,11,6,31,"sports, science, literature"
+4241,13,20,17,17,science
+4242,11,15,16,16,science
+4243,11,29,14,48,science
+4244,10,19,8,24,literature
+4245,12,17,14,42,literature
+4246,13,13,16,26,"sports, literature"
+4247,13,28,16,41,"sports, literature"
+4248,14,22,8,40,literature
+4249,14,19,14,23,science
+4250,11,25,14,10,literature
+4251,10,12,14,50,science
+4252,13,24,16,39,science
+4253,10,14,5,36,"science, literature"
+4254,12,28,14,13,"sports, science"
+4255,13,21,19,15,literature
+4256,13,19,14,18,science
+4257,12,20,17,23,"science, literature"
+4258,14,26,5,44,"science, literature"
+4259,10,19,16,50,"science, literature"
+4260,12,28,5,37,literature
+4261,13,10,15,24,"sports, science, literature"
+4262,15,20,20,38,"sports, literature"
+4263,13,10,20,10,sports
+4264,10,21,18,27,"sports, science, literature"
+4265,11,26,19,50,"sports, literature"
+4266,11,20,14,33,"sports, literature"
+4267,11,27,20,43,"science, literature"
+4268,11,12,16,48,literature
+4269,11,10,13,32,sports
+4270,13,22,5,38,literature
+4271,11,11,8,31,"science, literature"
+4272,10,27,16,21,"sports, science, literature"
+4273,13,15,11,17,science
+4274,12,23,16,49,science
+4275,12,17,6,37,science
+4276,15,23,16,48,science
+4277,14,11,14,14,science
+4278,14,10,5,17,sports
+4279,10,27,14,47,sports
+4280,15,11,19,21,sports
+4281,15,13,9,19,science
+4282,10,27,14,40,sports
+4283,11,21,10,42,"sports, science"
+4284,12,27,7,31,literature
+4285,15,28,10,30,"science, literature"
+4286,11,14,5,34,"science, literature"
+4287,10,25,12,39,"sports, science"
+4288,14,18,10,47,"sports, literature"
+4289,14,14,13,31,sports
+4290,12,27,18,38,sports
+4291,14,28,11,26,"science, literature"
+4292,11,18,9,29,literature
+4293,11,15,5,32,science
+4294,10,15,10,20,"sports, science"
+4295,10,29,6,26,literature
+4296,11,27,18,44,"sports, literature"
+4297,10,23,8,21,"sports, science"
+4298,13,16,14,39,science
+4299,11,25,11,20,"sports, science, literature"
+4300,14,17,19,33,"sports, science"
+4301,14,25,7,10,literature
+4302,10,11,19,13,literature
+4303,10,29,18,19,sports
+4304,12,23,17,36,sports
+4305,14,12,19,31,literature
+4306,13,26,18,48,"science, literature"
+4307,10,13,11,15,"science, literature"
+4308,10,10,17,30,"sports, literature"
+4309,14,22,16,41,sports
+4310,15,28,11,42,literature
+4311,14,18,9,50,science
+4312,12,15,19,40,"sports, science"
+4313,12,13,5,22,sports
+4314,15,23,12,36,"sports, literature"
+4315,14,18,19,26,"science, literature"
+4316,14,29,15,34,"science, literature"
+4317,12,27,8,19,sports
+4318,13,12,20,35,science
+4319,14,30,20,38,"sports, science, literature"
+4320,11,15,7,42,"science, literature"
+4321,10,22,10,26,"science, literature"
+4322,15,16,16,40,sports
+4323,13,24,9,36,science
+4324,12,26,9,36,"science, literature"
+4325,12,13,18,44,science
+4326,11,14,12,40,literature
+4327,15,10,17,11,"sports, literature"
+4328,11,20,17,14,"sports, science, literature"
+4329,14,22,13,44,science
+4330,10,17,16,43,science
+4331,10,11,9,28,literature
+4332,10,17,10,41,"sports, science, literature"
+4333,13,22,17,31,sports
+4334,10,26,15,29,sports
+4335,12,19,11,40,sports
+4336,14,20,8,30,"science, literature"
+4337,12,12,19,24,science
+4338,14,24,8,16,sports
+4339,12,17,19,29,"sports, science"
+4340,10,30,9,28,"science, literature"
+4341,14,15,8,15,"sports, literature"
+4342,11,30,9,10,science
+4343,12,30,14,35,literature
+4344,15,19,15,29,"sports, literature"
+4345,13,20,10,28,"science, literature"
+4346,12,15,5,13,"sports, science"
+4347,13,23,18,46,"sports, science"
+4348,12,21,6,20,"sports, science"
+4349,13,23,5,37,science
+4350,10,11,9,36,"sports, science, literature"
+4351,10,21,7,24,literature
+4352,11,13,8,24,"sports, science"
+4353,11,19,10,33,sports
+4354,12,11,18,34,"science, literature"
+4355,11,21,18,12,"sports, science"
+4356,10,21,13,23,science
+4357,14,20,5,18,science
+4358,13,18,20,23,literature
+4359,10,11,16,13,"sports, science"
+4360,12,19,12,49,"sports, literature"
+4361,15,21,5,44,"sports, literature"
+4362,10,14,7,26,sports
+4363,11,17,13,15,"sports, science, literature"
+4364,11,11,6,24,science
+4365,14,23,15,27,"sports, literature"
+4366,11,24,14,47,"sports, science, literature"
+4367,13,28,14,21,literature
+4368,12,30,9,23,sports
+4369,15,20,7,14,sports
+4370,11,15,19,26,science
+4371,11,28,16,32,"sports, science, literature"
+4372,12,19,6,22,sports
+4373,12,12,6,30,science
+4374,13,30,10,12,"sports, literature"
+4375,13,13,14,43,"sports, science, literature"
+4376,10,23,14,42,science
+4377,15,12,5,21,literature
+4378,11,20,13,28,"science, literature"
+4379,12,23,17,15,"sports, science, literature"
+4380,14,12,12,42,"sports, science"
+4381,14,26,15,38,science
+4382,10,21,15,21,"sports, science"
+4383,15,13,14,45,"science, literature"
+4384,11,11,11,45,literature
+4385,12,12,12,23,"sports, literature"
+4386,11,20,16,49,"sports, science"
+4387,14,28,13,40,literature
+4388,11,26,9,31,science
+4389,11,17,12,41,"science, literature"
+4390,14,13,14,49,"sports, science"
+4391,12,17,17,11,"science, literature"
+4392,15,29,8,12,"sports, science, literature"
+4393,10,25,12,28,science
+4394,12,28,11,32,"sports, literature"
+4395,10,18,6,20,"sports, science, literature"
+4396,11,10,5,38,"sports, science, literature"
+4397,14,17,9,14,"sports, science"
+4398,11,10,6,38,"sports, science, literature"
+4399,15,19,13,17,literature
+4400,12,20,8,47,"sports, literature"
+4401,12,20,18,11,"sports, science, literature"
+4402,12,28,16,14,literature
+4403,14,11,19,41,science
+4404,15,13,17,29,science
+4405,10,30,11,19,sports
+4406,11,13,5,20,"sports, literature"
+4407,13,13,5,36,"sports, science"
+4408,12,30,20,14,"sports, science"
+4409,12,19,11,34,"sports, literature"
+4410,12,25,14,29,"sports, literature"
+4411,11,28,10,27,"sports, science, literature"
+4412,12,22,16,46,science
+4413,13,13,9,16,"sports, science"
+4414,12,26,10,48,sports
+4415,11,11,11,32,science
+4416,11,30,13,49,"science, literature"
+4417,14,12,11,50,science
+4418,12,23,8,50,science
+4419,12,22,9,45,"sports, science"
+4420,10,10,13,41,literature
+4421,11,27,15,30,sports
+4422,14,14,8,21,"science, literature"
+4423,14,19,12,11,"sports, science"
+4424,15,19,5,42,"science, literature"
+4425,12,26,14,13,"science, literature"
+4426,15,15,18,36,literature
+4427,11,11,13,20,science
+4428,14,19,10,38,"sports, science, literature"
+4429,11,26,13,37,"sports, science"
+4430,12,19,7,46,sports
+4431,10,13,7,12,"sports, science"
+4432,11,25,11,31,"sports, science"
+4433,14,12,15,22,literature
+4434,11,12,20,23,sports
+4435,15,27,14,50,"sports, science"
+4436,13,13,11,43,"sports, science"
+4437,10,23,5,16,science
+4438,11,12,17,35,"sports, literature"
+4439,10,26,12,17,science
+4440,12,19,15,31,"sports, literature"
+4441,15,14,7,19,"sports, science, literature"
+4442,12,29,13,27,"sports, science, literature"
+4443,10,21,6,28,literature
+4444,15,12,17,18,science
+4445,15,23,16,12,science
+4446,10,21,14,49,literature
+4447,11,13,20,43,literature
+4448,10,19,20,18,sports
+4449,12,15,6,23,"sports, literature"
+4450,13,24,20,10,"sports, literature"
+4451,11,17,11,24,"sports, science"
+4452,15,15,14,12,"sports, science"
+4453,15,28,14,18,literature
+4454,12,21,15,50,science
+4455,13,10,13,27,"sports, science"
+4456,10,12,9,22,"sports, science, literature"
+4457,14,11,20,38,"sports, science"
+4458,13,12,11,25,"science, literature"
+4459,13,14,11,29,"sports, science"
+4460,14,26,10,49,science
+4461,12,27,11,36,sports
+4462,12,20,12,48,"science, literature"
+4463,14,20,12,12,sports
+4464,12,10,5,25,literature
+4465,11,16,14,14,"sports, science"
+4466,12,11,13,17,"science, literature"
+4467,12,22,7,47,"science, literature"
+4468,15,22,6,10,"sports, science"
+4469,12,24,14,14,"sports, science, literature"
+4470,10,13,9,12,literature
+4471,12,19,13,40,"sports, science"
+4472,14,24,13,25,"sports, science"
+4473,14,14,18,49,"sports, literature"
+4474,14,12,11,47,"sports, science"
+4475,14,10,17,19,science
+4476,15,14,20,18,"sports, science, literature"
+4477,11,13,8,49,literature
+4478,10,29,6,47,literature
+4479,12,20,9,10,"science, literature"
+4480,13,18,6,23,"science, literature"
+4481,13,26,9,34,"sports, science, literature"
+4482,10,26,11,32,"sports, literature"
+4483,12,30,10,44,"sports, science, literature"
+4484,11,21,16,49,"sports, literature"
+4485,15,27,13,40,"sports, science"
+4486,11,27,10,34,"sports, science"
+4487,15,18,9,33,"sports, literature"
+4488,13,15,15,47,literature
+4489,11,18,16,30,"sports, science, literature"
+4490,12,24,13,10,"sports, literature"
+4491,11,28,10,50,"science, literature"
+4492,13,14,8,25,"sports, science, literature"
+4493,12,27,19,12,science
+4494,12,10,9,36,science
+4495,13,21,16,33,sports
+4496,10,17,8,17,literature
+4497,12,21,12,20,science
+4498,11,14,6,25,literature
+4499,15,17,7,37,sports
+4500,15,24,5,26,science
+4501,14,12,20,44,literature
+4502,10,20,14,26,"sports, science"
+4503,15,10,17,20,literature
+4504,13,16,12,23,"sports, literature"
+4505,10,23,12,46,sports
+4506,12,10,18,43,"science, literature"
+4507,12,22,14,32,"sports, science"
+4508,11,11,12,22,"sports, science"
+4509,15,24,11,40,"sports, science, literature"
+4510,13,28,6,15,sports
+4511,10,12,20,42,literature
+4512,15,28,5,21,literature
+4513,11,16,20,30,"sports, literature"
+4514,15,22,10,29,sports
+4515,13,27,11,42,"sports, science, literature"
+4516,12,17,17,14,sports
+4517,15,19,18,31,"sports, science, literature"
+4518,12,11,14,20,science
+4519,15,30,20,47,sports
+4520,13,11,20,36,science
+4521,12,28,8,44,"science, literature"
+4522,13,17,13,48,"sports, literature"
+4523,14,25,5,28,science
+4524,11,26,12,39,literature
+4525,14,11,11,43,literature
+4526,13,17,9,25,"science, literature"
+4527,11,18,5,16,science
+4528,10,17,11,13,sports
+4529,15,18,11,37,"sports, science, literature"
+4530,13,18,20,12,"sports, science, literature"
+4531,10,25,5,28,"science, literature"
+4532,14,10,9,11,literature
+4533,15,20,7,16,"sports, science"
+4534,12,15,11,12,literature
+4535,15,28,19,10,science
+4536,13,16,17,28,"sports, literature"
+4537,11,25,10,47,"sports, literature"
+4538,14,29,20,22,science
+4539,14,25,6,30,science
+4540,14,12,11,18,"sports, science, literature"
+4541,14,25,16,26,"sports, literature"
+4542,11,23,18,32,"sports, literature"
+4543,11,26,11,35,science
+4544,12,23,14,46,"sports, literature"
+4545,11,12,18,32,sports
+4546,15,30,10,31,science
+4547,15,10,16,48,"sports, literature"
+4548,14,25,17,43,"sports, science, literature"
+4549,12,30,8,22,"sports, literature"
+4550,14,15,5,42,science
+4551,11,30,9,23,literature
+4552,12,29,15,10,"science, literature"
+4553,14,29,8,23,science
+4554,13,26,6,31,literature
+4555,11,26,9,26,science
+4556,14,19,8,40,sports
+4557,15,14,15,16,"sports, science, literature"
+4558,13,16,16,25,sports
+4559,13,24,17,33,"sports, science"
+4560,15,29,5,42,"sports, science, literature"
+4561,14,18,18,34,science
+4562,15,19,15,50,science
+4563,10,25,7,35,"sports, science"
+4564,14,10,7,10,literature
+4565,11,18,17,17,"sports, literature"
+4566,12,15,12,37,sports
+4567,14,17,14,34,literature
+4568,14,20,8,41,literature
+4569,15,16,11,30,"science, literature"
+4570,11,23,12,21,"sports, literature"
+4571,12,15,6,28,literature
+4572,10,26,13,31,"sports, science, literature"
+4573,15,24,19,25,"sports, literature"
+4574,12,19,13,41,"science, literature"
+4575,15,20,19,26,sports
+4576,12,12,14,34,sports
+4577,13,22,10,37,"sports, literature"
+4578,15,30,8,50,"science, literature"
+4579,15,16,11,46,literature
+4580,13,16,18,11,sports
+4581,12,28,16,13,"sports, science, literature"
+4582,12,27,18,17,literature
+4583,12,21,20,36,science
+4584,14,15,6,17,"sports, literature"
+4585,12,25,15,22,"sports, literature"
+4586,14,27,19,49,science
+4587,15,16,7,39,literature
+4588,12,26,19,26,"sports, literature"
+4589,12,11,19,28,literature
+4590,12,24,18,36,science
+4591,14,22,20,17,sports
+4592,11,19,8,48,"sports, literature"
+4593,11,20,6,34,literature
+4594,13,13,7,40,"sports, science"
+4595,14,16,15,11,"sports, literature"
+4596,14,26,17,47,science
+4597,13,27,10,16,sports
+4598,11,18,10,17,sports
+4599,10,20,20,12,"sports, literature"
+4600,12,26,6,46,sports
+4601,14,25,10,36,"science, literature"
+4602,11,12,19,16,science
+4603,11,27,18,10,science
+4604,11,25,7,35,science
+4605,15,18,18,43,"sports, literature"
+4606,12,25,11,22,science
+4607,11,25,15,37,science
+4608,14,25,8,26,science
+4609,14,16,5,10,"sports, science, literature"
+4610,10,26,13,36,science
+4611,11,20,12,15,"science, literature"
+4612,10,21,10,31,"sports, science"
+4613,10,12,16,27,"sports, literature"
+4614,15,20,6,14,"science, literature"
+4615,10,10,13,30,sports
+4616,11,21,18,18,science
+4617,14,26,20,24,"sports, science, literature"
+4618,10,23,20,39,"sports, literature"
+4619,14,30,10,24,science
+4620,15,18,12,20,"science, literature"
+4621,12,25,13,24,sports
+4622,10,26,16,38,"science, literature"
+4623,14,21,7,37,"sports, literature"
+4624,10,30,7,40,sports
+4625,11,30,9,16,literature
+4626,15,27,20,25,"sports, literature"
+4627,12,16,12,34,science
+4628,10,12,16,40,science
+4629,14,11,6,12,"sports, literature"
+4630,12,26,12,11,science
+4631,15,27,18,25,"science, literature"
+4632,12,11,17,50,"sports, literature"
+4633,15,19,10,22,literature
+4634,11,29,14,33,sports
+4635,10,11,12,26,sports
+4636,10,13,5,39,sports
+4637,11,19,10,25,sports
+4638,14,14,17,19,science
+4639,11,15,6,38,"sports, science, literature"
+4640,14,18,6,18,"sports, science"
+4641,12,26,16,10,science
+4642,13,23,19,13,literature
+4643,12,15,6,13,"sports, literature"
+4644,15,25,10,17,"sports, science, literature"
+4645,15,24,13,45,"science, literature"
+4646,14,15,12,45,sports
+4647,13,20,20,25,"science, literature"
+4648,10,26,7,37,science
+4649,14,29,18,21,science
+4650,10,25,13,10,science
+4651,10,18,10,20,"science, literature"
+4652,10,30,10,20,"science, literature"
+4653,11,24,6,10,"science, literature"
+4654,14,18,18,42,"science, literature"
+4655,11,13,10,43,"sports, science, literature"
+4656,12,13,10,47,science
+4657,12,24,13,21,"sports, science"
+4658,14,23,6,22,"sports, science, literature"
+4659,14,10,18,46,sports
+4660,10,21,9,42,science
+4661,14,29,18,49,"science, literature"
+4662,15,10,6,36,literature
+4663,11,23,19,15,"science, literature"
+4664,12,24,11,50,"science, literature"
+4665,10,11,5,40,"science, literature"
+4666,10,12,8,39,"science, literature"
+4667,15,16,18,16,science
+4668,10,12,17,20,literature
+4669,11,17,17,14,"sports, science"
+4670,10,22,18,49,"sports, literature"
+4671,15,11,15,10,"sports, science"
+4672,12,13,18,22,"sports, science, literature"
+4673,11,10,11,40,"sports, science, literature"
+4674,15,28,15,10,"sports, literature"
+4675,13,25,6,34,science
+4676,13,22,5,46,"sports, science, literature"
+4677,13,14,14,41,science
+4678,10,13,18,31,"science, literature"
+4679,14,22,11,47,sports
+4680,13,22,18,30,"sports, literature"
+4681,14,14,9,23,sports
+4682,12,19,18,31,literature
+4683,12,27,20,37,"sports, science, literature"
+4684,15,21,20,39,"sports, literature"
+4685,15,18,7,36,science
+4686,12,10,14,29,sports
+4687,15,15,8,36,sports
+4688,15,24,7,40,"science, literature"
+4689,10,23,20,31,"sports, science, literature"
+4690,15,19,11,22,science
+4691,10,19,5,26,science
+4692,14,14,10,15,literature
+4693,14,28,9,18,sports
+4694,12,20,11,19,sports
+4695,11,16,13,28,"science, literature"
+4696,11,14,16,12,"sports, literature"
+4697,11,20,12,26,sports
+4698,14,18,6,34,science
+4699,12,10,10,44,science
+4700,11,22,16,30,science
+4701,10,20,10,35,sports
+4702,14,14,9,19,sports
+4703,14,27,13,21,science
+4704,12,15,16,13,sports
+4705,12,27,6,33,"science, literature"
+4706,12,19,20,15,"sports, science, literature"
+4707,11,30,18,33,literature
+4708,15,19,7,18,sports
+4709,13,29,15,16,literature
+4710,11,12,15,16,"sports, science"
+4711,10,16,14,33,"sports, science, literature"
+4712,14,26,9,10,"science, literature"
+4713,14,19,19,25,"sports, science, literature"
+4714,13,30,15,31,sports
+4715,14,28,16,33,literature
+4716,13,29,14,33,science
+4717,15,11,13,25,"sports, science, literature"
+4718,10,12,11,15,sports
+4719,15,13,12,45,"sports, science, literature"
+4720,13,28,16,30,"sports, literature"
+4721,12,15,12,18,sports
+4722,12,30,6,47,literature
+4723,12,11,17,38,science
+4724,13,17,13,10,"science, literature"
+4725,11,25,12,16,"sports, science"
+4726,10,12,8,41,literature
+4727,11,11,7,19,sports
+4728,12,18,9,20,science
+4729,11,22,14,47,"sports, literature"
+4730,15,21,15,41,"sports, literature"
+4731,10,19,5,18,sports
+4732,11,24,9,25,science
+4733,13,24,7,32,science
+4734,10,11,14,32,"sports, science"
+4735,14,28,15,16,"science, literature"
+4736,11,14,16,16,literature
+4737,11,27,5,44,sports
+4738,12,24,18,10,sports
+4739,10,29,5,46,"science, literature"
+4740,13,24,11,40,"sports, literature"
+4741,13,30,18,15,sports
+4742,14,24,6,36,"sports, literature"
+4743,14,25,9,22,sports
+4744,10,18,17,19,sports
+4745,13,24,6,44,"sports, science"
+4746,11,10,14,13,science
+4747,13,11,16,23,science
+4748,13,17,8,43,"science, literature"
+4749,12,25,13,19,science
+4750,10,29,18,48,"sports, science"
+4751,12,19,5,27,"sports, literature"
+4752,10,19,10,16,science
+4753,13,27,13,41,"sports, science, literature"
+4754,13,12,19,11,"sports, science"
+4755,12,29,7,49,"sports, science"
+4756,14,18,9,38,"sports, science"
+4757,14,20,13,47,"science, literature"
+4758,13,21,8,16,literature
+4759,12,25,17,33,"sports, literature"
+4760,14,10,6,31,science
+4761,14,23,19,21,science
+4762,12,28,19,19,science
+4763,12,19,10,33,"science, literature"
+4764,10,20,13,35,sports
+4765,13,24,17,15,literature
+4766,12,15,19,36,science
+4767,15,19,13,35,"sports, science"
+4768,14,20,18,30,"sports, science, literature"
+4769,10,19,7,14,sports
+4770,13,10,16,21,science
+4771,12,21,7,31,"science, literature"
+4772,10,17,13,29,literature
+4773,11,24,18,19,"sports, science, literature"
+4774,12,14,5,27,sports
+4775,10,12,15,38,science
+4776,13,10,7,32,sports
+4777,10,15,10,22,"sports, science, literature"
+4778,11,15,6,36,"sports, science, literature"
+4779,15,10,19,44,"sports, science, literature"
+4780,15,18,15,21,science
+4781,10,18,16,29,sports
+4782,14,12,19,14,"sports, science"
+4783,14,23,10,29,"sports, literature"
+4784,13,26,8,15,literature
+4785,10,12,9,37,science
+4786,14,15,13,39,science
+4787,15,27,9,46,sports
+4788,13,14,12,29,"science, literature"
+4789,10,19,16,34,literature
+4790,12,10,5,47,sports
+4791,12,10,20,25,"sports, literature"
+4792,10,25,19,43,science
+4793,12,24,10,33,"sports, science, literature"
+4794,12,15,11,32,science
+4795,12,16,15,26,"sports, science, literature"
+4796,13,14,20,16,science
+4797,15,14,7,20,literature
+4798,10,16,6,23,"science, literature"
+4799,15,18,6,28,"sports, science"
+4800,13,14,13,11,literature
+4801,12,11,17,23,"sports, science"
+4802,13,20,6,18,"sports, literature"
+4803,11,13,5,11,"sports, science, literature"
+4804,12,12,14,27,"sports, science, literature"
+4805,10,21,13,15,"sports, science, literature"
+4806,14,10,8,36,sports
+4807,13,30,13,22,literature
+4808,14,18,10,26,literature
+4809,15,24,16,45,"sports, science, literature"
+4810,13,27,6,41,science
+4811,10,13,5,33,"sports, science, literature"
+4812,11,17,7,31,literature
+4813,10,25,17,16,literature
+4814,13,16,19,24,science
+4815,13,18,10,26,"sports, science"
+4816,15,11,20,31,literature
+4817,11,19,14,14,sports
+4818,11,20,13,22,sports
+4819,14,30,14,31,"science, literature"
+4820,11,25,8,14,"sports, science"
+4821,15,16,11,35,"sports, literature"
+4822,13,11,13,39,"sports, science"
+4823,15,10,13,28,science
+4824,10,20,13,37,"sports, literature"
+4825,15,18,8,30,"sports, science"
+4826,10,14,10,20,"sports, science"
+4827,11,17,8,14,literature
+4828,14,20,17,32,"sports, literature"
+4829,12,29,12,35,"sports, science"
+4830,15,11,5,30,sports
+4831,13,17,11,11,sports
+4832,15,29,10,26,"sports, literature"
+4833,15,28,13,34,literature
+4834,13,27,13,22,science
+4835,13,11,11,17,"sports, science"
+4836,14,16,5,33,"sports, science"
+4837,14,28,5,45,"sports, science"
+4838,11,17,7,32,literature
+4839,12,30,10,18,"sports, science"
+4840,11,12,18,30,literature
+4841,12,14,14,28,sports
+4842,15,30,16,16,"sports, science"
+4843,14,27,14,16,literature
+4844,10,19,8,17,"sports, science, literature"
+4845,11,23,18,46,"sports, science"
+4846,14,12,7,25,science
+4847,12,26,10,21,science
+4848,15,14,12,30,"science, literature"
+4849,12,23,6,27,literature
+4850,13,16,15,40,"sports, science"
+4851,13,18,20,42,"sports, literature"
+4852,12,21,18,16,science
+4853,10,11,16,21,"sports, science, literature"
+4854,11,15,5,30,science
+4855,15,22,8,35,"sports, science, literature"
+4856,12,18,16,41,literature
+4857,13,10,18,34,"sports, literature"
+4858,10,15,6,34,sports
+4859,10,17,12,16,"sports, literature"
+4860,12,28,7,13,"sports, science, literature"
+4861,11,12,14,11,science
+4862,14,24,6,32,science
+4863,12,18,7,21,"sports, literature"
+4864,11,12,7,48,literature
+4865,12,16,13,45,sports
+4866,14,17,17,22,sports
+4867,11,22,9,42,"science, literature"
+4868,10,14,14,12,science
+4869,10,13,13,41,sports
+4870,12,24,19,13,science
+4871,15,16,16,41,sports
+4872,12,27,13,12,science
+4873,14,17,14,29,literature
+4874,12,11,10,10,"sports, science"
+4875,10,14,13,12,science
+4876,15,26,9,26,science
+4877,14,19,15,49,science
+4878,10,12,9,13,"sports, literature"
+4879,15,12,8,27,"sports, science, literature"
+4880,12,16,20,45,sports
+4881,14,24,13,29,"sports, science, literature"
+4882,10,11,17,16,literature
+4883,13,17,17,42,"sports, science"
+4884,15,10,8,46,"science, literature"
+4885,13,25,10,37,literature
+4886,12,29,17,37,"sports, literature"
+4887,12,20,18,14,"sports, literature"
+4888,14,11,19,49,sports
+4889,11,19,5,24,"sports, literature"
+4890,11,20,14,22,sports
+4891,12,20,9,32,sports
+4892,13,29,16,37,"science, literature"
+4893,14,29,13,22,science
+4894,10,10,5,44,"sports, science"
+4895,14,24,9,48,"sports, science, literature"
+4896,12,21,8,48,science
+4897,11,19,17,10,"sports, science, literature"
+4898,11,28,9,29,sports
+4899,15,28,16,11,science
+4900,14,11,7,33,science
+4901,10,23,17,17,"sports, science"
+4902,12,18,5,41,sports
+4903,11,12,6,43,science
+4904,15,13,17,27,"science, literature"
+4905,10,24,20,38,"sports, literature"
+4906,14,29,18,27,"science, literature"
+4907,13,11,10,34,sports
+4908,15,11,7,30,"sports, science"
+4909,14,11,11,32,sports
+4910,12,18,15,31,sports
+4911,14,16,20,28,literature
+4912,15,13,15,12,literature
+4913,13,15,8,22,"sports, literature"
+4914,15,21,14,39,"science, literature"
+4915,12,18,12,41,"sports, science, literature"
+4916,14,19,9,24,literature
+4917,14,16,11,42,"sports, science"
+4918,10,22,13,37,sports
+4919,15,22,16,24,sports
+4920,14,11,13,32,science
+4921,11,10,5,45,"sports, science"
+4922,15,20,11,43,"science, literature"
+4923,10,13,5,17,"science, literature"
+4924,15,28,12,24,"sports, literature"
+4925,13,24,8,48,science
+4926,13,28,5,30,"science, literature"
+4927,15,18,12,16,"sports, literature"
+4928,14,29,16,17,"sports, literature"
+4929,10,12,5,23,literature
+4930,10,29,20,49,sports
+4931,12,23,17,38,"science, literature"
+4932,14,22,18,12,science
+4933,12,26,17,14,sports
+4934,15,22,5,45,literature
+4935,14,18,15,44,"sports, science"
+4936,10,26,16,44,"sports, science"
+4937,15,12,20,27,"sports, science"
+4938,11,16,5,20,literature
+4939,11,15,8,14,"sports, science"
+4940,15,28,11,14,science
+4941,13,22,12,25,literature
+4942,14,11,20,29,science
+4943,12,22,13,15,literature
+4944,13,16,20,17,science
+4945,12,23,5,20,science
+4946,13,25,16,42,science
+4947,15,27,17,12,"science, literature"
+4948,14,27,17,33,"science, literature"
+4949,12,14,14,46,science
+4950,15,19,18,36,science
+4951,15,30,18,43,literature
+4952,13,15,11,32,"sports, science"
+4953,12,11,16,30,"science, literature"
+4954,15,22,20,37,literature
+4955,15,22,6,49,"sports, science"
+4956,15,17,19,43,sports
+4957,10,23,13,28,"sports, science, literature"
+4958,10,13,17,35,literature
+4959,15,30,10,11,literature
+4960,10,11,14,39,"sports, science"
+4961,10,18,14,46,"sports, literature"
+4962,10,30,18,34,literature
+4963,12,20,6,49,"sports, literature"
+4964,14,14,14,33,literature
+4965,12,17,12,18,sports
+4966,13,10,7,37,"science, literature"
+4967,12,30,11,36,"sports, science"
+4968,14,25,15,33,"sports, science, literature"
+4969,14,11,16,45,"sports, literature"
+4970,10,20,13,17,science
+4971,15,22,20,28,"science, literature"
+4972,10,17,20,18,science
+4973,11,30,19,26,"science, literature"
+4974,14,20,10,11,science
+4975,11,15,13,10,"science, literature"
+4976,15,25,17,27,"sports, science"
+4977,11,10,7,48,"sports, science"
+4978,15,30,11,17,"sports, literature"
+4979,14,20,10,25,literature
+4980,13,14,9,19,literature
+4981,15,30,16,12,"sports, science"
+4982,12,28,19,29,sports
+4983,13,30,8,23,science
+4984,11,13,11,31,"sports, science"
+4985,14,27,15,10,sports
+4986,14,30,14,17,literature
+4987,14,13,12,37,"sports, literature"
+4988,14,22,10,21,"sports, literature"
+4989,12,25,15,44,literature
+4990,13,21,11,25,science
+4991,14,22,5,47,"science, literature"
+4992,14,30,11,43,science
+4993,10,22,12,33,"science, literature"
+4994,11,18,16,42,science
+4995,12,13,5,20,sports
+4996,10,22,12,30,sports
+4997,13,23,16,10,literature
+4998,13,27,19,16,"sports, literature"
+4999,11,25,16,14,"sports, science, literature"
+5000,11,29,10,18,literature
+,12,17,7,44,"sports, science, literature"
+,14,20,18,44,"sports, literature"
