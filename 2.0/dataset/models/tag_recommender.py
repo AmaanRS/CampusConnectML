@@ -1,12 +1,11 @@
-# Trying to make a .pkl file of countvectorizer
-
 # Write code for recommending based on tags
 # Current tags are sports,literature,science
+import os
 import joblib
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 class TagRecommender:
     def __init__(self, committees_df):
@@ -51,13 +50,9 @@ class TagRecommender:
         return recommendations
 
 
-# user_tags = "science literature"
-    
-# # Get recommendations based on tag similarity
-# recommendations = recommend_committees(user_tags, df)
+file_path = os.path.join(base_dir, "../linear_df.csv")
 
-# print(recommendations[["committee_id", "tags", "similarity_score"]])
-data = pd.read_csv('2.0/dataset/linear_df.csv')
+data = pd.read_csv(file_path)
 
 df = pd.DataFrame(data)
 
@@ -65,4 +60,4 @@ df = pd.DataFrame(data)
 recommender = TagRecommender(df)
 
 # Save the recommender instance to a .pkl file.
-joblib.dump(recommender, "2.0/dataset/models/tag_recommender.pkl")
+joblib.dump(recommender, os.path.join(base_dir, "tag_recommender.pkl"))

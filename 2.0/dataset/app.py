@@ -9,6 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 from models.tag_recommender import TagRecommender
 
 load_dotenv()
+base_dir = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__)
 
 db_url = os.getenv("MONGODB_URL")
@@ -30,21 +31,25 @@ def cleanData():
 
     df = df[['committeeId', 'no_of_posts', 'followers','tags']]
 
-    df.to_csv("2.0/dataset/formatted_committee_data.csv")
+    df.to_csv(os.path.join(base_dir, "formatted_committee_data.csv"))
 
 cleanData()
 
 # Load trained model
-model1 = joblib.load("2.0/dataset/models/final_model.pkl")
-model2 = joblib.load("2.0/dataset/models/tag_recommender.pkl")
+model1 = joblib.load(os.path.join(base_dir, "models/final_model.pkl"))
+model2 = joblib.load(os.path.join(base_dir, "models/tag_recommender.pkl"))
 
 
-@app.route('/predict_rankings', methods=['GET'])
+@app.route('/predict_rankings', methods=['POST'])
 def predict_rankings():
 
-    user_tags = request.args.get("tags", "")
+    data = request.get_json()
 
-    df = pd.read_csv("2.0/dataset/formatted_committee_data.csv")
+    user_tags = data.get("tags", "")
+
+    print(user_tags)
+
+    df = pd.read_csv(os.path.join(base_dir, "formatted_committee_data.csv"))
     
     feature_cols = ['no_of_posts','followers']
     
@@ -54,9 +59,9 @@ def predict_rankings():
 
     df["predicted_score"] = model1.predict(X)
 
-    df.to_csv("2.0/dataset/linear_df.csv")
+    df.to_csv(os.path.join(base_dir, "linear_df.csv"))
 
-    recommendations_df = model2.recommend('science')[["committee_id","similarity_score"]]
+    recommendations_df = model2.recommend(user_tags)[["committee_id","similarity_score"]]
 
     df = df.merge(recommendations_df, on="committee_id", how="left")
 
