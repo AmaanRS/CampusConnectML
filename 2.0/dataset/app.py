@@ -45,9 +45,9 @@ def predict_rankings():
 
     data = request.get_json()
 
-    user_tags = data.get("tags", "")
+    tags_input = data.get("tags", "")
 
-    print(user_tags)
+    user_tags = " ".join(tags_input)
 
     df = pd.read_csv(os.path.join(base_dir, "formatted_committee_data.csv"))
     
