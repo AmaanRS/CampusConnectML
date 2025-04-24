@@ -37,8 +37,6 @@ cleanData()
 
 # Load trained model
 model1 = joblib.load(os.path.join(base_dir, "models/final_model.pkl"))
-model2 = joblib.load(os.path.join(base_dir, "models/tag_recommender.pkl"))
-
 
 @app.route('/predict_rankings', methods=['POST'])
 def predict_rankings():
@@ -61,7 +59,9 @@ def predict_rankings():
 
     df.to_csv(os.path.join(base_dir, "linear_df.csv"))
 
-    recommendations_df = model2.recommend(user_tags)[["committee_id","similarity_score"]]
+    recommender = TagRecommender(df)
+    
+    recommendations_df = recommender.recommend(user_tags)[["committee_id","similarity_score"]]
 
     df = df.merge(recommendations_df, on="committee_id", how="left")
 

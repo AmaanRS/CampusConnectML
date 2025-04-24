@@ -1,11 +1,8 @@
 # Write code for recommending based on tags
 # Current tags are sports,literature,science
-import os
-import joblib
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-base_dir = os.path.dirname(os.path.abspath(__file__))
 
 class TagRecommender:
     def __init__(self, committees_df):
@@ -48,16 +45,3 @@ class TagRecommender:
         # Sort the DataFrame by similarity score in descending order.
         recommendations = recommendations.sort_values("similarity_score", ascending=False)
         return recommendations
-
-
-file_path = os.path.join(base_dir, "../linear_df.csv")
-
-data = pd.read_csv(file_path)
-
-df = pd.DataFrame(data)
-
-# Create an instance of the TagRecommender.
-recommender = TagRecommender(df)
-
-# Save the recommender instance to a .pkl file.
-joblib.dump(recommender, os.path.join(base_dir, "tag_recommender.pkl"))

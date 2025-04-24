@@ -1,7 +1,9 @@
 ,Unnamed: 0,committee_id,no_of_posts,followers,tags,predicted_score
-0,0,COcj2bg,2,7,literature science,7.386085667908351
-1,1,COblod0,2,6,literature,7.035910703627901
-2,2,CO2ie8g,2,6,sports,7.035910703627901
-3,3,COig5fj,2,6,science literature,7.035910703627901
-4,4,COjld53,2,5,science,6.685735739347452
-5,5,COj664k,3,5,science,6.987853510155235
+0,0,COblod0,2,6,literature,7.035910703627901
+1,1,CO2ie8g,2,6,sports,7.035910703627901
+2,2,COig5fj,2,7,science literature,7.386085667908351
+3,3,COjld53,2,5,science,6.685735739347452
+4,4,COcj2bg,3,7,literature science,7.688203438716134
+5,5,COma231,0,1,science,4.6808003406100855
+6,6,COj664k,3,5,science,6.987853510155235
+7,7,COmbjk6,0,0,science,4.330625376329635
